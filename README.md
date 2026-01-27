@@ -1,6 +1,6 @@
 # ***`US Sales Analytics Dashboard (2019–2024)`***
 
-**`Power BI project analyzing six years of U.S. sales data** to generate actionable business insights through interactive dashboards, KPIs, and advanced metrics.`**
+**Power BI project analyzing six years of U.S. sales data** to generate actionable business insights through interactive dashboards, KPIs, and advanced metrics.
 
 ---
 
