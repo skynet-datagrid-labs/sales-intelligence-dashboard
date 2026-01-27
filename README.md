@@ -1,7 +1,37 @@
-# **`US Sales Analytics Dashboard (2019–2024)`**
+# ***`US Sales Analytics Dashboard (2019–2024)`***
 
-This project presents an end-to-end business intelligence solution built in Power BI to analyze U.S. sales data from 2019 to 2024. The dashboard enables stakeholders to explore revenue trends, product performance, customer segments, and regional sales dynamics through interactive visualizations and calculated KPIs.
+**`Power BI project analyzing six years of U.S. sales data** to generate actionable business insights through interactive dashboards, KPIs, and advanced metrics.`**
 
-The workflow includes data cleaning and transformation using Power Query, creation of a star-schema data model, and development of DAX measures for core metrics such as total revenue, year-over-year growth, profit margin, average order value, and top-performing categories. Filters and slicers allow dynamic exploration across time periods, states, and product groups.
+---
 
-The final dashboard is designed for executive-level decision support, highlighting growth drivers, underperforming regions, seasonal effects, and customer purchasing behavior.
+## **`Project Overview`**
+
+This repository contains a comprehensive **business intelligence solution** built in **Power BI**, designed to transform raw transactional sales data (2019–2024) into **data-driven insights** for decision-making.
+
+Key features include:
+
+- **Data Cleaning & Transformation:** Using **Power Query** to preprocess datasets for analysis.  
+- **Data Modeling:** Implemented a **star-schema model** for optimized performance and analytics.  
+- **Metrics & KPIs:** Developed **DAX measures** for:
+  - Total Revenue  
+  - Year-over-Year (YoY) Growth  
+  - Profit Margin  
+  - Average Order Value  
+  - Top-performing Product Categories  
+- **Interactive Visualizations:** Dashboards include slicers, drill-throughs, trend analysis, and regional performance maps.  
+- **Business Insights:** Identified high-growth states, seasonal trends, and top-selling products to guide strategic decisions.  
+
+---
+
+## **`Tools & Technologies`**
+
+- **Power BI Desktop**  
+- **Power Query** (Data Cleaning & Transformation)  
+- **DAX** (KPI & Metric Calculations)  
+- **Excel / CSV Datasets**  
+- **Data Modeling** (Star Schema Design)
+
+---
+
+
+
