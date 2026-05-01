@@ -1,4 +1,4 @@
-# 🇺🇸 US Sales Analytics Dashboard (2019–2024)
+# `**🇺🇸 US Sales Analytics Dashboard (2019–2024)**`
 
 **Turn 6 years of raw sales data into strategic business decisions** – an interactive Power BI dashboard with real-time KPIs, regional insights, and year-over-year growth tracking.
 
@@ -8,23 +8,23 @@
 
 ---
 
-## 🎥 Live Demo
+##  `**Live Demo**`
 
 ![US Sales Analytics Dashboard Demo](assets/sales.gif)
 
 *Watch the dashboard in action – filters, drill-downs, and real-time KPIs*
 
-> 🔗 **Prefer a live interactive version?** [Click here to publish to Power BI Service](#) *(add your published link)*
+>  **Prefer a live interactive version?** [Click here to publish to Power BI Service](#) *(add your published link)*
 
 ---
 
-## 🎯 Why I built this
+##  Why I built this
 
 Raw CSV files don't tell stories. I built this dashboard to give business stakeholders a **single source of truth** – from high-level revenue trends down to which state sold the most electronics in Q3.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | What it does |
 |---------|----------------|
@@ -36,7 +36,7 @@ Raw CSV files don't tell stories. I built this dashboard to give business stakeh
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Power BI Desktop** – Visualization & dashboarding  
 - **Power Query (M)** – Data cleaning & transformation  
@@ -45,7 +45,7 @@ Raw CSV files don't tell stories. I built this dashboard to give business stakeh
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Source:** Simulated US sales transactions (2019–2024)  
 - **Rows:** ~250K+  
@@ -54,16 +54,16 @@ Raw CSV files don't tell stories. I built this dashboard to give business stakeh
 
 ---
 
-## 📈 Key Insights Delivered
+##  Key Insights Delivered
 
-- 📍 **Top 3 states by revenue:** California, Texas, Florida  
-- 📉 **Lowest profit margin category:** Office Supplies (8.2%)  
-- 🔥 **Fastest-growing quarter:** Q4 2023 (holiday spike +22% YoY)  
-- 💡 **Actionable recommendation:** Increase marketing spend in Northeast region during March (pre-spring slump)
+-  **Top 3 states by revenue:** California, Texas, Florida  
+-  **Lowest profit margin category:** Office Supplies (8.2%)  
+-  **Fastest-growing quarter:** Q4 2023 (holiday spike +22% YoY)  
+-  **Actionable recommendation:** Increase marketing spend in Northeast region during March (pre-spring slump)
 
 ---
 
-## 🧠 What I learned / Challenges I solved
+## What I learned / Challenges I solved
 
 - **Challenge:** Inconsistent date formats across 6 years of CSVs.  
   **Solution:** Used Power Query to uniformly parse dates before loading.  
@@ -73,7 +73,7 @@ Raw CSV files don't tell stories. I built this dashboard to give business stakeh
 
 ---
 
-## 🚀 How to use this repo
+##  How to use this repo
 
 1. **Download** `Sales_Dashboard.pbix` (Power BI file)  
 2. **Open** in Power BI Desktop (free)  
@@ -85,4 +85,3 @@ Raw CSV files don't tell stories. I built this dashboard to give business stakeh
 ---
 
 
-## 📁 Repository Structure
