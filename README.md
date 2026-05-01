@@ -8,9 +8,9 @@
 
 ---
 
-##  `**Live Demo**`
+##  **`Live Demo`**
 
-![US Sales Analytics Dashboard Demo](assets/sales.gif)
+![US Sales Analytics Dashboard Demo](assets/salez.gif)
 
 *Watch the dashboard in action – filters, drill-downs, and real-time KPIs*
 
