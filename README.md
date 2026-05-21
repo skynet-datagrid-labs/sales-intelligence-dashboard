@@ -16,7 +16,7 @@
 
 ## **`Live Demo- Using Tableau`**
 
-![US Sales Analytics Dashboard Demo-Using Tableau](assets/UsingTableau.gif)
+![US Sales Analytics Dashboard Demo-Using Tableau](assets/Usingtableau2.gif)
 
 *Watch the dashboard in action – filters, drill-downs, and real-time KPIs*
 
