@@ -1,4 +1,6 @@
-# **`US Sales Analytics Dashboard (2019–2024)`**
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="US Sales Analytics Dashboard">
+</p>
 
 **Turn 6 years of raw sales data into strategic business decisions** – an interactive Power BI dashboard with real-time KPIs, regional insights, and year-over-year growth tracking.
 
