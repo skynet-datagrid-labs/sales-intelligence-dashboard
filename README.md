@@ -8,9 +8,11 @@
 
 ---
 
-##  **`Live Demo`**
+##  **`Live Demo- Using PowerBI`**
 
-![US Sales Analytics Dashboard Demo](assets/salez.gif)
+![US Sales Analytics Dashboard Demo-Using PowerBi](assets/salez.gif)
+##  **`Live Demo- Using Tableau`**
+![US Sales Analytics Dashboard Demo-Using Tableau](assets/UsingTableau.gif)
 
 *Watch the dashboard in action – filters, drill-downs, and real-time KPIs*
 
