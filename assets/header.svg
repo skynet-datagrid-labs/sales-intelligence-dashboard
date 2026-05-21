@@ -1,0 +1,39 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;500&display=swap');
+
+    .title {
+      font-family: 'Roboto Mono', monospace;
+      font-size: 52px;
+      font-weight: 300;
+      fill: #f5f5f5;
+      letter-spacing: 2px;
+    }
+
+    .subtitle {
+      font-family: 'Roboto Mono', monospace;
+      font-size: 20px;
+      font-weight: 300;
+      fill: #bdbdbd;
+      letter-spacing: 1px;
+    }
+
+    .accent {
+      fill: #F2C811;
+    }
+  </style>
+
+  <rect width="1200" height="320" fill="#0d1117"/>
+
+  <circle cx="140" cy="160" r="60" class="accent" opacity="0.9"/>
+
+  <text x="240" y="145" class="title">
+    US Sales Analytics Dashboard
+  </text>
+
+  <text x="240" y="195" class="subtitle">
+    Power BI • Tableau • DAX • 2019–2024
+  </text>
+
+  <rect x="240" y="220" width="320" height="2" class="accent"/>
+</svg>
