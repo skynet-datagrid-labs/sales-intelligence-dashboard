@@ -15,7 +15,7 @@ A production-grade business intelligence asset synthesizing six years of raw tra
 
 ## Interactive Demonstrations
 
-| Platform | Asset Description |
+| Platform | Asset Live View |
 |----------|--------------------|
 | Power BI | ![Power BI Interactive Demo](assets/salez.gif) |
 | Tableau | ![Tableau Interactive Demo](assets/Usingtableau2.gif) |
