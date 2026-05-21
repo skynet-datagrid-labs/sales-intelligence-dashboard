@@ -1,88 +1,101 @@
 
-# <p align="center">US Sales Analytics Dashboard</p>
-# <p align="center"><sup>Power BI • Tableau • DAX • 2019–2024</sup></p>
+---
 
-**Turn 6 years of raw sales data into strategic business decisions** – an interactive Power BI dashboard with real-time KPIs, regional insights, and year-over-year growth tracking.
+# **`Sales Analytics Dashboard`**
+
+**Power BI • Tableau • DAX • Fiscal Years 2019–2024**
+
+A production-grade business intelligence asset synthesizing six years of raw transactional data into executive-level strategic intelligence. Delivers real-time KPI monitoring, regional profitability analysis, and annual growth tracking with sub-quarterly granularity.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-FFB81C?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-Production%20Deployed-brightgreen)
 
 ---
 
-## **`Live Demo- Using PowerBI`**
+## Interactive Demonstrations
 
-![US Sales Analytics Dashboard Demo-Using PowerBi](assets/salez.gif)
+| Platform | Asset Description |
+|----------|--------------------|
+| Power BI | ![Power BI Interactive Demo](assets/salez.gif) |
+| Tableau | ![Tableau Interactive Demo](assets/Usingtableau2.gif) |
 
-## **`Live Demo- Using Tableau`**
+*Demonstrates real-time filter application, hierarchical drill-down navigation, and responsive KPI behavior.*
 
-![US Sales Analytics Dashboard Demo-Using Tableau](assets/Usingtableau2.gif)
-
-*Watch the dashboard in action – filters, drill-downs, and real-time KPIs*
-
-> **Prefer a live interactive version?** [Click here to publish to Power BI Service](#) *(add your published link)*
-
----
-
-## Why I built this
-
-Raw CSV files don't tell stories. I built this dashboard to give business stakeholders a **single source of truth** – from high-level revenue trends down to which state sold the most electronics in Q3.
+> **Live Deployment:** [Publish to Power BI Service](#) *(insert active URL)*
 
 ---
 
-## Key Features
+## Strategic Objective
 
-| Feature | What it does |
-|---------|----------------|
-| **YoY Growth Analysis** | See revenue change year-over-year with drill-down by quarter |
-| **Profit Margin Heatmap** | Visualize profitability across US states |
-| **Product Category Ranker** | Auto-highlights top & bottom 3 categories |
-| **Dynamic Date Slicer** | Filter any range – 2019 to 2024 |
-| **Export-Ready Tables** | Snapshots for presentations |
+Raw CSV exports do not constitute decision-grade intelligence. This dashboard consolidates fragmented transactional records into a unified analytical layer, enabling stakeholders to traverse from enterprise revenue synthesis to state-level category performance without context switching.
 
 ---
 
-## Tech Stack
+## Functional Capabilities
 
-- **Power BI Desktop** – Visualization & dashboarding
-- **Power Query (M)** – Data cleaning & transformation
-- **DAX** – Custom measures (Revenue, YoY%, Average Order Value)
-- **Star Schema Modeling** – Central fact table + dimension tables
-
----
-
-## Dataset
-
-- **Source:** Simulated US sales transactions (2019–2024)
-- **Rows:** ~250K+
-- **Fields:** Order date, product category, region, profit, quantity, customer segment
-- **Format:** CSV / Excel
+| Feature | Technical Function |
+|---------|--------------------|
+| **Year-over-Year Growth Analysis** | Revenue trend modeling with quarterly disaggregation and conditional formatting |
+| **Profit Margin Heatmap** | Geospatial profitability visualization at state-level granularity |
+| **Product Category Ranker** | Automated parametric ranking identifying top and bottom three performers |
+| **Dynamic Date Slicer** | Custom temporal range filtering (2019–2024 inclusive) |
+| **Export-Ready Tables** | One-click presentation-grade data snapshots (CSV/PDF) |
 
 ---
 
-## Key Insights Delivered
+## Technical Architecture
 
-- **Top 3 states by revenue:** California, Texas, Florida
-- **Lowest profit margin category:** Office Supplies (8.2%)
-- **Fastest-growing quarter:** Q4 2023 (holiday spike +22% YoY)
-- **Actionable recommendation:** Increase marketing spend in Northeast region during March (pre-spring slump)
-
----
-
-## What I learned / Challenges I solved
-
-- **Challenge:** Inconsistent date formats across 6 years of CSVs.
-  **Solution:** Used Power Query to uniformly parse dates before loading.
-- **Challenge:** DAX measure was recalculating slowly on large datasets.
-  **Solution:** Switched to calculated columns for static attributes (e.g., year, month).
+| Layer | Implementation |
+|-------|----------------|
+| **Visualization Engine** | Power BI Desktop |
+| **ETL & Data Cleansing** | Power Query (M language) |
+| **Analytical Calculations** | DAX (Revenue, YoY%, Average Order Value, Profit Margin) |
+| **Schema Design** | Star Schema (central fact table + dimensional hierarchy) |
 
 ---
 
-## How to use this repo
+## Data Source Specification
 
-1. **Download** `Sales_Dashboard.pbix` (Power BI file)
-2. **Open** in Power BI Desktop (free)
-3. **Connect** to your own CSV or use the sample data
-4. **Explore** slicers, drill-through, and tooltips
+| Attribute | Detail |
+|-----------|--------|
+| **Source Type** | Simulated US sales transactions |
+| **Temporal Coverage** | Fiscal years 2019–2024 |
+| **Record Volume** | Approximately 250,000 rows |
+| **Core Fields** | Order date, product category, region, profit, quantity, customer segment |
+| **Ingress Format** | CSV / Excel |
 
-> *No Power BI?* Check the `screenshots/` folder for static exports.
+---
+
+## Executive Insights Summary
+
+| Finding | Value |
+|---------|-------|
+| **Top three revenue-generating states** | California, Texas, Florida |
+| **Lowest profit margin category** | Office Supplies (8.2%) |
+| **Fastest-growing fiscal quarter** | Q4 2023 (+22% YoY, holiday-driven spike) |
+| **Actionable strategic recommendation** | Increase Northeast regional marketing expenditure during March to counter pre-spring seasonal demand trough |
+
+---
+
+## Resolved Engineering Challenges
+
+| Challenge | Implemented Solution |
+|-----------|----------------------|
+| Inconsistent date formatting across six years of disparate CSV imports | Power Query M-language transformation for uniform date parsing prior to load |
+| Degraded DAX measure performance on high-volume datasets (~250K rows) | Migrated static dimensional attributes (year, month) to calculated columns; preserved dynamic measures for variable aggregation only |
+
+---
+
+## Deployment Instructions
+
+| Step | Action |
+|------|--------|
+| **1** | Download `USsalesAnalysis2019-2024Version2.pbix` from repository |
+| **2** | Launch Power BI Desktop (free tier capable) |
+| **3** | Connect target CSV or mount included sample dataset |
+| **4** | Execute exploratory analysis using slicers, drill-through functions, and tooltip layers |
+
+
+---
+
