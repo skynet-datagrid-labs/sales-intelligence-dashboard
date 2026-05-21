@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="US Sales Analytics Dashboard">
-</p>
+
+# <p align="center">US Sales Analytics Dashboard</p>
+# <p align="center"><sup>Power BI • Tableau • DAX • 2019–2024</sup></p>
 
 **Turn 6 years of raw sales data into strategic business decisions** – an interactive Power BI dashboard with real-time KPIs, regional insights, and year-over-year growth tracking.
 
