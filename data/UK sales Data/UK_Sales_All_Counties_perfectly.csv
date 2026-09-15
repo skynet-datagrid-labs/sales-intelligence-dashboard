@@ -1,0 +1,1501 @@
+Product,Company,Category,Units Sold,Revenue,Cost of Goods Sold,Profit,Purchase Date,Customer Name,Customer County,Customer City,Customer Zip Code,Order ID
+Beer,Coca-Cola GB,Alcoholic,858,7794,5975,1819,10/20/2023,Jessica Roberts,Ards and North Down,Bangor,BT20 4XA,0-8110-95699-20
+Coffee,Fever-Tree,Coffee,197,3106,3503,-397,11/19/2021,Sophie Shah,West Sussex,Chichester,PO19 4TH,1-7104-17486-827
+Vodka,Fever-Tree,Alcoholic,429,1882,2079,-197,7/15/2021,Isla Jones,Renfrewshire,Paisley,PA1 9PR,1-132-65982-657
+Energy Drink,Fever-Tree,Soft Drink,347,9136,9913,-777,5/13/2023,Ava Jackson,Gloucestershire,Gloucester,GL1 4KJ,0-571-48036-269
+Energy Drink,Fever-Tree,Soft Drink,310,10252,5996,4256,2/18/2022,Evie Evans,Mid Ulster,Cookstown,BT80 6LP,0-3154-36066-513
+Green Tea,Britvic,Tea,381,11185,5320,5865,7/25/2022,Freddie Wilson,North Lanarkshire,Motherwell,ML1 9SC,1-5130-69318-447
+Beer,Britvic,Alcoholic,902,10867,7875,2992,12/7/2021,Charlotte Patel,Norfolk,Norwich,NR1 1MD,0-3868-20104-527
+Wine,Britvic,Alcoholic,649,4167,4601,-434,11/30/2021,Lily Williams,Hampshire,Winchester,SO23 7VF,1-7078-86674-173
+Green Tea,Fever-Tree,Tea,196,1382,1221,161,2/10/2020,Arjun Jones,Warwickshire,Warwick,CV34 7BS,1-9158-18318-671
+Black Tea,Fever-Tree,Tea,135,6413,4641,1772,5/26/2020,Jack Johnson,West Dunbartonshire,Dumbarton,G82 6FG,1-4482-89349-661
+Vodka,Fever-Tree,Alcoholic,505,4264,2738,1526,5/18/2022,Lily Wood,Lincolnshire,Lincoln,LN1 4TA,1-2117-59166-27
+Herbal Tea,Britvic,Tea,915,4697,4185,512,1/13/2023,George Patel,Carmarthenshire,Carmarthen,SA31 6PL,1-8141-33969-783
+Vodka,Fever-Tree,Alcoholic,647,6640,7668,-1028,5/13/2023,Freya Mitchell,Wrexham,Wrexham,LL11 2PN,0-1094-14370-387
+Vodka,Britvic,Alcoholic,244,1974,2365,-391,9/22/2020,Daisy King,Cardiff,Cardiff,CF10 8RR,0-4199-81256-211
+Wine,Coca-Cola GB,Alcoholic,809,1171,1277,-106,12/6/2023,Isabella Carter,Shropshire,Shrewsbury,SY1 4LU,0-8330-90098-186
+Coffee,Coca-Cola GB,Coffee,897,1405,955,450,1/16/2021,Samuel Clarke,East Riding of Yorkshire,Beverley,HU17 1CL,0-8768-77412-921
+Energy Drink,Coca-Cola GB,Soft Drink,481,10758,6411,4347,8/31/2020,Isabella King,Hampshire,Winchester,SO23 8GP,0-6250-97914-675
+Green Tea,Britvic,Tea,369,11259,7446,3813,4/21/2022,Samuel Johnson,Berkshire,Reading,RG1 2CK,0-6473-37063-134
+Vodka,Coca-Cola GB,Alcoholic,347,6034,6873,-839,7/4/2023,Florence Walker,Kent,Maidstone,ME14 7CE,0-4452-28643-74
+Green Tea,Fever-Tree,Tea,702,1548,652,896,4/29/2020,Ella Edwards,Tyne and Wear,Newcastle upon Tyne,NE1 2HK,1-4325-59219-965
+Green Tea,Fever-Tree,Tea,292,10414,10864,-450,11/26/2023,Poppy Phillips,East Sussex,Eastbourne,BN21 1NX,0-7578-27477-821
+Lemonade,Coca-Cola GB,Soft Drink,206,9180,7760,1420,8/19/2021,Zara Jones,North Lanarkshire,Motherwell,ML1 3TB,1-6018-68437-766
+Herbal Tea,Fever-Tree,Tea,494,7868,4568,3300,6/24/2021,Leila Jackson,Swansea,Swansea,SA1 2HV,0-3473-20225-77
+Green Tea,Coca-Cola GB,Tea,290,5586,2965,2621,10/29/2023,Poppy Evans,Dumfries and Galloway,Dumfries,DG1 8UH,0-6726-11602-165
+Beer,Fever-Tree,Alcoholic,414,1974,1832,142,3/17/2021,Joseph Carter,South Lanarkshire,Hamilton,ML3 3PU,1-5272-44108-621
+Energy Drink,Coca-Cola GB,Soft Drink,682,11117,5707,5410,8/27/2020,Liam Williams,Na h-Eileanan Siar,Stornoway,HS1 3LY,1-6007-66372-290
+Black Tea,Britvic,Tea,879,4017,2386,1631,1/24/2022,Florence Singh,Monmouthshire,Monmouth,NP25 4TN,0-2566-10835-955
+Wine,Coca-Cola GB,Alcoholic,471,8304,5370,2934,3/25/2022,Grace Singh,Antrim and Newtownabbey,Antrim,BT41 5CM,0-6178-59996-379
+Coffee,Coca-Cola GB,Coffee,332,2242,1452,790,3/19/2021,Amelia Harris,Midlothian,Dalkeith,EH22 4LS,1-7601-61216-617
+Lemonade,Fever-Tree,Soft Drink,658,6787,3966,2821,1/29/2021,Liam Wilson,Hertfordshire,Hertford,SG13 9XS,0-3645-73464-284
+Green Tea,Britvic,Tea,624,1203,509,694,4/18/2020,Charlie Singh,Blaenau Gwent,Ebbw Vale,NP23 1YJ,1-2602-49682-637
+Wine,Coca-Cola GB,Alcoholic,862,6257,4629,1628,8/16/2020,Charlie Jones,Gloucestershire,Gloucester,GL1 8TA,0-637-96479-526
+Cola,Fever-Tree,Soft Drink,329,1560,1627,-67,8/17/2022,Charlie Roberts,Northumberland,Morpeth,NE61 4VS,1-9231-57942-93
+Energy Drink,Britvic,Soft Drink,776,6419,7025,-606,4/15/2020,Emily Islam,South Yorkshire,Sheffield,S1 5HN,0-2635-96079-494
+Energy Drink,Coca-Cola GB,Soft Drink,132,9148,9714,-566,1/3/2022,Edward Lewis,Armagh City Banbridge and Craigavon,Armagh,BT61 1CJ,0-7383-11227-227
+Beer,Britvic,Alcoholic,959,8438,5248,3190,2/1/2021,Fatima Begum,Lisburn and Castlereagh,Lisburn,BT28 1HR,1-2872-86919-740
+Cola,Britvic,Soft Drink,202,4427,3021,1406,7/15/2021,Isabella Jackson,Merseyside,Liverpool,L1 4JW,0-9329-41991-661
+Energy Drink,Coca-Cola GB,Soft Drink,160,2406,970,1436,3/15/2021,Ava Watson,Blaenau Gwent,Ebbw Vale,NP23 2NU,0-6093-52727-202
+Green Tea,Coca-Cola GB,Tea,665,8290,8229,61,2/18/2023,Yusuf Lewis,Mid and East Antrim,Ballymena,BT42 6RE,0-5131-65112-808
+Lemonade,Britvic,Soft Drink,712,5679,2679,3000,12/1/2023,Freddie Thomas,Cumbria,Carlisle,CA1 9YW,0-8370-51720-906
+Herbal Tea,Britvic,Tea,817,6597,6522,75,8/15/2023,Jack Johnson,Ceredigion,Aberystwyth,SY23 1NU,1-9292-94562-127
+Beer,Coca-Cola GB,Alcoholic,476,3238,2172,1066,8/9/2023,Amelia Phillips,Aberdeen City,Aberdeen,AB10 8PU,0-7598-14847-301
+Green Tea,Fever-Tree,Tea,975,7368,5975,1393,4/14/2020,Daniel Singh,Derry City and Strabane,Derry,BT48 7DY,1-4192-80663-872
+Energy Drink,Fever-Tree,Soft Drink,569,3700,3928,-228,12/3/2020,Noah Cooper,Cardiff,Cardiff,CF10 7EC,0-6042-89061-798
+Green Tea,Fever-Tree,Tea,802,3208,3596,-388,11/2/2023,Mia Smith,Cambridgeshire,Cambridge,CB1 7AB,1-9388-25681-878
+Beer,Coca-Cola GB,Alcoholic,339,10707,4404,6303,9/22/2023,Samuel Turner,Wiltshire,Salisbury,SP1 1BV,0-4468-21005-177
+Wine,Coca-Cola GB,Alcoholic,407,11523,4906,6617,9/14/2023,Benjamin Begum,Moray,Elgin,IV30 1FB,0-7414-88352-689
+Black Tea,Coca-Cola GB,Tea,252,4010,3853,157,7/19/2021,Ruby Smith,Herefordshire,Hereford,HR1 9XB,1-8104-82768-777
+Herbal Tea,Coca-Cola GB,Tea,846,781,452,329,1/6/2020,Henry White,Perth and Kinross,Perth,PH1 5YV,1-2134-95696-682
+Green Tea,Fever-Tree,Tea,825,8820,8259,561,2/29/2020,Jack Roberts,Leicestershire,Leicester,LE1 5XH,0-8302-90341-248
+Energy Drink,Fever-Tree,Soft Drink,623,8370,9761,-1391,5/26/2021,Isla Johnson,Norfolk,Norwich,NR1 6GP,0-556-72910-443
+Lemonade,Fever-Tree,Soft Drink,205,6611,7084,-473,3/10/2022,Lily Johnson,Mid and East Antrim,Ballymena,BT42 8EW,0-3940-94570-498
+Black Tea,Fever-Tree,Tea,376,10730,10308,422,11/4/2023,Edward Turner,Argyll and Bute,Lochgilphead,PA31 7SD,1-3098-22564-319
+Vodka,Coca-Cola GB,Alcoholic,735,2395,2813,-418,7/20/2022,Jack Robinson,Oxfordshire,Oxford,OX1 1BH,0-9350-36896-71
+Black Tea,Britvic,Tea,309,7829,7211,618,11/30/2021,Joseph Thomas,Neath Port Talbot,Port Talbot,SA13 6GP,1-755-99505-397
+Green Tea,Coca-Cola GB,Tea,986,11829,6633,5196,1/9/2021,Yusuf Walker,Merseyside,Liverpool,L1 5YW,1-1889-93418-171
+Cola,Fever-Tree,Soft Drink,609,9075,8794,281,6/13/2023,Thomas Harris,Berkshire,Reading,RG1 1CT,0-3558-29373-341
+Vodka,Coca-Cola GB,Alcoholic,221,4703,5164,-461,2/27/2021,Mia Walker,Newport,Newport,NP20 4VH,0-2064-20287-693
+Lemonade,Coca-Cola GB,Soft Drink,60,6279,5913,366,7/1/2023,Samuel Shah,Fermanagh and Omagh,Enniskillen,BT74 2AY,1-9298-94848-609
+Coffee,Fever-Tree,Coffee,823,5815,3276,2539,3/8/2021,Leila Thomas,Suffolk,Ipswich,IP1 5GC,1-7155-33028-133
+Vodka,Coca-Cola GB,Alcoholic,232,11076,11192,-116,11/4/2022,Alfie Turner,Newry Mourne and Down,Newry,BT35 7UX,1-9816-13742-168
+Wine,Fever-Tree,Alcoholic,566,3668,1663,2005,10/24/2021,Priya Patel,West Yorkshire,Leeds,LS1 5DM,1-3645-64571-503
+Vodka,Britvic,Alcoholic,620,5913,3899,2014,2/21/2021,Florence King,East Dunbartonshire,Kirkintilloch,G66 3KT,1-6139-29442-924
+Beer,Britvic,Alcoholic,770,7586,8243,-657,2/5/2023,Arjun Ali,Edinburgh,Edinburgh,EH1 1AE,0-581-86820-110
+Energy Drink,Britvic,Soft Drink,102,5749,6097,-348,4/28/2023,Lily Green,Hampshire,Winchester,SO23 4VB,1-4095-70910-584
+Energy Drink,Fever-Tree,Soft Drink,682,8318,5572,2746,8/29/2021,Leila Jones,Nottinghamshire,Nottingham,NG1 9FG,1-387-68559-333
+Vodka,Fever-Tree,Alcoholic,145,11541,7584,3957,9/1/2022,Evie Roberts,Warwickshire,Warwick,CV34 1KU,1-1481-76132-662
+Coffee,Fever-Tree,Coffee,679,4743,1941,2802,11/17/2020,Evie Patel,West Dunbartonshire,Dumbarton,G82 8WB,1-5353-41574-339
+Black Tea,Coca-Cola GB,Tea,488,3540,1927,1613,6/6/2020,Isabella Singh,Swansea,Swansea,SA1 2WA,0-6558-58963-605
+Cola,Fever-Tree,Soft Drink,669,3551,2641,910,8/3/2021,Omar Shah,Suffolk,Ipswich,IP1 8MG,0-6575-88554-57
+Energy Drink,Britvic,Soft Drink,247,1558,846,712,11/9/2023,Fatima Thompson,Somerset,Taunton,TA1 1CG,0-9912-57416-596
+Cola,Coca-Cola GB,Soft Drink,397,10688,12276,-1588,1/14/2020,Sophie Edwards,Highland,Inverness,IV1 4KF,1-5047-86344-741
+Vodka,Fever-Tree,Alcoholic,747,11140,11235,-95,6/13/2022,Lily Lewis,Falkirk,Falkirk,FK1 5MB,1-3069-98894-292
+Beer,Coca-Cola GB,Alcoholic,187,11888,12484,-596,5/14/2023,Aisha Hussain,Devon,Exeter,EX1 9LL,0-2567-33032-845
+Black Tea,Coca-Cola GB,Tea,560,1468,1474,-6,10/7/2020,Isla Lewis,Edinburgh,Edinburgh,EH1 7GL,1-9688-49834-506
+Lemonade,Coca-Cola GB,Soft Drink,263,5740,6669,-929,11/19/2022,Omar Evans,Carmarthenshire,Carmarthen,SA31 3YU,0-4643-95969-130
+Lemonade,Fever-Tree,Soft Drink,118,7489,6779,710,11/24/2021,Muhammad Wright,Berkshire,Reading,RG1 7PP,1-5688-58936-827
+Green Tea,Britvic,Tea,650,10506,10653,-147,12/23/2021,Liam Singh,Gloucestershire,Gloucester,GL1 7LY,1-2364-95715-944
+Coffee,Britvic,Coffee,429,6919,6320,599,12/22/2020,Simran Robinson,Dumfries and Galloway,Dumfries,DG1 5NY,0-8619-89525-226
+Black Tea,Coca-Cola GB,Tea,612,3234,2326,908,3/25/2021,James Khan,Buckinghamshire,Aylesbury,HP20 8CB,0-2604-92240-164
+Energy Drink,Fever-Tree,Soft Drink,914,11535,12363,-828,1/10/2022,Mia White,Blaenau Gwent,Ebbw Vale,NP23 7BK,1-6565-13626-198
+Cola,Britvic,Soft Drink,659,4763,5419,-656,5/6/2023,Florence Brown,Monmouthshire,Monmouth,NP25 4JC,0-3415-78512-881
+Lemonade,Fever-Tree,Soft Drink,981,10133,4170,5963,5/26/2022,Simran Thompson,Edinburgh,Edinburgh,EH1 4HN,0-9499-10665-428
+Green Tea,Coca-Cola GB,Tea,992,6069,5980,89,3/23/2022,Leila Carter,Devon,Exeter,EX1 4JB,1-8067-37870-720
+Coffee,Britvic,Coffee,190,9510,4920,4590,7/30/2023,Alfie Edwards,Worcestershire,Worcester,WR1 9YB,1-7022-62525-23
+Lemonade,Fever-Tree,Soft Drink,214,6672,5925,747,1/28/2021,Isabella Watson,Edinburgh,Edinburgh,EH1 9GX,1-4835-37168-707
+Energy Drink,Britvic,Soft Drink,816,5219,3339,1880,6/6/2020,Thomas White,South Lanarkshire,Hamilton,ML3 4SL,0-7601-24021-139
+Cola,Britvic,Soft Drink,203,10693,8773,1920,11/6/2020,Alice Ali,Pembrokeshire,Haverfordwest,SA61 9BM,0-8797-31856-384
+Lemonade,Fever-Tree,Soft Drink,484,10954,12181,-1227,2/25/2023,Ava Phillips,West Lothian,Livingston,EH54 6HB,0-7545-53512-574
+Wine,Fever-Tree,Alcoholic,483,11347,9365,1982,11/17/2022,Jack Hussain,Perth and Kinross,Perth,PH1 8PY,0-7160-46289-477
+Coffee,Coca-Cola GB,Coffee,580,6477,7322,-845,12/24/2020,Benjamin Lewis,Fife,Glenrothes,KY7 1YJ,1-3152-47941-898
+Black Tea,Fever-Tree,Tea,189,8011,4844,3167,1/20/2022,Mia Islam,Gwynedd,Caernarfon,LL55 2AX,1-1410-71349-821
+Cola,Coca-Cola GB,Soft Drink,510,8391,3977,4414,1/25/2021,Noah Watson,North Ayrshire,Irvine,KA12 7RP,0-3182-87015-742
+Cola,Fever-Tree,Soft Drink,964,11044,7371,3673,8/16/2020,Alfie Smith,Glasgow City,Glasgow,G1 9TC,1-6020-87189-542
+Herbal Tea,Coca-Cola GB,Tea,881,9580,7164,2416,8/9/2022,Emily Williams,West Dunbartonshire,Dumbarton,G82 2WL,0-9919-99966-379
+Beer,Coca-Cola GB,Alcoholic,56,1443,672,771,7/15/2020,Olivia Ahmed,Tyne and Wear,Newcastle upon Tyne,NE1 9AB,0-7050-23621-211
+Wine,Britvic,Alcoholic,951,8911,9762,-851,12/11/2022,Daisy Islam,Merthyr Tydfil,Merthyr Tydfil,CF47 2HC,1-5568-51721-910
+Cola,Fever-Tree,Soft Drink,417,7196,3436,3760,10/31/2023,Henry Islam,Merseyside,Liverpool,L1 6NW,0-8412-29510-834
+Wine,Fever-Tree,Alcoholic,391,7926,6307,1619,8/16/2023,Ethan Mitchell,Falkirk,Falkirk,FK1 7AG,0-7788-55068-449
+Energy Drink,Fever-Tree,Soft Drink,426,4312,4899,-587,1/1/2021,George Sharma,Merthyr Tydfil,Merthyr Tydfil,CF47 7EF,1-4544-20208-586
+Beer,Fever-Tree,Alcoholic,787,10145,6576,3569,11/1/2021,Henry Evans,Fife,Glenrothes,KY7 9RC,0-7626-60801-731
+Coffee,Fever-Tree,Coffee,981,3652,3972,-320,5/25/2020,Evie Thompson,Cheshire,Chester,CH1 5RE,0-9455-85525-485
+Green Tea,Fever-Tree,Tea,284,992,856,136,3/11/2020,Simran Edwards,Worcestershire,Worcester,WR1 1UY,0-2442-93182-35
+Wine,Coca-Cola GB,Alcoholic,724,9672,4965,4707,7/14/2021,Samuel Davies,Isle of Wight,Newport,PO30 5WK,1-8697-38063-686
+Herbal Tea,Fever-Tree,Tea,807,4130,4158,-28,6/6/2022,Yusuf Khan,Essex,Chelmsford,CM1 1RN,0-2612-59535-339
+Lemonade,Coca-Cola GB,Soft Drink,548,5431,3362,2069,6/17/2022,Mia Johnson,Essex,Chelmsford,CM1 5XF,0-3895-97350-286
+Energy Drink,Fever-Tree,Soft Drink,889,1486,818,668,5/22/2020,Grace Cooper,South Yorkshire,Sheffield,S1 3AR,0-6594-67417-536
+Lemonade,Fever-Tree,Soft Drink,465,10962,11200,-238,2/8/2020,Charlotte Roberts,Scottish Borders,Newtown St Boswells,TD6 1XR,1-2583-53231-927
+Wine,Fever-Tree,Alcoholic,413,11471,6764,4707,4/24/2022,Isla Edwards,North Yorkshire,York,YO1 4BN,0-7241-28997-222
+Green Tea,Britvic,Tea,600,11895,8117,3778,6/6/2023,Emily Lewis,Leicestershire,Leicester,LE1 4PC,1-6512-39123-888
+Lemonade,Britvic,Soft Drink,860,1293,1146,147,9/17/2021,Priya Watson,Fermanagh and Omagh,Enniskillen,BT74 7WV,1-4228-38601-478
+Wine,Fever-Tree,Alcoholic,940,10288,5943,4345,8/16/2021,Samuel Roberts,Inverclyde,Greenock,PA15 3HL,0-9080-62322-269
+Green Tea,Fever-Tree,Tea,53,3041,3006,35,9/17/2022,Ethan Williams,Renfrewshire,Paisley,PA1 4TF,1-6152-40673-44
+Cola,Fever-Tree,Soft Drink,603,1702,1920,-218,5/17/2020,Jack Edwards,Armagh City Banbridge and Craigavon,Armagh,BT61 9JH,1-8614-70051-940
+Vodka,Fever-Tree,Alcoholic,482,11299,12480,-1181,5/24/2021,Lucas Roberts,Norfolk,Norwich,NR1 2SM,1-6651-64957-581
+Green Tea,Britvic,Tea,574,5843,6826,-983,1/8/2020,Freya White,Essex,Chelmsford,CM1 1LV,0-8184-41179-223
+Vodka,Coca-Cola GB,Alcoholic,209,8694,5162,3532,6/29/2021,Leila Carter,Na h-Eileanan Siar,Stornoway,HS1 6SN,0-6876-65514-375
+Vodka,Coca-Cola GB,Alcoholic,263,1278,1006,272,12/16/2022,George Harris,Vale of Glamorgan,Barry,CF63 2YP,0-8225-64125-789
+Cola,Fever-Tree,Soft Drink,896,4789,3433,1356,4/10/2020,Omar Wright,Pembrokeshire,Haverfordwest,SA61 5VD,1-7508-82869-767
+Energy Drink,Britvic,Soft Drink,470,3767,2844,923,4/4/2021,Ava Edwards,Aberdeen City,Aberdeen,AB10 3RM,1-612-80981-782
+Cola,Coca-Cola GB,Soft Drink,670,3956,4060,-104,4/7/2022,Samuel Shah,Belfast,Belfast,BT1 1LM,0-6612-39829-233
+Black Tea,Britvic,Tea,224,5990,2986,3004,7/11/2022,Lucas Shah,Conwy,Conwy,LL32 9CL,0-9164-66729-859
+Cola,Britvic,Soft Drink,852,9924,10288,-364,11/27/2020,Freya Robinson,Newport,Newport,NP20 5SB,1-2215-32713-205
+Lemonade,Britvic,Soft Drink,68,4060,3426,634,3/28/2023,William Walker,Falkirk,Falkirk,FK1 3YU,0-9813-89873-243
+Green Tea,Coca-Cola GB,Tea,570,8506,6384,2122,1/17/2023,Priya Wright,Derbyshire,Derby,DE1 9AU,1-1797-27601-271
+Green Tea,Britvic,Tea,454,8312,8027,285,5/31/2021,Charlotte Davies,West Yorkshire,Leeds,LS1 3FE,1-1436-54527-463
+Energy Drink,Fever-Tree,Soft Drink,596,4235,3674,561,9/18/2021,Thomas Begum,Mid Ulster,Cookstown,BT80 7XN,0-1369-87678-157
+Beer,Coca-Cola GB,Alcoholic,195,11220,6507,4713,4/16/2023,Alice Hussain,Ceredigion,Aberystwyth,SY23 8GT,0-6390-73463-661
+Herbal Tea,Britvic,Tea,932,7382,8031,-649,6/26/2020,Alfie Thomas,Denbighshire,Ruthin,LL15 2NJ,1-5252-28327-254
+Coffee,Fever-Tree,Coffee,560,1070,1278,-208,8/19/2021,Isabella Robinson,Bridgend,Bridgend,CF31 4ET,1-3283-78971-264
+Black Tea,Britvic,Tea,774,6939,5422,1517,12/23/2022,Olivia Taylor,Cornwall,Truro,TR1 9BE,0-3953-62923-123
+Black Tea,Fever-Tree,Tea,250,981,396,585,12/24/2020,Benjamin Khan,Argyll and Bute,Lochgilphead,PA31 2NM,1-2017-77277-980
+Energy Drink,Britvic,Soft Drink,546,9427,9838,-411,7/3/2023,Simran Davies,Scottish Borders,Newtown St Boswells,TD6 2PG,1-7097-37490-356
+Black Tea,Fever-Tree,Tea,198,8197,9260,-1063,7/8/2022,Edward Khan,Bristol,Bristol,BS1 4MS,0-3911-12780-632
+Green Tea,Britvic,Tea,263,7929,7479,450,1/20/2020,Daisy Clarke,Derbyshire,Derby,DE1 8NL,0-7842-24337-47
+Lemonade,Fever-Tree,Soft Drink,393,2300,2018,282,12/20/2020,Alice Carter,Oxfordshire,Oxford,OX1 6UD,0-4196-27785-427
+Energy Drink,Coca-Cola GB,Soft Drink,517,7471,3883,3588,1/8/2021,Grace Thomas,Armagh City Banbridge and Craigavon,Armagh,BT61 9SG,1-5626-68192-801
+Vodka,Britvic,Alcoholic,193,5986,3069,2917,4/13/2020,Emily Edwards,East Ayrshire,Kilmarnock,KA1 7FW,0-5464-85718-739
+Vodka,Fever-Tree,Alcoholic,598,11650,13563,-1913,7/21/2023,Lily Roberts,Stirling,Stirling,FK8 7NL,1-2070-83125-922
+Green Tea,Britvic,Tea,374,11508,9655,1853,5/31/2023,Poppy Carter,Worcestershire,Worcester,WR1 2UF,0-882-41252-430
+Herbal Tea,Coca-Cola GB,Tea,210,6475,6745,-270,10/21/2023,Joseph Lewis,South Ayrshire,Ayr,KA7 7UP,0-8014-73979-116
+Coffee,Coca-Cola GB,Coffee,552,10019,7111,2908,9/1/2023,Amelia Edwards,Northumberland,Morpeth,NE61 1GE,1-3847-68283-828
+Wine,Fever-Tree,Alcoholic,573,6876,6798,78,8/31/2023,Yusuf Thompson,Cardiff,Cardiff,CF10 5WA,1-5811-21401-450
+Green Tea,Fever-Tree,Tea,524,11973,13883,-1910,11/13/2022,Charlie Evans,Highland,Inverness,IV1 5RL,1-4427-70853-52
+Vodka,Britvic,Alcoholic,917,8516,4428,4088,5/31/2023,Leila Wilson,Lincolnshire,Lincoln,LN1 4HL,0-8687-39933-760
+Coffee,Britvic,Coffee,291,10753,5263,5490,1/13/2022,Ella Thompson,Cambridgeshire,Cambridge,CB1 1FN,0-1503-73699-836
+Wine,Fever-Tree,Alcoholic,85,8492,8784,-292,8/22/2020,Fatima Sharma,Somerset,Taunton,TA1 4KW,1-5653-69441-409
+Beer,Britvic,Alcoholic,539,1966,2256,-290,1/28/2023,Joseph Thomas,Mid Ulster,Cookstown,BT80 9DP,1-8676-93858-655
+Wine,Coca-Cola GB,Alcoholic,661,641,735,-94,7/8/2023,Harry Shah,Shropshire,Shrewsbury,SY1 2CX,0-1854-28590-290
+Cola,Fever-Tree,Soft Drink,224,6318,7042,-724,11/9/2022,Grace Singh,Bedfordshire,Bedford,MK40 3DT,1-1649-68090-351
+Lemonade,Coca-Cola GB,Soft Drink,965,7352,6508,844,7/30/2021,Yusuf Mitchell,South Yorkshire,Sheffield,S1 7JR,1-2661-79922-226
+Vodka,Coca-Cola GB,Alcoholic,788,10262,10808,-546,7/31/2022,Ethan Wright,Dorset,Dorchester,DT1 4ER,1-5478-46517-886
+Energy Drink,Fever-Tree,Soft Drink,972,4275,3106,1169,9/6/2021,Edward Lewis,North Ayrshire,Irvine,KA12 9LV,1-2465-70689-937
+Wine,Britvic,Alcoholic,977,1480,757,723,3/17/2020,Ella Singh,Nottinghamshire,Nottingham,NG1 2CW,0-6467-69459-380
+Vodka,Britvic,Alcoholic,291,9489,9422,67,2/3/2020,Sophie Sharma,Orkney Islands,Kirkwall,KW15 7GE,0-6323-84683-854
+Black Tea,Coca-Cola GB,Tea,313,6516,6255,261,11/15/2022,Ella Sharma,Clackmannanshire,Alloa,FK10 6SX,0-3391-37487-640
+Lemonade,Britvic,Soft Drink,984,2919,2202,717,9/15/2020,James Ali,Newport,Newport,NP20 3AR,1-7901-71235-999
+Wine,Fever-Tree,Alcoholic,309,7346,5705,1641,11/7/2023,Samuel Robinson,West Sussex,Chichester,PO19 8RV,0-1669-60800-132
+Herbal Tea,Coca-Cola GB,Tea,180,8470,5514,2956,3/23/2021,Alice Watson,Isle of Wight,Newport,PO30 3XS,0-8275-36170-241
+Herbal Tea,Coca-Cola GB,Tea,687,9412,6562,2850,2/23/2021,Lucas Thomas,Edinburgh,Edinburgh,EH1 7YF,0-1759-48721-384
+Beer,Coca-Cola GB,Alcoholic,423,10269,4991,5278,5/20/2022,Benjamin Evans,Cheshire,Chester,CH1 8RN,1-5923-43405-600
+Green Tea,Britvic,Tea,706,5785,5085,700,1/11/2023,Muhammad Johnson,Mid and East Antrim,Ballymena,BT42 3YU,1-1439-64916-902
+Cola,Britvic,Soft Drink,487,11016,8209,2807,9/13/2021,Mia Jones,Cardiff,Cardiff,CF10 1AU,0-8852-89709-881
+Cola,Fever-Tree,Soft Drink,272,7041,7293,-252,11/25/2021,Ruby Cooper,East Lothian,Haddington,EH41 3EM,0-842-15100-141
+Black Tea,Britvic,Tea,102,1378,822,556,5/2/2023,George Begum,Cumbria,Carlisle,CA1 2KN,1-4372-36772-686
+Wine,Coca-Cola GB,Alcoholic,932,11393,5406,5987,7/16/2020,Simran Cooper,Somerset,Taunton,TA1 3NN,1-2102-63845-363
+Black Tea,Coca-Cola GB,Tea,416,6735,4973,1762,3/9/2021,Jessica Walker,Cheshire,Chester,CH1 5JR,1-7277-77839-463
+Wine,Fever-Tree,Alcoholic,344,8524,4405,4119,9/17/2020,Evie Roberts,North Lanarkshire,Motherwell,ML1 2LY,0-9375-31591-253
+Black Tea,Britvic,Tea,268,7918,4136,3782,6/19/2023,Priya Ahmed,Blaenau Gwent,Ebbw Vale,NP23 2NA,0-7533-93160-647
+Energy Drink,Coca-Cola GB,Soft Drink,542,10951,12658,-1707,9/16/2023,Samuel Smith,Essex,Chelmsford,CM1 5HJ,1-7120-91167-604
+Vodka,Coca-Cola GB,Alcoholic,626,8502,3698,4804,2/12/2021,George Green,Aberdeenshire,Inverurie,AB51 5MY,1-4250-14799-772
+Coffee,Britvic,Coffee,508,11686,11945,-259,7/8/2020,Joseph Khan,Vale of Glamorgan,Barry,CF63 1UW,0-3216-54579-946
+Black Tea,Britvic,Tea,253,6983,5944,1039,7/15/2020,Edward Patel,Stirling,Stirling,FK8 4WH,1-5947-71785-778
+Coffee,Coca-Cola GB,Coffee,702,4768,1942,2826,3/9/2023,Daisy Evans,Glasgow City,Glasgow,G1 6GY,1-2298-76088-480
+Green Tea,Fever-Tree,Tea,410,10293,4310,5983,1/10/2023,Florence White,Bridgend,Bridgend,CF31 4VG,1-8378-24475-750
+Lemonade,Coca-Cola GB,Soft Drink,167,10788,11729,-941,6/10/2021,Muhammad Wood,Stirling,Stirling,FK8 1VN,0-9672-11581-266
+Cola,Britvic,Soft Drink,950,5870,5284,586,4/28/2021,Evie Watson,West Yorkshire,Leeds,LS1 1PW,0-9192-46725-231
+Herbal Tea,Britvic,Tea,322,7152,4365,2787,10/7/2020,Lily Wilson,East Ayrshire,Kilmarnock,KA1 6UT,0-1318-52875-161
+Beer,Coca-Cola GB,Alcoholic,372,3827,2813,1014,11/12/2020,Benjamin Evans,Oxfordshire,Oxford,OX1 8PX,1-636-58566-223
+Black Tea,Coca-Cola GB,Tea,393,1269,1406,-137,1/10/2022,Alice Walker,Berkshire,Reading,RG1 2BF,1-1407-40512-888
+Energy Drink,Fever-Tree,Soft Drink,899,11429,9159,2270,11/30/2023,James Thomas,Devon,Exeter,EX1 8NL,0-9294-90739-754
+Wine,Coca-Cola GB,Alcoholic,689,5950,5776,174,4/25/2021,Lily Harris,Essex,Chelmsford,CM1 6WB,0-3888-60205-711
+Vodka,Britvic,Alcoholic,296,10286,12318,-2032,5/27/2023,Charlie Roberts,Northamptonshire,Northampton,NN1 8CA,1-9064-21425-511
+Black Tea,Coca-Cola GB,Tea,323,8672,3527,5145,8/24/2023,Olivia Mitchell,Denbighshire,Ruthin,LL15 6SP,0-6845-90750-704
+Energy Drink,Fever-Tree,Soft Drink,691,5787,3957,1830,12/21/2020,Amelia Thompson,Swansea,Swansea,SA1 6US,0-5861-84403-578
+Green Tea,Fever-Tree,Tea,448,3132,1700,1432,3/5/2020,Isla Evans,Cheshire,Chester,CH1 8EA,1-8126-78920-639
+Lemonade,Coca-Cola GB,Soft Drink,103,9019,5072,3947,6/26/2022,Mia Cooper,Pembrokeshire,Haverfordwest,SA61 9TE,0-4919-68827-182
+Energy Drink,Fever-Tree,Soft Drink,778,10333,5156,5177,9/25/2022,Oliver Roberts,Hampshire,Winchester,SO23 5EJ,1-6071-66143-914
+Beer,Fever-Tree,Alcoholic,392,8865,5391,3474,6/8/2023,Omar Mitchell,Fermanagh and Omagh,Enniskillen,BT74 2KP,0-2421-96175-247
+Green Tea,Britvic,Tea,573,9280,4915,4365,10/23/2020,Amelia Taylor,Carmarthenshire,Carmarthen,SA31 7GT,1-4831-92110-186
+Lemonade,Fever-Tree,Soft Drink,996,3051,3301,-250,7/4/2020,Olivia Wright,Newport,Newport,NP20 1EV,0-1594-42534-992
+Vodka,Britvic,Alcoholic,269,7011,4541,2470,12/24/2023,Aisha Patel,Mid Ulster,Cookstown,BT80 3PX,0-8332-99762-470
+Coffee,Coca-Cola GB,Coffee,978,2448,1776,672,2/8/2020,Benjamin Thomas,Rutland,Oakham,LE15 5FP,1-1691-39009-231
+Vodka,Fever-Tree,Alcoholic,355,2349,1178,1171,3/14/2020,Grace Patel,Highland,Inverness,IV1 2CA,1-3122-20958-781
+Coffee,Coca-Cola GB,Coffee,716,11193,7696,3497,4/15/2022,Alice Ahmed,Greater London,London,W1 2HS,1-3215-37194-585
+Beer,Fever-Tree,Alcoholic,174,11953,5032,6921,9/9/2023,Zara Watson,South Yorkshire,Sheffield,S1 1DS,1-5667-56009-7
+Vodka,Coca-Cola GB,Alcoholic,258,3686,2250,1436,7/7/2023,Charlie Brown,North Ayrshire,Irvine,KA12 1VP,1-9767-37886-929
+Herbal Tea,Coca-Cola GB,Tea,876,1163,634,529,6/16/2021,Edward Green,Greater London,London,W1 4LH,1-4658-65255-259
+Wine,Coca-Cola GB,Alcoholic,567,5585,3350,2235,5/28/2021,Amelia Wright,West Dunbartonshire,Dumbarton,G82 6SL,1-2257-52984-433
+Green Tea,Britvic,Tea,807,5257,4832,425,9/10/2021,Samuel Thompson,Rhondda Cynon Taf,Pontypridd,CF37 3AE,1-4243-73802-409
+Cola,Coca-Cola GB,Soft Drink,278,7795,7461,334,8/26/2023,Edward Carter,Flintshire,Mold,CH7 4FA,1-562-97251-661
+Lemonade,Britvic,Soft Drink,765,7516,5624,1892,11/26/2021,Edward Lewis,Merseyside,Liverpool,L1 7DG,1-670-44212-982
+Energy Drink,Britvic,Soft Drink,326,647,367,280,7/10/2022,Ruby Jones,Swansea,Swansea,SA1 6DW,1-258-75509-830
+Black Tea,Britvic,Tea,882,3300,2279,1021,8/6/2022,Ruby Turner,Mid Ulster,Cookstown,BT80 6RE,0-7804-24240-556
+Cola,Britvic,Soft Drink,937,2660,1089,1571,3/11/2021,Lucas Wood,Cardiff,Cardiff,CF10 2RG,1-819-18825-907
+Coffee,Coca-Cola GB,Coffee,660,7063,5947,1116,4/16/2020,Edward Edwards,Aberdeen City,Aberdeen,AB10 3KK,0-1993-67403-121
+Black Tea,Britvic,Tea,898,11812,5624,6188,9/17/2023,Arjun Thompson,Flintshire,Mold,CH7 8HR,1-2535-83183-914
+Coffee,Fever-Tree,Coffee,358,7612,3338,4274,8/25/2020,Benjamin Mitchell,East Riding of Yorkshire,Beverley,HU17 7CF,0-3466-99881-646
+Beer,Britvic,Alcoholic,908,8450,8262,188,7/11/2022,James Mitchell,Oxfordshire,Oxford,OX1 2AT,0-6984-81576-793
+Cola,Britvic,Soft Drink,549,5047,3818,1229,8/8/2023,Freya Begum,East Sussex,Eastbourne,BN21 4YS,1-6348-24860-396
+Black Tea,Fever-Tree,Tea,494,895,815,80,10/16/2022,Muhammad Ahmed,Dundee City,Dundee,DD1 5RG,0-6753-48985-465
+Lemonade,Fever-Tree,Soft Drink,575,7309,7168,141,4/24/2021,Daniel Davies,Conwy,Conwy,LL32 2AL,0-9826-39647-532
+Black Tea,Fever-Tree,Tea,942,9415,6609,2806,12/13/2021,Ava Walker,Hertfordshire,Hertford,SG13 1JJ,1-5129-75809-839
+Beer,Coca-Cola GB,Alcoholic,596,2081,1193,888,3/3/2021,William Wright,North Lanarkshire,Motherwell,ML1 1EE,0-7946-41797-713
+Vodka,Britvic,Alcoholic,450,10268,9534,734,7/29/2023,Olivia Robinson,Aberdeenshire,Inverurie,AB51 6BF,0-960-31967-476
+Coffee,Britvic,Coffee,904,2758,2322,436,3/21/2020,Muhammad Patel,Neath Port Talbot,Port Talbot,SA13 1JF,1-5917-12227-791
+Beer,Fever-Tree,Alcoholic,726,9460,6307,3153,4/11/2021,Daniel Sharma,Northamptonshire,Northampton,NN1 1SC,0-3889-63835-888
+Vodka,Coca-Cola GB,Alcoholic,566,6210,4326,1884,3/15/2020,Sophie Smith,Merseyside,Liverpool,L1 7CG,1-3525-22252-349
+Wine,Britvic,Alcoholic,556,7601,8629,-1028,1/30/2023,Emily Sharma,Isle of Anglesey,Llangefni,LL77 6HU,0-3287-69606-953
+Coffee,Coca-Cola GB,Coffee,445,9054,8368,686,8/28/2021,Sophie Turner,Lisburn and Castlereagh,Lisburn,BT28 7JA,0-5722-39145-703
+Vodka,Coca-Cola GB,Alcoholic,605,7373,8107,-734,6/3/2020,Joseph Sharma,City of London,London,EC1 2BY,0-1628-40982-171
+Black Tea,Coca-Cola GB,Tea,440,5830,5269,561,5/19/2023,Daisy Hussain,Warwickshire,Warwick,CV34 7YE,1-1143-80056-396
+Lemonade,Coca-Cola GB,Soft Drink,208,8193,9234,-1041,9/13/2022,Jessica Wood,North Ayrshire,Irvine,KA12 2KJ,1-2651-49789-11
+Vodka,Britvic,Alcoholic,329,1887,905,982,6/22/2023,Charlie Walker,Cardiff,Cardiff,CF10 6LH,1-9671-29974-580
+Coffee,Britvic,Coffee,690,5636,4427,1209,6/12/2021,Charlie Edwards,South Ayrshire,Ayr,KA7 4RF,1-6857-56281-529
+Coffee,Coca-Cola GB,Coffee,361,6712,3767,2945,9/7/2023,Poppy Jackson,East Dunbartonshire,Kirkintilloch,G66 4AP,0-2876-98345-37
+Herbal Tea,Fever-Tree,Tea,242,2413,1924,489,6/12/2022,Charlie Johnson,West Lothian,Livingston,EH54 1NN,0-5795-72472-889
+Energy Drink,Fever-Tree,Soft Drink,190,11630,11500,130,6/8/2021,Charlie Evans,Aberdeenshire,Inverurie,AB51 9BH,0-7815-56439-621
+Lemonade,Fever-Tree,Soft Drink,606,6976,4993,1983,1/9/2020,Poppy Wood,Shetland Islands,Lerwick,ZE1 1EV,0-6604-10294-441
+Black Tea,Fever-Tree,Tea,64,5776,6913,-1137,5/30/2020,Jessica Robinson,Cumbria,Carlisle,CA1 9FX,0-4102-58434-292
+Wine,Coca-Cola GB,Alcoholic,249,7369,4686,2683,11/28/2022,Ethan Wood,Greater London,London,W1 1LP,1-7491-71282-443
+Herbal Tea,Fever-Tree,Tea,180,10252,6673,3579,8/28/2021,Olivia Brown,Durham,Durham,DH1 5NH,0-3035-70390-265
+Black Tea,Britvic,Tea,861,11753,13495,-1742,9/26/2022,Mia Taylor,Monmouthshire,Monmouth,NP25 9AN,0-4488-94974-428
+Black Tea,Coca-Cola GB,Tea,778,11722,8205,3517,7/26/2020,Noah Harris,Stirling,Stirling,FK8 5MK,1-1919-71845-138
+Black Tea,Fever-Tree,Tea,173,6813,4322,2491,5/14/2021,William Thompson,Derry City and Strabane,Derry,BT48 6FG,0-4049-68328-751
+Wine,Coca-Cola GB,Alcoholic,444,1083,556,527,12/14/2022,Yusuf Watson,Fife,Glenrothes,KY7 8MM,0-4117-71925-646
+Vodka,Fever-Tree,Alcoholic,378,11852,6634,5218,2/4/2022,Henry Davies,Armagh City Banbridge and Craigavon,Armagh,BT61 2TF,0-4813-11800-352
+Lemonade,Coca-Cola GB,Soft Drink,764,2446,2665,-219,6/5/2020,Charlie Khan,Newport,Newport,NP20 7AT,0-1665-87095-812
+Beer,Coca-Cola GB,Alcoholic,389,3930,4051,-121,12/12/2021,Joseph Walker,Surrey,Guildford,GU1 1SH,0-4207-15175-497
+Black Tea,Coca-Cola GB,Tea,487,11071,8976,2095,3/30/2022,Isla Brown,East Lothian,Haddington,EH41 5KS,0-2513-70418-898
+Green Tea,Fever-Tree,Tea,526,1180,626,554,8/30/2020,Jessica Begum,Newry Mourne and Down,Newry,BT35 7DN,1-4707-42688-117
+Green Tea,Britvic,Tea,650,1059,456,603,12/20/2023,Joseph Mitchell,Warwickshire,Warwick,CV34 9MD,1-4734-60779-419
+Cola,Coca-Cola GB,Soft Drink,494,10623,6273,4350,7/19/2021,Ava Shah,Stirling,Stirling,FK8 7BC,0-772-86881-992
+Green Tea,Britvic,Tea,823,4679,5094,-415,6/17/2023,Sophie Cooper,Norfolk,Norwich,NR1 7EX,1-5420-69412-500
+Beer,Britvic,Alcoholic,74,525,402,123,9/24/2023,Isla Hussain,Tyne and Wear,Newcastle upon Tyne,NE1 6WS,0-3194-29435-212
+Cola,Fever-Tree,Soft Drink,109,11951,8819,3132,8/27/2022,Ethan King,Angus,Forfar,DD8 7BS,1-3296-81828-404
+Energy Drink,Britvic,Soft Drink,164,10949,11763,-814,7/8/2023,Sophie Sharma,Scottish Borders,Newtown St Boswells,TD6 3XE,0-520-67333-12
+Coffee,Fever-Tree,Coffee,242,9512,4946,4566,5/27/2022,Charlotte Davies,Devon,Exeter,EX1 3YA,0-635-27495-299
+Coffee,Coca-Cola GB,Coffee,328,736,438,298,8/28/2022,William Jackson,Dumfries and Galloway,Dumfries,DG1 9DF,1-6008-92502-681
+Beer,Coca-Cola GB,Alcoholic,157,2695,1915,780,2/16/2021,Yusuf Islam,Worcestershire,Worcester,WR1 5HH,1-6532-25619-667
+Energy Drink,Coca-Cola GB,Soft Drink,178,7683,8583,-900,10/28/2022,Alfie Khan,Warwickshire,Warwick,CV34 3AU,1-9706-14903-298
+Coffee,Coca-Cola GB,Coffee,364,7371,7729,-358,8/7/2020,Isabella Brown,East Sussex,Eastbourne,BN21 3JD,0-1531-19884-10
+Wine,Coca-Cola GB,Alcoholic,351,9238,6482,2756,3/31/2021,Edward Evans,Berkshire,Reading,RG1 2DT,1-9747-74175-98
+Lemonade,Coca-Cola GB,Soft Drink,439,1752,1938,-186,9/20/2023,Thomas Edwards,Gwynedd,Caernarfon,LL55 7TH,1-9425-15022-32
+Energy Drink,Britvic,Soft Drink,859,3635,4034,-399,8/29/2020,Henry Hussain,West Sussex,Chichester,PO19 7HN,0-6755-87399-782
+Black Tea,Britvic,Tea,680,3794,3395,399,2/2/2021,Amelia Walker,Suffolk,Ipswich,IP1 2EU,0-4923-28519-795
+Herbal Tea,Fever-Tree,Tea,139,11588,5027,6561,12/23/2021,Freya Carter,Angus,Forfar,DD8 5RU,0-1329-97973-653
+Wine,Fever-Tree,Alcoholic,871,5982,3784,2198,3/6/2020,Grace Clarke,Shetland Islands,Lerwick,ZE1 4UR,1-6639-22863-915
+Wine,Coca-Cola GB,Alcoholic,937,11639,7201,4438,12/17/2023,Alice Patel,Inverclyde,Greenock,PA15 4LS,1-1063-53665-157
+Lemonade,Fever-Tree,Soft Drink,750,5269,4436,833,9/28/2022,Emily Watson,West Sussex,Chichester,PO19 2XX,0-5320-76688-918
+Herbal Tea,Britvic,Tea,498,6818,3350,3468,10/2/2023,Lucas Harris,Conwy,Conwy,LL32 6VY,1-9554-83212-562
+Green Tea,Fever-Tree,Tea,895,6161,2921,3240,10/9/2022,Thomas Robinson,Oxfordshire,Oxford,OX1 7CU,1-1305-73768-983
+Green Tea,Fever-Tree,Tea,435,7904,5719,2185,4/24/2023,Benjamin Shah,West Sussex,Chichester,PO19 5FP,0-6984-43423-664
+Lemonade,Coca-Cola GB,Soft Drink,375,1507,1339,168,11/17/2023,Zara Islam,Conwy,Conwy,LL32 9DL,1-687-22206-787
+Black Tea,Coca-Cola GB,Tea,874,2574,3073,-499,9/13/2022,Olivia Wood,East Lothian,Haddington,EH41 7PU,0-8469-44671-172
+Lemonade,Coca-Cola GB,Soft Drink,313,4175,1688,2487,8/13/2022,Priya Roberts,Fermanagh and Omagh,Enniskillen,BT74 1DH,0-5034-74297-809
+Coffee,Fever-Tree,Coffee,725,8948,4981,3967,1/9/2022,Poppy Walker,Pembrokeshire,Haverfordwest,SA61 1NH,1-4257-75902-944
+Cola,Fever-Tree,Soft Drink,899,5244,3736,1508,5/26/2023,Mia Thomas,Ceredigion,Aberystwyth,SY23 8PU,1-2676-41632-614
+Coffee,Fever-Tree,Coffee,938,5497,5437,60,11/29/2021,Freya Brown,Monmouthshire,Monmouth,NP25 3NY,1-5521-97154-109
+Black Tea,Coca-Cola GB,Tea,967,3349,3310,39,9/3/2021,Zara Robinson,Rhondda Cynon Taf,Pontypridd,CF37 5HB,0-9387-43073-223
+Wine,Britvic,Alcoholic,846,6389,2785,3604,11/21/2020,Mia Evans,Argyll and Bute,Lochgilphead,PA31 2LR,1-3893-41013-108
+Beer,Britvic,Alcoholic,712,5076,3388,1688,9/15/2020,Poppy Ahmed,Cambridgeshire,Cambridge,CB1 5EM,1-8641-54657-776
+Wine,Coca-Cola GB,Alcoholic,502,7857,8745,-888,1/21/2023,Emily Wright,East Lothian,Haddington,EH41 5PS,0-9583-52339-49
+Vodka,Coca-Cola GB,Alcoholic,277,8429,7100,1329,5/24/2021,Oliver Williams,Clackmannanshire,Alloa,FK10 1TM,1-8044-15542-161
+Green Tea,Britvic,Tea,418,6844,7806,-962,5/16/2021,Leila Turner,Renfrewshire,Paisley,PA1 3PU,1-5242-25461-84
+Wine,Fever-Tree,Alcoholic,586,3464,1529,1935,5/5/2021,Yusuf Islam,Belfast,Belfast,BT1 4LT,1-1985-45296-63
+Beer,Fever-Tree,Alcoholic,137,2643,1814,829,12/20/2023,Liam Ali,Scottish Borders,Newtown St Boswells,TD6 4YM,0-6914-81182-550
+Green Tea,Fever-Tree,Tea,798,11093,5003,6090,12/26/2021,Charlie Watson,Isle of Anglesey,Llangefni,LL77 5XT,1-7158-27479-406
+Black Tea,Coca-Cola GB,Tea,599,11611,7270,4341,11/2/2023,Alfie Patel,Fermanagh and Omagh,Enniskillen,BT74 2HG,1-4636-44229-672
+Wine,Britvic,Alcoholic,633,10484,5591,4893,11/11/2021,Lucas Roberts,Surrey,Guildford,GU1 1RK,0-3008-44581-903
+Energy Drink,Coca-Cola GB,Soft Drink,964,6046,4443,1603,10/15/2022,Jessica Ahmed,Northumberland,Morpeth,NE61 8MV,1-1469-86148-733
+Wine,Britvic,Alcoholic,618,1667,1241,426,6/25/2021,Arjun Cooper,East Dunbartonshire,Kirkintilloch,G66 7JJ,0-6039-82512-296
+Vodka,Coca-Cola GB,Alcoholic,499,8558,6768,1790,8/20/2022,Harry Green,Armagh City Banbridge and Craigavon,Armagh,BT61 9WJ,0-5369-20657-542
+Herbal Tea,Britvic,Tea,859,3453,1566,1887,1/12/2020,Ella Walker,Hampshire,Winchester,SO23 4SM,1-1651-18009-640
+Herbal Tea,Britvic,Tea,70,1488,1271,217,7/9/2020,Zara Phillips,Powys,Llandrindod Wells,LD1 2LS,1-7809-40368-971
+Lemonade,Britvic,Soft Drink,680,8652,7922,730,5/23/2021,Ruby Islam,Flintshire,Mold,CH7 5US,1-3466-77862-622
+Energy Drink,Britvic,Soft Drink,800,6642,2748,3894,10/14/2022,Arjun King,Northumberland,Morpeth,NE61 6TS,1-3771-85743-999
+Black Tea,Fever-Tree,Tea,284,4339,2016,2323,11/9/2023,Isla Patel,Pembrokeshire,Haverfordwest,SA61 2KW,1-1037-92686-767
+Green Tea,Coca-Cola GB,Tea,247,11140,12138,-998,11/24/2023,Amelia Smith,Essex,Chelmsford,CM1 9KG,0-2210-85377-212
+Wine,Fever-Tree,Alcoholic,299,1487,1158,329,11/1/2022,Joseph King,Lincolnshire,Lincoln,LN1 1XG,1-3115-40792-862
+Wine,Coca-Cola GB,Alcoholic,969,11201,9121,2080,7/3/2023,Joseph Brown,Bridgend,Bridgend,CF31 7SN,1-7651-31578-698
+Coffee,Britvic,Coffee,415,7633,4520,3113,6/23/2020,Alice Hussain,Bridgend,Bridgend,CF31 1NU,0-887-51232-96
+Energy Drink,Britvic,Soft Drink,520,7293,8051,-758,6/22/2023,Alfie Harris,Wrexham,Wrexham,LL11 1KH,0-1869-23459-13
+Herbal Tea,Coca-Cola GB,Tea,808,9406,10257,-851,3/21/2022,Ava Wright,Leicestershire,Leicester,LE1 7WN,1-4270-82161-87
+Herbal Tea,Britvic,Tea,416,4054,1715,2339,5/20/2023,Fatima Khan,Somerset,Taunton,TA1 7EC,1-1848-36946-205
+Coffee,Fever-Tree,Coffee,322,1410,929,481,9/11/2022,George Ali,Lincolnshire,Lincoln,LN1 4PK,0-1744-47212-311
+Cola,Coca-Cola GB,Soft Drink,248,4133,2644,1489,10/23/2023,Ella Carter,Newry Mourne and Down,Newry,BT35 6YN,1-2189-48559-64
+Coffee,Fever-Tree,Coffee,112,7949,5802,2147,7/15/2023,Mia Brown,Perth and Kinross,Perth,PH1 3AM,1-1090-90980-654
+Vodka,Fever-Tree,Alcoholic,455,1115,480,635,4/12/2022,George Brown,Tyne and Wear,Newcastle upon Tyne,NE1 2XP,1-5464-61031-98
+Coffee,Fever-Tree,Coffee,725,5311,5672,-361,9/5/2021,Alice Green,Pembrokeshire,Haverfordwest,SA61 9ME,1-5893-18678-993
+Herbal Tea,Fever-Tree,Tea,627,8342,9344,-1002,2/11/2022,Grace Islam,Renfrewshire,Paisley,PA1 3TM,1-7471-97453-460
+Green Tea,Britvic,Tea,209,8122,4032,4090,10/2/2022,Daniel Wright,Caerphilly,Hengoed,CF82 3HC,1-8499-36197-502
+Wine,Coca-Cola GB,Alcoholic,682,7313,8627,-1314,6/4/2023,Freya Evans,East Renfrewshire,Giffnock,G46 9AC,0-3465-57400-161
+Herbal Tea,Fever-Tree,Tea,61,7614,7148,466,1/20/2023,Daniel Ahmed,Moray,Elgin,IV30 7VF,1-2641-46129-194
+Coffee,Coca-Cola GB,Coffee,215,7889,6857,1032,4/14/2022,Isla Johnson,West Midlands,Birmingham,B1 3XP,0-1304-41475-463
+Energy Drink,Fever-Tree,Soft Drink,363,5626,6073,-447,8/9/2021,Isabella Begum,Argyll and Bute,Lochgilphead,PA31 3HP,1-1457-23193-85
+Cola,Fever-Tree,Soft Drink,369,764,394,370,10/5/2021,Freddie Smith,Worcestershire,Worcester,WR1 6SS,0-7724-84379-815
+Green Tea,Coca-Cola GB,Tea,812,5471,3626,1845,6/15/2022,Freya Watson,Caerphilly,Hengoed,CF82 2JH,0-6666-62461-986
+Lemonade,Coca-Cola GB,Soft Drink,732,8710,9656,-946,2/12/2022,Ethan Harris,Bedfordshire,Bedford,MK40 2HM,0-6738-59508-577
+Beer,Coca-Cola GB,Alcoholic,434,9202,5539,3663,12/26/2021,Lily King,Renfrewshire,Paisley,PA1 2JJ,0-3800-49318-701
+Herbal Tea,Fever-Tree,Tea,368,560,451,109,3/5/2022,Joseph Islam,Bristol,Bristol,BS1 4JS,1-2858-62953-213
+Green Tea,Britvic,Tea,156,6993,4193,2800,12/27/2023,Liam Thompson,Carmarthenshire,Carmarthen,SA31 7LN,1-6886-59174-463
+Energy Drink,Fever-Tree,Soft Drink,467,10317,7125,3192,10/23/2023,Olivia Jones,Angus,Forfar,DD8 3VR,1-670-26545-69
+Beer,Coca-Cola GB,Alcoholic,935,4675,3522,1153,10/25/2023,Ava Shah,Inverclyde,Greenock,PA15 8CM,0-7529-27294-526
+Green Tea,Coca-Cola GB,Tea,933,1598,840,758,8/22/2020,Oliver Begum,Rutland,Oakham,LE15 9ME,1-9100-51744-278
+Cola,Britvic,Soft Drink,930,7693,7110,583,4/7/2021,Omar Edwards,Greater Manchester,Manchester,M1 2LY,0-1766-46937-366
+Energy Drink,Coca-Cola GB,Soft Drink,978,9180,8124,1056,6/20/2023,Mia Ali,Isle of Wight,Newport,PO30 7KK,1-5103-84531-636
+Black Tea,Coca-Cola GB,Tea,630,10162,11164,-1002,11/13/2021,Jack Shah,West Midlands,Birmingham,B1 3XG,1-2212-87993-726
+Black Tea,Coca-Cola GB,Tea,108,9066,4494,4572,4/30/2022,Oliver Begum,Somerset,Taunton,TA1 4JP,1-2294-17594-79
+Coffee,Fever-Tree,Coffee,234,705,817,-112,11/30/2021,Sophie Lewis,Renfrewshire,Paisley,PA1 6LW,0-6511-59811-157
+Black Tea,Fever-Tree,Tea,596,3135,2052,1083,6/6/2023,Mia Hussain,Vale of Glamorgan,Barry,CF63 2XD,0-3999-55457-328
+Cola,Coca-Cola GB,Soft Drink,955,7594,4380,3214,6/6/2023,Emily Islam,Bristol,Bristol,BS1 8NP,1-8971-60992-488
+Herbal Tea,Coca-Cola GB,Tea,501,8346,7361,985,6/28/2021,Charlie Mitchell,Glasgow City,Glasgow,G1 7UU,1-2444-57681-869
+Energy Drink,Fever-Tree,Soft Drink,483,5249,2569,2680,9/18/2020,Daisy Ali,Warwickshire,Warwick,CV34 1FJ,1-8248-44588-747
+Wine,Fever-Tree,Alcoholic,666,1790,1152,638,8/22/2022,Harry Harris,Flintshire,Mold,CH7 4TE,1-9091-73311-638
+Energy Drink,Fever-Tree,Soft Drink,796,6769,6117,652,1/16/2021,Muhammad Carter,Blaenau Gwent,Ebbw Vale,NP23 7AP,0-7465-87621-440
+Vodka,Britvic,Alcoholic,333,4620,4811,-191,2/19/2020,Aisha Watson,Fife,Glenrothes,KY7 4FK,0-822-83821-856
+Lemonade,Britvic,Soft Drink,107,4209,2332,1877,8/18/2020,William Johnson,Glasgow City,Glasgow,G1 8RS,0-5623-48669-582
+Cola,Coca-Cola GB,Soft Drink,566,7654,6950,704,12/20/2023,Joseph Watson,Denbighshire,Ruthin,LL15 4RH,0-7633-88579-337
+Beer,Fever-Tree,Alcoholic,169,5069,3341,1728,1/13/2020,Freddie Harris,Inverclyde,Greenock,PA15 6JN,0-2977-35430-339
+Black Tea,Fever-Tree,Tea,313,8037,7103,934,6/15/2023,Aisha Patel,Lisburn and Castlereagh,Lisburn,BT28 4DU,0-1596-90599-151
+Beer,Coca-Cola GB,Alcoholic,854,2759,2833,-74,4/1/2023,Edward Hussain,Greater Manchester,Manchester,M1 4DN,1-448-75593-909
+Cola,Coca-Cola GB,Soft Drink,985,11151,8559,2592,10/13/2020,Lily Wright,Renfrewshire,Paisley,PA1 7BV,1-6268-71833-621
+Beer,Britvic,Alcoholic,173,1170,649,521,7/17/2023,Ethan Jones,Flintshire,Mold,CH7 6VU,1-1796-77163-795
+Green Tea,Britvic,Tea,695,6466,3132,3334,7/9/2022,Lucas Green,Newport,Newport,NP20 7CH,0-7504-50410-475
+Vodka,Britvic,Alcoholic,158,1163,668,495,2/4/2021,Simran Smith,Greater Manchester,Manchester,M1 6SN,0-6269-65982-696
+Wine,Fever-Tree,Alcoholic,196,3572,1769,1803,3/19/2022,Samuel Shah,Carmarthenshire,Carmarthen,SA31 2TW,0-1160-57672-999
+Cola,Coca-Cola GB,Soft Drink,213,7804,7233,571,1/30/2022,Arjun Sharma,Herefordshire,Hereford,HR1 9DT,1-6768-32801-595
+Lemonade,Fever-Tree,Soft Drink,412,8097,4165,3932,10/30/2021,Daisy Cooper,Newry Mourne and Down,Newry,BT35 6YW,1-7811-48543-637
+Black Tea,Britvic,Tea,719,9067,10260,-1193,2/9/2023,Olivia Brown,Causeway Coast and Glens,Coleraine,BT52 9DG,1-8973-58118-465
+Energy Drink,Fever-Tree,Soft Drink,825,2868,2821,47,10/2/2021,Daniel Green,Somerset,Taunton,TA1 5JD,1-1199-21957-852
+Wine,Britvic,Alcoholic,141,10050,6042,4008,7/3/2021,Lily Jackson,West Dunbartonshire,Dumbarton,G82 9FX,1-4022-84188-196
+Wine,Fever-Tree,Alcoholic,169,5252,3763,1489,9/27/2021,Simran Harris,Surrey,Guildford,GU1 4HD,0-8793-76840-199
+Coffee,Britvic,Coffee,646,9176,9153,23,8/28/2020,Zara Roberts,Norfolk,Norwich,NR1 7TS,1-6189-17088-719
+Vodka,Fever-Tree,Alcoholic,592,8934,6574,2360,5/2/2020,Henry Watson,Neath Port Talbot,Port Talbot,SA13 2AF,1-6202-70091-998
+Wine,Coca-Cola GB,Alcoholic,989,8022,5765,2257,12/30/2022,Alfie Roberts,Causeway Coast and Glens,Coleraine,BT52 8TL,0-3158-19853-15
+Beer,Fever-Tree,Alcoholic,890,6175,6479,-304,8/10/2020,Joseph Mitchell,Kent,Maidstone,ME14 3DT,0-5985-36013-114
+Vodka,Coca-Cola GB,Alcoholic,439,11192,5301,5891,5/15/2020,Freddie Patel,West Sussex,Chichester,PO19 8YV,1-2302-89071-829
+Cola,Britvic,Soft Drink,365,8728,9755,-1027,9/7/2023,James Davies,Hampshire,Winchester,SO23 7MR,0-6937-41504-587
+Black Tea,Coca-Cola GB,Tea,211,10593,12225,-1632,12/25/2023,Benjamin Ahmed,Shetland Islands,Lerwick,ZE1 5WK,0-8664-23955-26
+Energy Drink,Fever-Tree,Soft Drink,674,8278,3997,4281,8/24/2021,Freya Hussain,Greater London,London,W1 2HE,0-4128-81825-159
+Herbal Tea,Fever-Tree,Tea,677,7915,7026,889,9/18/2021,Charlotte Jackson,Perth and Kinross,Perth,PH1 1MA,0-5131-87000-766
+Coffee,Fever-Tree,Coffee,972,4732,4148,584,1/1/2022,Arjun Williams,Staffordshire,Stafford,ST16 9TF,0-8865-22395-130
+Cola,Coca-Cola GB,Soft Drink,104,8724,10166,-1442,8/28/2022,Fatima Islam,Herefordshire,Hereford,HR1 7UF,1-7832-49795-380
+Black Tea,Britvic,Tea,253,2499,1312,1187,12/18/2021,Muhammad Sharma,Edinburgh,Edinburgh,EH1 4HA,0-4598-47249-841
+Green Tea,Britvic,Tea,565,9933,4920,5013,4/21/2022,Daniel King,Bristol,Bristol,BS1 8UV,0-8492-58952-17
+Wine,Britvic,Alcoholic,197,8838,7614,1224,11/6/2023,Noah Roberts,Isle of Wight,Newport,PO30 3UX,0-4166-25525-572
+Beer,Britvic,Alcoholic,490,1374,1094,280,10/28/2023,Priya Thomas,Glasgow City,Glasgow,G1 6TU,1-8322-60967-135
+Beer,Coca-Cola GB,Alcoholic,843,6728,7045,-317,6/7/2022,Alice Taylor,Bridgend,Bridgend,CF31 9EL,0-2565-99824-784
+Beer,Britvic,Alcoholic,476,7476,4851,2625,7/29/2020,Leila Islam,Essex,Chelmsford,CM1 8FK,0-8967-89958-466
+Coffee,Britvic,Coffee,729,8048,3881,4167,8/30/2021,Alfie Khan,Belfast,Belfast,BT1 7DX,0-3813-65985-395
+Vodka,Britvic,Alcoholic,719,661,712,-51,4/5/2021,Zara Taylor,Belfast,Belfast,BT1 3VT,1-2708-12826-562
+Coffee,Britvic,Coffee,883,3520,3744,-224,7/15/2023,Harry Harris,Clackmannanshire,Alloa,FK10 4LJ,1-859-78070-711
+Herbal Tea,Britvic,Tea,784,2278,1849,429,9/14/2023,Isla Smith,West Lothian,Livingston,EH54 6AH,0-5433-98857-455
+Herbal Tea,Britvic,Tea,991,9653,9047,606,1/26/2023,Amelia Jones,Midlothian,Dalkeith,EH22 9VN,0-7756-45118-960
+Beer,Coca-Cola GB,Alcoholic,179,6772,4302,2470,10/31/2020,Liam Thompson,Lancashire,Preston,PR1 1PG,0-8427-86556-908
+Herbal Tea,Britvic,Tea,684,5112,5210,-98,10/19/2021,Lily Turner,Causeway Coast and Glens,Coleraine,BT52 2EE,1-8037-77698-889
+Energy Drink,Coca-Cola GB,Soft Drink,111,3024,2959,65,7/16/2021,Liam Clarke,Antrim and Newtownabbey,Antrim,BT41 7BU,1-871-61554-306
+Cola,Coca-Cola GB,Soft Drink,284,2966,1347,1619,11/19/2020,Emily Brown,Isle of Anglesey,Llangefni,LL77 9NV,1-6640-91087-59
+Beer,Fever-Tree,Alcoholic,286,4214,4224,-10,11/20/2023,Arjun Turner,Devon,Exeter,EX1 4CG,0-360-72886-686
+Cola,Fever-Tree,Soft Drink,830,936,859,77,7/24/2020,Amelia Clarke,Warwickshire,Warwick,CV34 5DN,0-7292-90820-468
+Coffee,Coca-Cola GB,Coffee,135,4006,2764,1242,1/4/2021,Ava Harris,West Sussex,Chichester,PO19 8EY,0-1364-48770-865
+Beer,Fever-Tree,Alcoholic,232,8069,7365,704,9/13/2023,Alfie Edwards,Bridgend,Bridgend,CF31 5KP,0-6283-36442-952
+Lemonade,Britvic,Soft Drink,392,6852,6808,44,8/25/2020,Daisy Mitchell,Dundee City,Dundee,DD1 9JL,1-8865-57823-115
+Coffee,Britvic,Coffee,173,919,995,-76,10/23/2021,Daniel Turner,Conwy,Conwy,LL32 5CM,1-6022-77797-778
+Wine,Coca-Cola GB,Alcoholic,576,1433,946,487,8/23/2023,Charlie Wright,Armagh City Banbridge and Craigavon,Armagh,BT61 9LN,0-4092-81820-163
+Vodka,Fever-Tree,Alcoholic,90,2924,1224,1700,3/4/2020,Emily Wilson,Armagh City Banbridge and Craigavon,Armagh,BT61 4EU,0-1198-43218-464
+Green Tea,Fever-Tree,Tea,643,11417,9186,2231,9/19/2022,Priya Phillips,Herefordshire,Hereford,HR1 3YM,0-3583-69694-485
+Cola,Britvic,Soft Drink,281,8623,8364,259,12/12/2022,Zara Patel,Isle of Wight,Newport,PO30 8LN,0-3494-38773-917
+Wine,Britvic,Alcoholic,957,8060,6247,1813,7/17/2023,Ella Watson,Tyne and Wear,Newcastle upon Tyne,NE1 1HB,1-7504-14929-59
+Green Tea,Fever-Tree,Tea,388,7968,3830,4138,12/28/2022,Daisy Williams,Suffolk,Ipswich,IP1 3MY,1-5266-40160-674
+Cola,Britvic,Soft Drink,602,9715,8784,931,9/22/2023,Omar Green,Swansea,Swansea,SA1 9MJ,1-8207-70806-294
+Wine,Fever-Tree,Alcoholic,623,4981,5111,-130,5/6/2020,Joseph Taylor,Surrey,Guildford,GU1 5PK,0-1014-83303-54
+Energy Drink,Fever-Tree,Soft Drink,280,6945,3726,3219,2/6/2022,Amelia Thomas,Somerset,Taunton,TA1 4LM,0-7483-84329-834
+Wine,Coca-Cola GB,Alcoholic,532,11638,9699,1939,8/7/2021,Henry Lewis,East Sussex,Eastbourne,BN21 5TD,1-2872-17721-630
+Energy Drink,Fever-Tree,Soft Drink,139,2548,2411,137,12/19/2020,Ethan Robinson,Powys,Llandrindod Wells,LD1 3GK,0-667-90492-635
+Herbal Tea,Coca-Cola GB,Tea,777,10910,9257,1653,3/4/2023,Edward Islam,Belfast,Belfast,BT1 9WR,0-9957-24129-605
+Herbal Tea,Coca-Cola GB,Tea,185,9905,11309,-1404,10/28/2020,Lucas Roberts,Berkshire,Reading,RG1 9YP,0-5074-73809-296
+Coffee,Fever-Tree,Coffee,427,9431,6178,3253,7/22/2023,Charlie Walker,Newry Mourne and Down,Newry,BT35 8CB,0-1736-81089-604
+Coffee,Britvic,Coffee,613,7085,6355,730,5/3/2021,James Patel,Greater London,London,W1 2NE,1-6143-31992-621
+Black Tea,Coca-Cola GB,Tea,664,7034,4198,2836,10/1/2023,Sophie Carter,Greater Manchester,Manchester,M1 5EW,1-6804-11340-426
+Wine,Coca-Cola GB,Alcoholic,476,7138,7531,-393,2/5/2020,Grace Clarke,Derbyshire,Derby,DE1 5SD,1-9891-78566-782
+Vodka,Britvic,Alcoholic,747,4931,3944,987,7/22/2022,Henry Islam,South Yorkshire,Sheffield,S1 5DR,0-9912-51961-317
+Vodka,Coca-Cola GB,Alcoholic,535,4635,3338,1297,4/24/2020,Mia King,Gloucestershire,Gloucester,GL1 3VY,0-7774-72575-321
+Black Tea,Britvic,Tea,145,5616,4972,644,10/21/2021,Lucas Mitchell,East Riding of Yorkshire,Beverley,HU17 8RM,0-1489-47196-528
+Green Tea,Britvic,Tea,420,5162,2573,2589,12/27/2023,Fatima Williams,Inverclyde,Greenock,PA15 7WF,0-9830-16286-678
+Wine,Britvic,Alcoholic,581,1345,803,542,2/10/2023,Fatima Thomas,South Ayrshire,Ayr,KA7 5NK,0-2432-58929-554
+Coffee,Coca-Cola GB,Coffee,897,3322,2090,1232,11/15/2020,Noah Williams,Caerphilly,Hengoed,CF82 3MA,1-7543-82634-729
+Coffee,Britvic,Coffee,669,9337,6084,3253,2/10/2021,Yusuf Jones,Worcestershire,Worcester,WR1 4KR,0-7471-87388-810
+Coffee,Fever-Tree,Coffee,936,3842,3311,531,10/1/2021,Muhammad Robinson,Suffolk,Ipswich,IP1 6EG,1-7327-97965-121
+Vodka,Fever-Tree,Alcoholic,629,8852,9602,-750,4/21/2022,George Green,Merseyside,Liverpool,L1 8SU,1-2592-74923-988
+Energy Drink,Coca-Cola GB,Soft Drink,103,4354,3203,1151,11/29/2021,Olivia Cooper,Staffordshire,Stafford,ST16 5SU,0-961-30392-162
+Beer,Coca-Cola GB,Alcoholic,279,4672,4469,203,2/25/2020,Simran Evans,East Lothian,Haddington,EH41 1RE,0-3937-15925-751
+Beer,Coca-Cola GB,Alcoholic,493,3773,2680,1093,10/20/2023,Emily Ahmed,East Riding of Yorkshire,Beverley,HU17 8KS,1-2763-59976-479
+Green Tea,Fever-Tree,Tea,169,516,534,-18,1/27/2021,Jessica Edwards,Newry Mourne and Down,Newry,BT35 6GK,0-856-90744-602
+Energy Drink,Britvic,Soft Drink,62,7480,3753,3727,1/28/2020,Olivia Ali,Derbyshire,Derby,DE1 2DK,0-739-65598-508
+Energy Drink,Coca-Cola GB,Soft Drink,279,11515,13629,-2114,10/12/2022,Simran Shah,East Riding of Yorkshire,Beverley,HU17 9YA,1-8064-77286-606
+Energy Drink,Fever-Tree,Soft Drink,160,6871,3385,3486,6/7/2023,Daisy Taylor,Isle of Anglesey,Llangefni,LL77 5RR,0-2056-11660-725
+Green Tea,Coca-Cola GB,Tea,815,11026,6483,4543,11/19/2022,Poppy Sharma,Wiltshire,Salisbury,SP1 6JW,1-9232-66118-427
+Energy Drink,Coca-Cola GB,Soft Drink,526,6441,4755,1686,1/23/2020,Ella White,Northumberland,Morpeth,NE61 4DA,1-1389-58317-477
+Wine,Britvic,Alcoholic,179,3655,2012,1643,7/26/2022,Jack Davies,Antrim and Newtownabbey,Antrim,BT41 7WG,0-1891-31596-283
+Lemonade,Coca-Cola GB,Soft Drink,332,758,860,-102,10/24/2022,Ella Wood,Causeway Coast and Glens,Coleraine,BT52 7XF,0-8644-59487-974
+Wine,Fever-Tree,Alcoholic,563,4677,3871,806,8/6/2023,Arjun Begum,Conwy,Conwy,LL32 2TN,0-5960-75907-109
+Cola,Britvic,Soft Drink,970,1174,1093,81,3/27/2022,Muhammad Evans,Leicestershire,Leicester,LE1 6MF,0-1017-68541-581
+Energy Drink,Britvic,Soft Drink,230,801,329,472,1/3/2023,Freddie Phillips,Nottinghamshire,Nottingham,NG1 6RR,1-6186-24201-692
+Herbal Tea,Coca-Cola GB,Tea,92,5446,5051,395,11/12/2021,Ruby Williams,Rhondda Cynon Taf,Pontypridd,CF37 3WX,0-9498-12518-310
+Coffee,Coca-Cola GB,Coffee,110,2328,1603,725,5/1/2022,Thomas Taylor,Bridgend,Bridgend,CF31 5MT,1-1376-38298-984
+Cola,Fever-Tree,Soft Drink,145,11358,5646,5712,12/30/2022,Lucas Khan,East Lothian,Haddington,EH41 2LP,0-5936-22062-362
+Vodka,Fever-Tree,Alcoholic,952,852,637,215,11/15/2021,Freya Phillips,Somerset,Taunton,TA1 1CB,0-2689-13809-497
+Black Tea,Britvic,Tea,682,1806,2089,-283,2/10/2020,Yusuf Hussain,Gloucestershire,Gloucester,GL1 7LX,1-6489-64921-552
+Vodka,Fever-Tree,Alcoholic,485,5058,3738,1320,5/25/2023,Isabella Wright,Leicestershire,Leicester,LE1 5NY,0-4554-73068-82
+Lemonade,Fever-Tree,Soft Drink,785,4563,5211,-648,3/6/2021,Alice Roberts,Denbighshire,Ruthin,LL15 6DT,0-2687-89970-679
+Wine,Coca-Cola GB,Alcoholic,985,5685,3826,1859,3/9/2023,Zara Davies,West Sussex,Chichester,PO19 8BX,0-1515-34334-326
+Vodka,Fever-Tree,Alcoholic,245,4474,4576,-102,1/20/2022,Thomas Edwards,Argyll and Bute,Lochgilphead,PA31 1PR,1-6195-68188-782
+Wine,Fever-Tree,Alcoholic,233,637,405,232,6/24/2020,Freddie Roberts,West Lothian,Livingston,EH54 6GL,0-8637-73298-357
+Black Tea,Britvic,Tea,162,8054,9431,-1377,8/22/2020,Leila Johnson,Greater Manchester,Manchester,M1 5CA,1-9533-98781-930
+Herbal Tea,Coca-Cola GB,Tea,202,6296,3579,2717,11/26/2020,Fatima Turner,Fife,Glenrothes,KY7 1FC,0-2307-92515-525
+Cola,Coca-Cola GB,Soft Drink,395,5677,3865,1812,8/14/2023,Henry Thompson,Tyne and Wear,Newcastle upon Tyne,NE1 2DE,0-1334-33218-975
+Black Tea,Coca-Cola GB,Tea,367,9414,8283,1131,9/7/2023,Thomas Mitchell,Swansea,Swansea,SA1 2CR,0-5692-56548-850
+Green Tea,Coca-Cola GB,Tea,799,2641,1438,1203,11/19/2023,Leila Begum,West Sussex,Chichester,PO19 3SA,1-3991-68222-626
+Beer,Fever-Tree,Alcoholic,629,6668,5535,1133,11/8/2020,Lily Davies,Gwynedd,Caernarfon,LL55 5BX,0-8888-52827-401
+Cola,Fever-Tree,Soft Drink,785,4723,5206,-483,8/5/2022,Joseph Clarke,Conwy,Conwy,LL32 5LC,0-4697-28350-913
+Vodka,Fever-Tree,Alcoholic,165,1199,931,268,6/22/2023,Ruby Green,Nottinghamshire,Nottingham,NG1 4RP,1-5051-95097-419
+Green Tea,Fever-Tree,Tea,194,4678,4686,-8,12/30/2023,Samuel Brown,Scottish Borders,Newtown St Boswells,TD6 5DF,1-8956-53480-394
+Black Tea,Britvic,Tea,280,8074,5394,2680,4/26/2021,Omar Wright,East Riding of Yorkshire,Beverley,HU17 4UD,0-4111-72277-626
+Lemonade,Coca-Cola GB,Soft Drink,494,3317,2645,672,6/2/2020,Daniel Islam,Moray,Elgin,IV30 1KN,0-754-58433-285
+Coffee,Fever-Tree,Coffee,358,4176,4199,-23,9/15/2023,Henry Mitchell,Shetland Islands,Lerwick,ZE1 9GP,1-3305-36956-698
+Lemonade,Britvic,Soft Drink,146,9759,8781,978,8/10/2021,Ethan Evans,Ceredigion,Aberystwyth,SY23 5XR,1-1351-10285-883
+Lemonade,Coca-Cola GB,Soft Drink,430,5543,5945,-402,11/25/2021,Edward Ahmed,Hampshire,Winchester,SO23 3NJ,0-5150-51222-727
+Energy Drink,Coca-Cola GB,Soft Drink,616,4465,3025,1440,10/28/2023,Emily Robinson,Gwynedd,Caernarfon,LL55 6SM,1-1586-77275-792
+Beer,Britvic,Alcoholic,325,8612,4332,4280,6/12/2023,Freddie Davies,Isle of Wight,Newport,PO30 7YA,0-745-15619-160
+Cola,Britvic,Soft Drink,848,9518,4155,5363,6/25/2023,Lily Roberts,Fermanagh and Omagh,Enniskillen,BT74 2GT,0-676-56381-182
+Wine,Britvic,Alcoholic,437,5893,6461,-568,9/3/2021,Muhammad Khan,Cambridgeshire,Cambridge,CB1 4DT,0-9913-52487-501
+Wine,Coca-Cola GB,Alcoholic,111,8702,8815,-113,3/26/2023,Ethan Phillips,Pembrokeshire,Haverfordwest,SA61 7WD,0-9110-62632-517
+Herbal Tea,Britvic,Tea,342,874,782,92,1/18/2022,Thomas Lewis,Wiltshire,Salisbury,SP1 9SN,0-2367-53899-245
+Cola,Coca-Cola GB,Soft Drink,998,2620,1785,835,12/3/2021,Daniel Taylor,West Dunbartonshire,Dumbarton,G82 4FN,0-6867-80283-582
+Wine,Coca-Cola GB,Alcoholic,423,1269,1227,42,10/6/2020,Liam Phillips,Nottinghamshire,Nottingham,NG1 8LB,0-7271-28383-483
+Lemonade,Fever-Tree,Soft Drink,965,4364,4409,-45,6/24/2022,Fatima Thomas,Falkirk,Falkirk,FK1 2YL,1-4796-62551-419
+Green Tea,Fever-Tree,Tea,868,2997,2944,53,2/25/2022,Yusuf Turner,Newry Mourne and Down,Newry,BT35 2BF,0-1294-67872-782
+Beer,Coca-Cola GB,Alcoholic,361,4154,3107,1047,7/18/2022,Omar Singh,Merthyr Tydfil,Merthyr Tydfil,CF47 2EE,1-4817-74771-392
+Black Tea,Coca-Cola GB,Tea,836,2031,1318,713,2/25/2021,Arjun Singh,Wrexham,Wrexham,LL11 7WK,1-5322-91646-111
+Lemonade,Fever-Tree,Soft Drink,514,586,475,111,2/12/2020,Evie Khan,Hertfordshire,Hertford,SG13 1JD,1-2654-27339-248
+Energy Drink,Fever-Tree,Soft Drink,704,3352,1588,1764,6/6/2021,Amelia Thompson,Stirling,Stirling,FK8 7BV,0-6465-62742-292
+Beer,Fever-Tree,Alcoholic,543,6534,6150,384,6/8/2022,Aisha Watson,West Yorkshire,Leeds,LS1 2UJ,1-5747-63336-646
+Energy Drink,Fever-Tree,Soft Drink,543,3673,2901,772,8/12/2020,Alice Singh,Suffolk,Ipswich,IP1 9SN,1-9311-30487-519
+Green Tea,Coca-Cola GB,Tea,646,4187,4370,-183,2/27/2021,Charlie Islam,Highland,Inverness,IV1 6VC,1-6368-59275-307
+Wine,Fever-Tree,Alcoholic,978,1189,1229,-40,9/15/2020,Henry Clarke,East Sussex,Eastbourne,BN21 9AS,0-5705-66317-612
+Beer,Britvic,Alcoholic,459,521,476,45,10/20/2022,Jessica Mitchell,Wrexham,Wrexham,LL11 1AB,0-6743-25491-217
+Lemonade,Coca-Cola GB,Soft Drink,875,1056,940,116,4/21/2020,Zara Ali,Dundee City,Dundee,DD1 3LR,0-8302-24833-185
+Cola,Coca-Cola GB,Soft Drink,255,11258,8563,2695,9/10/2022,Thomas Singh,Derry City and Strabane,Derry,BT48 5TG,0-3837-86969-175
+Coffee,Fever-Tree,Coffee,863,2292,2157,135,7/7/2023,Arjun Thompson,Newry Mourne and Down,Newry,BT35 4SH,0-1782-60272-516
+Beer,Britvic,Alcoholic,847,8517,3590,4927,8/3/2022,Priya Robinson,Stirling,Stirling,FK8 8UV,0-6803-98208-512
+Vodka,Coca-Cola GB,Alcoholic,114,8119,9554,-1435,2/2/2022,Charlie Watson,Merseyside,Liverpool,L1 7RG,0-2067-49590-146
+Lemonade,Coca-Cola GB,Soft Drink,981,10665,7444,3221,4/15/2021,Florence Wood,Antrim and Newtownabbey,Antrim,BT41 2YC,0-5440-51599-71
+Black Tea,Coca-Cola GB,Tea,311,4906,4601,305,2/12/2022,Poppy Thompson,Armagh City Banbridge and Craigavon,Armagh,BT61 2HN,1-7543-22843-151
+Cola,Coca-Cola GB,Soft Drink,904,8580,8954,-374,10/11/2021,Lily Edwards,Clackmannanshire,Alloa,FK10 1DF,0-5983-20802-302
+Lemonade,Britvic,Soft Drink,519,640,410,230,4/27/2021,Ella Robinson,Angus,Forfar,DD8 3XP,1-655-45918-888
+Green Tea,Fever-Tree,Tea,655,3990,3468,522,10/17/2020,Leila Wilson,Torfaen,Pontypool,NP4 9VY,1-6581-86810-104
+Coffee,Britvic,Coffee,910,8807,9564,-757,9/16/2022,Joseph Turner,Northumberland,Morpeth,NE61 9NN,1-3148-77970-595
+Cola,Britvic,Soft Drink,548,7581,5853,1728,3/2/2022,Fatima Carter,City of London,London,EC1 2PH,1-763-72843-70
+Herbal Tea,Britvic,Tea,456,10417,6991,3426,4/28/2021,Simran Shah,Bedfordshire,Bedford,MK40 9VF,1-4761-97414-804
+Coffee,Britvic,Coffee,250,7812,6639,1173,5/3/2022,Ruby Ali,North Ayrshire,Irvine,KA12 3JF,1-1395-68954-868
+Wine,Fever-Tree,Alcoholic,713,11611,7978,3633,12/5/2021,Daisy White,Berkshire,Reading,RG1 1TM,1-1391-82357-301
+Herbal Tea,Fever-Tree,Tea,700,7923,5132,2791,11/28/2023,Omar Wright,Merseyside,Liverpool,L1 6FU,1-2463-80728-698
+Vodka,Coca-Cola GB,Alcoholic,496,6447,5351,1096,5/17/2022,Ruby Mitchell,Hertfordshire,Hertford,SG13 1AL,1-2842-10071-62
+Coffee,Fever-Tree,Coffee,332,1976,1923,53,3/3/2022,Liam Ali,Lincolnshire,Lincoln,LN1 4LE,1-3148-71500-295
+Cola,Fever-Tree,Soft Drink,190,6118,5538,580,10/30/2021,Poppy Roberts,Armagh City Banbridge and Craigavon,Armagh,BT61 9SU,0-3806-12913-445
+Energy Drink,Fever-Tree,Soft Drink,218,11490,7213,4277,8/9/2021,Emily Hussain,Flintshire,Mold,CH7 5CC,0-1517-82712-867
+Lemonade,Fever-Tree,Soft Drink,791,5807,4480,1327,11/30/2021,Ella Ahmed,Angus,Forfar,DD8 6XV,1-8479-73935-396
+Wine,Britvic,Alcoholic,508,3737,4168,-431,2/27/2021,Alice Phillips,South Yorkshire,Sheffield,S1 8FP,0-2997-70477-513
+Herbal Tea,Coca-Cola GB,Tea,558,7740,8057,-317,1/21/2021,Aisha Patel,Northumberland,Morpeth,NE61 8LC,1-9160-93020-643
+Cola,Coca-Cola GB,Soft Drink,894,9723,5833,3890,10/31/2023,Lily Walker,Leicestershire,Leicester,LE1 3YT,1-239-49252-289
+Energy Drink,Coca-Cola GB,Soft Drink,326,4579,2060,2519,1/10/2022,Daniel Patel,South Lanarkshire,Hamilton,ML3 4BW,1-4521-43039-651
+Green Tea,Britvic,Tea,401,11217,12496,-1279,9/9/2020,Arjun Shah,Shropshire,Shrewsbury,SY1 3ED,1-5465-11411-653
+Beer,Britvic,Alcoholic,296,7355,7792,-437,6/1/2020,Freddie Patel,Essex,Chelmsford,CM1 8DE,1-9635-40935-276
+Green Tea,Britvic,Tea,534,1093,750,343,10/27/2022,Ava Clarke,Berkshire,Reading,RG1 9JB,0-5864-95974-737
+Green Tea,Britvic,Tea,786,3458,3328,130,3/14/2023,Simran Shah,Suffolk,Ipswich,IP1 1YL,0-6741-34241-809
+Black Tea,Coca-Cola GB,Tea,694,11761,13333,-1572,9/21/2020,Joseph Cooper,Lisburn and Castlereagh,Lisburn,BT28 9VX,1-1467-99417-424
+Coffee,Britvic,Coffee,832,1021,961,60,11/10/2020,Joseph Clarke,Rhondda Cynon Taf,Pontypridd,CF37 3EA,0-7342-16259-857
+Cola,Britvic,Soft Drink,348,10367,4438,5929,12/24/2020,Omar Turner,Hertfordshire,Hertford,SG13 2BD,0-2618-64401-112
+Energy Drink,Coca-Cola GB,Soft Drink,948,8343,9135,-792,5/17/2023,Arjun Singh,East Renfrewshire,Giffnock,G46 5PY,1-6571-49669-90
+Beer,Fever-Tree,Alcoholic,969,3004,1899,1105,9/6/2021,Olivia Lewis,Clackmannanshire,Alloa,FK10 6MC,0-2375-41029-810
+Black Tea,Coca-Cola GB,Tea,584,3675,2272,1403,8/18/2023,Lily Patel,Berkshire,Reading,RG1 7AS,1-4592-91955-59
+Wine,Coca-Cola GB,Alcoholic,688,10265,4939,5326,10/12/2020,James Islam,Gwynedd,Caernarfon,LL55 1KJ,1-436-78835-920
+Coffee,Fever-Tree,Coffee,69,11862,7774,4088,3/2/2023,Henry Green,Na h-Eileanan Siar,Stornoway,HS1 9SD,1-7400-88005-590
+Coffee,Coca-Cola GB,Coffee,708,7405,4661,2744,8/25/2022,Zara Thomas,Wiltshire,Salisbury,SP1 8KA,0-411-43544-221
+Cola,Britvic,Soft Drink,744,3940,1980,1960,2/3/2023,Muhammad Shah,Dumfries and Galloway,Dumfries,DG1 3TC,0-2134-77908-157
+Herbal Tea,Britvic,Tea,181,11313,10901,412,6/2/2022,Fatima Johnson,Wrexham,Wrexham,LL11 7DC,0-3212-63645-714
+Green Tea,Britvic,Tea,128,3776,2480,1296,4/11/2021,Lucas Cooper,Merseyside,Liverpool,L1 6EY,1-4283-89117-766
+Lemonade,Britvic,Soft Drink,706,3583,3463,120,11/2/2022,Charlotte Evans,Neath Port Talbot,Port Talbot,SA13 3RH,0-2114-36462-450
+Beer,Britvic,Alcoholic,60,8042,9518,-1476,10/12/2021,James Phillips,Belfast,Belfast,BT1 8NY,1-2086-34954-224
+Black Tea,Coca-Cola GB,Tea,678,2122,1098,1024,12/6/2020,Sophie Lewis,Cheshire,Chester,CH1 9YP,0-4744-21239-222
+Green Tea,Britvic,Tea,940,3716,2961,755,2/22/2021,Poppy Jones,East Sussex,Eastbourne,BN21 5KS,0-7864-55442-431
+Black Tea,Fever-Tree,Tea,525,3469,2884,585,1/3/2020,Leila Carter,Gloucestershire,Gloucester,GL1 9KW,1-3859-73192-809
+Beer,Britvic,Alcoholic,214,11832,13428,-1596,5/14/2022,Ethan Thomas,Midlothian,Dalkeith,EH22 7SF,1-2050-54146-919
+Vodka,Coca-Cola GB,Alcoholic,493,2687,2517,170,6/10/2022,Florence Islam,Bedfordshire,Bedford,MK40 7KF,0-6793-68213-454
+Herbal Tea,Coca-Cola GB,Tea,710,1130,745,385,3/11/2023,James Robinson,West Lothian,Livingston,EH54 1UG,0-1258-81716-975
+Herbal Tea,Coca-Cola GB,Tea,885,5070,2811,2259,11/13/2020,Freya Harris,Durham,Durham,DH1 8XN,1-7438-25254-685
+Vodka,Fever-Tree,Alcoholic,514,4325,4606,-281,10/1/2021,Liam Carter,Angus,Forfar,DD8 9TG,1-3420-23065-271
+Green Tea,Britvic,Tea,600,7739,5448,2291,7/22/2023,Henry Edwards,Shetland Islands,Lerwick,ZE1 6HC,1-7386-57175-780
+Energy Drink,Fever-Tree,Soft Drink,885,9833,6861,2972,7/14/2023,Fatima Davies,Pembrokeshire,Haverfordwest,SA61 5XB,0-3339-94670-455
+Green Tea,Fever-Tree,Tea,880,6981,5287,1694,2/21/2022,Ruby Johnson,Torfaen,Pontypool,NP4 8TC,1-7570-46169-203
+Herbal Tea,Coca-Cola GB,Tea,944,2379,971,1408,12/2/2020,Omar Evans,Devon,Exeter,EX1 2PA,0-3685-65299-244
+Wine,Britvic,Alcoholic,806,3110,2945,165,4/13/2022,Charlie Harris,North Ayrshire,Irvine,KA12 2HH,1-2497-39591-281
+Wine,Britvic,Alcoholic,406,8480,7345,1135,6/22/2021,Fatima Jones,North Lanarkshire,Motherwell,ML1 1HF,1-1073-28256-210
+Green Tea,Coca-Cola GB,Tea,58,2425,2018,407,6/2/2022,Ava Begum,East Riding of Yorkshire,Beverley,HU17 2XS,0-671-19557-73
+Coffee,Coca-Cola GB,Coffee,292,9576,9394,182,8/5/2021,Daisy Jones,Angus,Forfar,DD8 9CW,0-5020-39083-220
+Vodka,Fever-Tree,Alcoholic,871,8958,4388,4570,8/11/2021,Benjamin Mitchell,Durham,Durham,DH1 6FK,0-7714-51799-677
+Green Tea,Britvic,Tea,915,11803,4968,6835,6/7/2023,Freya Watson,Gloucestershire,Gloucester,GL1 4PF,0-5986-20417-705
+Black Tea,Fever-Tree,Tea,373,1605,1782,-177,3/3/2022,Simran White,Argyll and Bute,Lochgilphead,PA31 6UF,1-6072-40763-328
+Vodka,Fever-Tree,Alcoholic,642,5955,3012,2943,3/23/2020,Mia Thompson,Ceredigion,Aberystwyth,SY23 1TS,0-3673-46247-983
+Energy Drink,Britvic,Soft Drink,373,7614,5741,1873,3/14/2020,George Lewis,Lisburn and Castlereagh,Lisburn,BT28 9RU,0-8152-66450-138
+Wine,Fever-Tree,Alcoholic,224,2403,1301,1102,7/2/2023,Ella King,Worcestershire,Worcester,WR1 3CX,0-5354-48318-729
+Lemonade,Britvic,Soft Drink,229,2490,2660,-170,11/13/2023,Grace Turner,East Renfrewshire,Giffnock,G46 3CS,0-2711-23593-427
+Herbal Tea,Fever-Tree,Tea,52,4260,3609,651,1/16/2023,Zara Singh,Isle of Anglesey,Llangefni,LL77 4NM,1-7774-46087-889
+Vodka,Coca-Cola GB,Alcoholic,68,4052,1622,2430,5/15/2020,Olivia Williams,Nottinghamshire,Nottingham,NG1 5SU,0-7772-31706-948
+Energy Drink,Coca-Cola GB,Soft Drink,756,1909,1980,-71,1/22/2023,Emily Roberts,Greater London,London,W1 5RX,1-282-82551-896
+Energy Drink,Coca-Cola GB,Soft Drink,543,1190,486,704,5/2/2020,Evie Smith,Pembrokeshire,Haverfordwest,SA61 2MF,0-5069-27964-328
+Energy Drink,Fever-Tree,Soft Drink,643,4053,2475,1578,4/25/2023,Edward Begum,Cornwall,Truro,TR1 6TG,0-561-87393-47
+Herbal Tea,Fever-Tree,Tea,253,3234,3045,189,6/27/2020,Evie King,Fermanagh and Omagh,Enniskillen,BT74 4LP,0-6015-62108-152
+Black Tea,Fever-Tree,Tea,855,7381,7569,-188,10/29/2021,Edward Watson,Stirling,Stirling,FK8 7JX,0-9803-81516-185
+Wine,Fever-Tree,Alcoholic,916,7583,4796,2787,5/17/2020,Sophie Evans,Orkney Islands,Kirkwall,KW15 4SL,1-5951-26805-688
+Black Tea,Britvic,Tea,313,4711,3739,972,5/1/2022,Charlotte Wright,Herefordshire,Hereford,HR1 4EB,0-5978-44184-366
+Coffee,Fever-Tree,Coffee,395,6787,3615,3172,9/21/2021,Daisy Hussain,Lancashire,Preston,PR1 5KL,1-6694-45683-513
+Green Tea,Britvic,Tea,522,8620,3466,5154,7/11/2022,Zara Islam,Kent,Maidstone,ME14 8GF,1-7538-19329-704
+Cola,Coca-Cola GB,Soft Drink,360,9708,9978,-270,4/5/2020,Leila Sharma,Oxfordshire,Oxford,OX1 5WV,0-926-67386-819
+Wine,Britvic,Alcoholic,91,8360,5927,2433,7/11/2022,Yusuf Sharma,East Lothian,Haddington,EH41 5VP,0-2208-22672-404
+Cola,Coca-Cola GB,Soft Drink,445,7766,4285,3481,11/22/2020,Charlotte Khan,East Dunbartonshire,Kirkintilloch,G66 8LG,0-1575-61543-518
+Cola,Britvic,Soft Drink,273,5852,4066,1786,2/15/2022,Charlie Carter,Staffordshire,Stafford,ST16 9BL,0-4596-53150-540
+Green Tea,Coca-Cola GB,Tea,327,7183,6610,573,5/29/2020,Amelia Hussain,East Lothian,Haddington,EH41 6KU,1-451-62620-589
+Beer,Coca-Cola GB,Alcoholic,498,7583,6143,1440,8/11/2023,Jack Watson,Derry City and Strabane,Derry,BT48 4CB,0-9046-36254-342
+Lemonade,Fever-Tree,Soft Drink,603,7238,7139,99,8/29/2020,Leila Jones,Isle of Anglesey,Llangefni,LL77 6UF,0-4408-85582-643
+Wine,Fever-Tree,Alcoholic,671,8304,6329,1975,5/16/2023,Liam Shah,Essex,Chelmsford,CM1 7FA,0-9533-10609-934
+Vodka,Britvic,Alcoholic,388,8907,6549,2358,2/1/2022,Thomas King,Dundee City,Dundee,DD1 5KN,0-1736-45382-824
+Vodka,Coca-Cola GB,Alcoholic,422,1569,793,776,1/9/2023,Thomas Ali,Northumberland,Morpeth,NE61 9XV,1-7994-48684-765
+Green Tea,Fever-Tree,Tea,113,10738,11836,-1098,4/19/2021,Emily Singh,Carmarthenshire,Carmarthen,SA31 8UJ,1-9003-73040-303
+Wine,Fever-Tree,Alcoholic,946,2968,1990,978,1/18/2022,Henry Thompson,Orkney Islands,Kirkwall,KW15 8EJ,1-1060-72970-831
+Wine,Britvic,Alcoholic,590,3742,2860,882,7/13/2023,Alice Walker,East Sussex,Eastbourne,BN21 7LF,0-1846-65724-225
+Beer,Coca-Cola GB,Alcoholic,269,5237,3889,1348,1/28/2022,Charlie Khan,Greater Manchester,Manchester,M1 6AK,1-1829-66822-984
+Beer,Coca-Cola GB,Alcoholic,912,1080,581,499,10/4/2021,Simran Taylor,Scottish Borders,Newtown St Boswells,TD6 9AY,1-3184-56106-988
+Energy Drink,Coca-Cola GB,Soft Drink,505,7621,7677,-56,9/14/2023,Fatima Roberts,Cornwall,Truro,TR1 1YY,1-6969-62691-908
+Cola,Coca-Cola GB,Soft Drink,603,6477,5819,658,9/20/2023,Freddie Wright,Durham,Durham,DH1 9GJ,1-4944-82667-131
+Beer,Coca-Cola GB,Alcoholic,138,1565,1529,36,1/11/2023,Sophie Jackson,Antrim and Newtownabbey,Antrim,BT41 5FB,1-2616-17144-370
+Herbal Tea,Britvic,Tea,61,7840,6605,1235,5/14/2020,Grace Jones,Surrey,Guildford,GU1 7PX,0-4509-82623-987
+Black Tea,Fever-Tree,Tea,330,7980,7625,355,3/28/2022,Grace Thompson,South Ayrshire,Ayr,KA7 5SP,1-6672-49344-42
+Vodka,Coca-Cola GB,Alcoholic,800,8215,7590,625,11/18/2020,Jack Watson,Wiltshire,Salisbury,SP1 7HJ,0-8582-12014-755
+Cola,Britvic,Soft Drink,784,1217,1436,-219,9/24/2020,Yusuf Cooper,East Ayrshire,Kilmarnock,KA1 9NH,1-2107-45058-461
+Wine,Coca-Cola GB,Alcoholic,51,8532,5155,3377,4/11/2023,Samuel Phillips,Rutland,Oakham,LE15 4TN,0-8618-54224-694
+Green Tea,Britvic,Tea,823,2774,1820,954,3/10/2022,Joseph Patel,Hampshire,Winchester,SO23 2CK,1-2470-21855-331
+Vodka,Fever-Tree,Alcoholic,611,3327,2736,591,5/11/2020,Samuel Watson,Merthyr Tydfil,Merthyr Tydfil,CF47 4DB,1-4935-32396-535
+Energy Drink,Fever-Tree,Soft Drink,686,8087,7578,509,5/6/2023,James Clarke,Mid and East Antrim,Ballymena,BT42 1NC,1-7868-60393-946
+Cola,Fever-Tree,Soft Drink,405,1491,632,859,1/24/2020,Leila Jones,Shropshire,Shrewsbury,SY1 1VS,0-5383-31616-776
+Herbal Tea,Fever-Tree,Tea,964,8589,4427,4162,5/27/2020,Zara Wright,East Riding of Yorkshire,Beverley,HU17 4TG,0-8979-93656-99
+Energy Drink,Coca-Cola GB,Soft Drink,678,10639,7747,2892,5/11/2020,Muhammad Robinson,Staffordshire,Stafford,ST16 7FG,0-4301-88804-242
+Energy Drink,Fever-Tree,Soft Drink,460,1620,834,786,5/31/2023,Omar King,Belfast,Belfast,BT1 1JW,0-907-72287-943
+Wine,Coca-Cola GB,Alcoholic,330,10596,6021,4575,5/9/2022,Edward Green,Blaenau Gwent,Ebbw Vale,NP23 8UD,0-3027-96463-581
+Vodka,Britvic,Alcoholic,881,8897,3659,5238,5/29/2022,Jack Harris,North Lanarkshire,Motherwell,ML1 4XA,0-4330-32154-674
+Wine,Coca-Cola GB,Alcoholic,479,5679,4989,690,11/4/2023,Daisy Edwards,Argyll and Bute,Lochgilphead,PA31 6LR,0-3665-28208-909
+Herbal Tea,Coca-Cola GB,Tea,267,6199,6235,-36,7/10/2022,Freya White,Monmouthshire,Monmouth,NP25 6YW,0-3558-34259-81
+Herbal Tea,Britvic,Tea,763,3220,2272,948,10/8/2021,Poppy Williams,Antrim and Newtownabbey,Antrim,BT41 2XR,1-4566-53904-277
+Cola,Fever-Tree,Soft Drink,532,10276,5374,4902,6/15/2020,Lucas Patel,East Riding of Yorkshire,Beverley,HU17 8PF,0-5497-15747-672
+Black Tea,Britvic,Tea,544,5112,2324,2788,3/30/2023,Yusuf Smith,Inverclyde,Greenock,PA15 9EE,1-2914-80402-5
+Wine,Coca-Cola GB,Alcoholic,276,1513,1188,325,1/12/2023,Isabella Thompson,East Lothian,Haddington,EH41 4DX,0-1828-67002-733
+Black Tea,Coca-Cola GB,Tea,136,7679,3352,4327,12/7/2023,Fatima Thomas,Falkirk,Falkirk,FK1 1DB,1-1694-69793-626
+Wine,Britvic,Alcoholic,856,5305,2551,2754,4/18/2021,Jessica Edwards,Moray,Elgin,IV30 4ER,0-9249-83156-426
+Lemonade,Fever-Tree,Soft Drink,109,7211,2981,4230,10/11/2022,Joseph Mitchell,Shropshire,Shrewsbury,SY1 5JB,1-2389-62850-782
+Wine,Fever-Tree,Alcoholic,316,3840,3473,367,2/4/2020,Grace Robinson,Renfrewshire,Paisley,PA1 3DY,0-6783-10692-698
+Cola,Britvic,Soft Drink,63,2146,1635,511,10/23/2022,Poppy Wilson,Worcestershire,Worcester,WR1 8SR,1-7505-91389-377
+Coffee,Britvic,Coffee,108,4695,4204,491,1/23/2020,Lily Smith,Bedfordshire,Bedford,MK40 5KT,0-1693-17017-377
+Vodka,Fever-Tree,Alcoholic,343,9458,9008,450,8/15/2023,Priya Singh,Herefordshire,Hereford,HR1 8UC,0-6725-41890-314
+Energy Drink,Coca-Cola GB,Soft Drink,434,8812,5732,3080,10/13/2020,Amelia Wilson,East Ayrshire,Kilmarnock,KA1 6TY,0-1251-46353-111
+Lemonade,Fever-Tree,Soft Drink,967,8333,5012,3321,3/10/2020,Harry Begum,Monmouthshire,Monmouth,NP25 2BP,0-9920-93634-125
+Vodka,Britvic,Alcoholic,926,2432,1933,499,3/19/2020,Fatima Ahmed,Scottish Borders,Newtown St Boswells,TD6 6RA,0-3990-58323-54
+Beer,Coca-Cola GB,Alcoholic,213,3160,2809,351,12/25/2023,Amelia Williams,Glasgow City,Glasgow,G1 7SP,0-5813-73469-544
+Cola,Coca-Cola GB,Soft Drink,244,2387,2278,109,11/12/2022,Edward Turner,Bridgend,Bridgend,CF31 3NK,1-8904-94575-954
+Cola,Fever-Tree,Soft Drink,237,5359,3166,2193,3/21/2022,James Wright,Cumbria,Carlisle,CA1 8GT,0-252-70068-637
+Wine,Britvic,Alcoholic,766,5280,3550,1730,6/11/2023,Daisy King,Shetland Islands,Lerwick,ZE1 6AG,1-8138-39902-365
+Energy Drink,Coca-Cola GB,Soft Drink,169,4993,3712,1281,3/7/2023,Ethan Cooper,Stirling,Stirling,FK8 2KW,1-9715-63714-301
+Wine,Britvic,Alcoholic,88,7843,5973,1870,3/29/2021,Freya Williams,Shropshire,Shrewsbury,SY1 9GR,0-1096-72781-868
+Coffee,Britvic,Coffee,398,11628,10516,1112,11/4/2021,Alfie Jackson,Kent,Maidstone,ME14 7UT,1-5975-99523-353
+Energy Drink,Britvic,Soft Drink,898,4278,1895,2383,5/23/2022,Samuel Lewis,East Riding of Yorkshire,Beverley,HU17 8PG,0-8840-20295-998
+Wine,Fever-Tree,Alcoholic,125,10986,7115,3871,2/10/2022,Fatima Harris,West Midlands,Birmingham,B1 3RV,0-7037-76648-371
+Cola,Coca-Cola GB,Soft Drink,975,4861,5564,-703,7/4/2023,Noah Taylor,West Lothian,Livingston,EH54 6RS,0-2161-73942-239
+Coffee,Coca-Cola GB,Coffee,570,3597,3109,488,6/17/2021,Olivia Khan,Perth and Kinross,Perth,PH1 8XW,0-1568-51591-728
+Lemonade,Fever-Tree,Soft Drink,71,3655,3140,515,12/16/2020,Charlie Wright,Greater Manchester,Manchester,M1 6MB,0-7812-98538-52
+Cola,Fever-Tree,Soft Drink,432,4058,4428,-370,4/10/2023,Evie Turner,Cornwall,Truro,TR1 8MG,0-2364-74580-724
+Energy Drink,Britvic,Soft Drink,282,10748,9757,991,10/4/2022,Jack Patel,Leicestershire,Leicester,LE1 6JH,0-2734-53228-422
+Lemonade,Fever-Tree,Soft Drink,816,1002,543,459,6/27/2021,George Evans,Durham,Durham,DH1 7HU,1-8479-25157-395
+Vodka,Britvic,Alcoholic,897,3354,1583,1771,11/21/2020,Jack Begum,City of London,London,EC1 9BB,1-7523-29533-301
+Cola,Fever-Tree,Soft Drink,785,8664,7870,794,7/30/2022,Priya Roberts,Hampshire,Winchester,SO23 7DM,1-8917-73372-477
+Coffee,Fever-Tree,Coffee,282,6690,4943,1747,12/5/2023,Charlie Ahmed,Midlothian,Dalkeith,EH22 1XB,1-619-47629-419
+Cola,Coca-Cola GB,Soft Drink,644,8451,6150,2301,8/3/2022,Liam King,Cheshire,Chester,CH1 8WL,0-2427-60536-430
+Beer,Fever-Tree,Alcoholic,302,1189,552,637,8/22/2023,Fatima Brown,Angus,Forfar,DD8 9AV,1-2122-56267-996
+Vodka,Fever-Tree,Alcoholic,715,1949,921,1028,4/14/2020,Edward Turner,West Dunbartonshire,Dumbarton,G82 9GP,0-3733-54063-437
+Wine,Britvic,Alcoholic,616,3091,2354,737,2/14/2020,Edward Hussain,Gwynedd,Caernarfon,LL55 6HA,1-7396-65592-92
+Green Tea,Fever-Tree,Tea,747,2662,2613,49,10/14/2021,Benjamin Turner,Newry Mourne and Down,Newry,BT35 5KX,1-2589-34632-110
+Herbal Tea,Coca-Cola GB,Tea,932,5055,5549,-494,3/14/2020,Freya Brown,Norfolk,Norwich,NR1 4PX,0-1580-66881-101
+Black Tea,Britvic,Tea,789,6131,6894,-763,3/29/2023,Ruby Wood,Wrexham,Wrexham,LL11 2KM,0-9792-72061-858
+Coffee,Coca-Cola GB,Coffee,100,6524,4968,1556,3/4/2021,Yusuf Johnson,Mid Ulster,Cookstown,BT80 3LT,0-2220-90541-445
+Herbal Tea,Fever-Tree,Tea,772,7622,9083,-1461,2/7/2022,Jessica Thomas,Pembrokeshire,Haverfordwest,SA61 7PV,0-6583-38613-217
+Lemonade,Fever-Tree,Soft Drink,382,5502,2436,3066,3/15/2022,James King,Renfrewshire,Paisley,PA1 1LT,1-990-21096-57
+Energy Drink,Britvic,Soft Drink,362,6870,6448,422,1/9/2020,Benjamin Williams,Suffolk,Ipswich,IP1 1AU,1-5590-32336-983
+Herbal Tea,Britvic,Tea,135,6736,6781,-45,4/5/2021,Poppy Evans,Newry Mourne and Down,Newry,BT35 2YP,1-4053-97151-507
+Herbal Tea,Britvic,Tea,652,9635,10423,-788,3/20/2023,Poppy Williams,Caerphilly,Hengoed,CF82 7UP,1-520-38316-581
+Herbal Tea,Britvic,Tea,155,3541,4030,-489,7/20/2021,Leila Carter,Derbyshire,Derby,DE1 6FU,1-1122-60174-398
+Wine,Coca-Cola GB,Alcoholic,675,7628,7914,-286,9/22/2023,Olivia Johnson,Newry Mourne and Down,Newry,BT35 1KC,1-5386-83669-642
+Green Tea,Coca-Cola GB,Tea,618,829,634,195,9/3/2020,Zara Ali,Mid and East Antrim,Ballymena,BT42 8GA,0-6316-86153-104
+Coffee,Britvic,Coffee,806,840,504,336,12/18/2021,Emily Khan,Bedfordshire,Bedford,MK40 9DB,1-2437-35785-443
+Energy Drink,Fever-Tree,Soft Drink,748,865,960,-95,7/23/2020,Jack Khan,Merseyside,Liverpool,L1 4XG,1-5817-56779-772
+Vodka,Britvic,Alcoholic,476,1942,981,961,2/1/2020,Lily Watson,Pembrokeshire,Haverfordwest,SA61 2YT,1-5630-84852-405
+Coffee,Fever-Tree,Coffee,115,8719,5520,3199,5/8/2020,Harry Wood,East Dunbartonshire,Kirkintilloch,G66 9RK,1-5446-73720-608
+Energy Drink,Fever-Tree,Soft Drink,508,4945,5715,-770,3/14/2023,Mia Jones,Newry Mourne and Down,Newry,BT35 1XR,0-1557-70610-204
+Herbal Tea,Britvic,Tea,870,6909,7904,-995,2/23/2021,Freddie Jones,Oxfordshire,Oxford,OX1 8DC,0-7558-85992-712
+Wine,Fever-Tree,Alcoholic,889,4376,4787,-411,2/20/2022,Poppy Wright,Mid and East Antrim,Ballymena,BT42 7BV,0-3381-54914-420
+Beer,Fever-Tree,Alcoholic,376,7087,5712,1375,3/14/2020,Zara Mitchell,Blaenau Gwent,Ebbw Vale,NP23 2HD,1-7433-61183-490
+Beer,Coca-Cola GB,Alcoholic,498,4856,5213,-357,6/30/2022,Lucas Wright,Ceredigion,Aberystwyth,SY23 3WG,1-3815-73470-381
+Black Tea,Fever-Tree,Tea,200,11496,10055,1441,10/22/2023,Charlotte Williams,Fife,Glenrothes,KY7 8HA,1-6387-80650-789
+Wine,Coca-Cola GB,Alcoholic,149,2505,2612,-107,11/9/2021,Olivia Thompson,Caerphilly,Hengoed,CF82 8SB,0-6757-78126-482
+Herbal Tea,Fever-Tree,Tea,707,2019,1061,958,12/29/2020,Samuel Jackson,Belfast,Belfast,BT1 1MH,1-2922-99568-930
+Lemonade,Coca-Cola GB,Soft Drink,693,11313,8286,3027,5/23/2022,Ava Johnson,South Yorkshire,Sheffield,S1 6CX,1-8985-81916-655
+Lemonade,Britvic,Soft Drink,211,5038,3406,1632,7/27/2023,Lucas Patel,West Dunbartonshire,Dumbarton,G82 3KW,0-2465-47599-653
+Energy Drink,Coca-Cola GB,Soft Drink,925,10302,11410,-1108,6/30/2020,Yusuf Jones,Aberdeenshire,Inverurie,AB51 7DL,1-3587-23100-976
+Lemonade,Coca-Cola GB,Soft Drink,767,4429,1864,2565,4/4/2021,Zara Wood,Ceredigion,Aberystwyth,SY23 4WK,0-2481-11627-304
+Energy Drink,Britvic,Soft Drink,731,3058,3387,-329,8/9/2023,Lucas Roberts,Bristol,Bristol,BS1 5DT,1-9677-66155-920
+Herbal Tea,Coca-Cola GB,Tea,317,10385,8252,2133,8/5/2023,Freddie Cooper,Gwynedd,Caernarfon,LL55 2AB,0-2373-23780-331
+Herbal Tea,Britvic,Tea,345,5397,3093,2304,4/20/2022,Alfie Smith,Orkney Islands,Kirkwall,KW15 3PR,0-8395-68252-71
+Herbal Tea,Fever-Tree,Tea,192,6425,4692,1733,8/13/2023,Priya King,Wrexham,Wrexham,LL11 1XU,1-4484-96334-271
+Coffee,Fever-Tree,Coffee,915,9826,6835,2991,7/31/2021,Alice Carter,Belfast,Belfast,BT1 8MV,1-1895-25720-456
+Cola,Coca-Cola GB,Soft Drink,469,8317,6437,1880,12/12/2021,Leila Jackson,Argyll and Bute,Lochgilphead,PA31 3UT,1-8984-63454-369
+Black Tea,Coca-Cola GB,Tea,86,5048,4390,658,2/12/2020,Yusuf Watson,Lancashire,Preston,PR1 1TD,1-4657-33788-600
+Green Tea,Coca-Cola GB,Tea,71,2037,1255,782,4/15/2020,Fatima Thompson,Shropshire,Shrewsbury,SY1 4MA,1-6147-52540-86
+Green Tea,Fever-Tree,Tea,789,2375,2320,55,9/23/2022,Aisha Carter,Bristol,Bristol,BS1 3BR,1-7571-89223-953
+Energy Drink,Fever-Tree,Soft Drink,775,3868,2795,1073,9/4/2022,Edward Smith,Mid Ulster,Cookstown,BT80 1MT,0-5379-79603-196
+Wine,Fever-Tree,Alcoholic,602,11744,10795,949,4/3/2023,Zara Robinson,North Lanarkshire,Motherwell,ML1 4HW,1-4640-17138-65
+Wine,Coca-Cola GB,Alcoholic,291,3240,2627,613,7/10/2023,Amelia Evans,Na h-Eileanan Siar,Stornoway,HS1 3MW,1-4547-99842-715
+Vodka,Britvic,Alcoholic,612,3936,3246,690,3/5/2023,Omar Lewis,North Yorkshire,York,YO1 3DP,1-4045-75230-935
+Black Tea,Coca-Cola GB,Tea,794,7894,8921,-1027,1/7/2022,George Jones,Blaenau Gwent,Ebbw Vale,NP23 4ED,1-2955-54540-868
+Wine,Fever-Tree,Alcoholic,758,2500,2307,193,8/23/2023,Yusuf Williams,Renfrewshire,Paisley,PA1 2JJ,1-1019-93459-10
+Beer,Britvic,Alcoholic,404,4292,5137,-845,11/28/2021,Freddie Begum,Highland,Inverness,IV1 1UR,0-5212-80396-842
+Cola,Fever-Tree,Soft Drink,264,7830,8168,-338,11/29/2022,Lucas Roberts,East Lothian,Haddington,EH41 9DX,1-2762-61505-632
+Cola,Britvic,Soft Drink,534,989,608,381,4/16/2020,James Brown,Carmarthenshire,Carmarthen,SA31 2XN,0-7914-15573-481
+Green Tea,Fever-Tree,Tea,927,7100,7330,-230,11/12/2023,Arjun Davies,Scottish Borders,Newtown St Boswells,TD6 9TH,0-7261-40427-859
+Cola,Fever-Tree,Soft Drink,958,11545,12200,-655,11/21/2022,Olivia Brown,Causeway Coast and Glens,Coleraine,BT52 5SJ,0-2946-35265-897
+Cola,Britvic,Soft Drink,254,7852,7617,235,2/6/2023,Liam Robinson,Denbighshire,Ruthin,LL15 8ND,1-4147-36965-613
+Cola,Fever-Tree,Soft Drink,586,6814,6425,389,12/4/2023,Ethan Hussain,Derry City and Strabane,Derry,BT48 2AW,1-1737-15104-597
+Cola,Coca-Cola GB,Soft Drink,294,1410,1624,-214,2/14/2022,Florence Williams,Shetland Islands,Lerwick,ZE1 3JY,0-1366-39436-579
+Coffee,Fever-Tree,Coffee,523,6729,8004,-1275,10/10/2021,James Edwards,Flintshire,Mold,CH7 7JS,1-1295-12187-602
+Green Tea,Coca-Cola GB,Tea,363,5055,4182,873,5/16/2021,Olivia Phillips,Bristol,Bristol,BS1 7FX,0-5413-17331-235
+Energy Drink,Fever-Tree,Soft Drink,564,9976,7164,2812,4/15/2023,Jack Ali,Dorset,Dorchester,DT1 4WD,1-4243-49612-513
+Green Tea,Britvic,Tea,807,7165,4429,2736,11/17/2022,Henry Carter,Wiltshire,Salisbury,SP1 2XE,1-5827-13495-425
+Black Tea,Britvic,Tea,748,4992,3345,1647,2/28/2023,George Jones,Dundee City,Dundee,DD1 2BR,1-3553-84991-427
+Black Tea,Coca-Cola GB,Tea,532,2355,2571,-216,5/5/2020,Joseph Lewis,Neath Port Talbot,Port Talbot,SA13 9AD,0-4413-28860-900
+Green Tea,Fever-Tree,Tea,343,8095,7835,260,2/28/2020,Simran Wilson,West Midlands,Birmingham,B1 4CS,0-5136-26429-215
+Coffee,Britvic,Coffee,257,9206,8979,227,12/24/2021,Liam Edwards,Stirling,Stirling,FK8 2UM,1-4886-44184-164
+Green Tea,Britvic,Tea,679,2972,2458,514,8/5/2022,Ruby Cooper,Armagh City Banbridge and Craigavon,Armagh,BT61 3DX,0-243-52661-876
+Cola,Coca-Cola GB,Soft Drink,655,5388,4101,1287,8/15/2022,Harry Roberts,South Yorkshire,Sheffield,S1 3PN,1-483-47209-570
+Lemonade,Fever-Tree,Soft Drink,764,9729,4531,5198,3/24/2020,Edward Jackson,Torfaen,Pontypool,NP4 7DX,1-4861-15546-192
+Black Tea,Britvic,Tea,880,9708,5279,4429,11/9/2022,Daniel Sharma,Dundee City,Dundee,DD1 8JE,1-221-85751-511
+Vodka,Coca-Cola GB,Alcoholic,647,7066,7013,53,3/25/2022,Charlotte Ahmed,Flintshire,Mold,CH7 9YD,1-9315-61150-411
+Lemonade,Fever-Tree,Soft Drink,577,4926,5334,-408,3/22/2020,Emily Islam,East Lothian,Haddington,EH41 6KS,0-3362-73195-498
+Green Tea,Fever-Tree,Tea,182,9972,4023,5949,1/23/2023,Evie Harris,Surrey,Guildford,GU1 5LG,0-9360-67947-347
+Beer,Britvic,Alcoholic,879,9633,3891,5742,12/16/2022,Joseph Walker,Staffordshire,Stafford,ST16 6GL,0-6775-16045-218
+Wine,Coca-Cola GB,Alcoholic,155,11305,5070,6235,11/25/2021,Alfie Thompson,City of London,London,EC1 4EK,1-3106-46509-474
+Energy Drink,Coca-Cola GB,Soft Drink,59,3020,2896,124,1/14/2020,Olivia Singh,Lincolnshire,Lincoln,LN1 1CU,1-8700-64636-671
+Lemonade,Britvic,Soft Drink,155,7811,5084,2727,6/17/2020,Freddie Johnson,Leicestershire,Leicester,LE1 4MY,0-9832-99883-421
+Coffee,Coca-Cola GB,Coffee,725,2696,2075,621,5/29/2020,Muhammad Phillips,Inverclyde,Greenock,PA15 7HJ,0-6599-14951-11
+Wine,Coca-Cola GB,Alcoholic,671,7510,6918,592,9/10/2021,Evie Wright,Wrexham,Wrexham,LL11 7RG,1-6691-42933-640
+Lemonade,Britvic,Soft Drink,252,10451,10455,-4,4/14/2021,Arjun Harris,Armagh City Banbridge and Craigavon,Armagh,BT61 6FM,0-3744-89700-894
+Herbal Tea,Coca-Cola GB,Tea,852,1843,1180,663,9/18/2020,Omar Wright,Devon,Exeter,EX1 4MG,0-9127-20031-940
+Green Tea,Coca-Cola GB,Tea,759,9090,4274,4816,6/9/2021,Yusuf Williams,Cardiff,Cardiff,CF10 2YM,1-9019-32492-434
+Cola,Coca-Cola GB,Soft Drink,967,3005,3325,-320,9/7/2020,Samuel Wood,South Ayrshire,Ayr,KA7 3UB,1-8721-71138-739
+Lemonade,Fever-Tree,Soft Drink,406,10449,4615,5834,9/11/2022,Thomas Sharma,West Yorkshire,Leeds,LS1 2SM,0-4770-20993-782
+Wine,Fever-Tree,Alcoholic,73,658,300,358,4/26/2021,Arjun Mitchell,Midlothian,Dalkeith,EH22 6KT,1-3869-24435-334
+Vodka,Britvic,Alcoholic,875,4673,5250,-577,2/17/2022,Edward Williams,Aberdeen City,Aberdeen,AB10 5SH,1-6771-54843-136
+Coffee,Fever-Tree,Coffee,575,10831,9466,1365,7/6/2023,William White,Ards and North Down,Bangor,BT20 4CF,1-991-53724-533
+Lemonade,Fever-Tree,Soft Drink,874,3303,2203,1100,12/25/2021,Simran Green,Greater Manchester,Manchester,M1 8GN,1-192-62963-57
+Beer,Britvic,Alcoholic,103,2318,1935,383,11/30/2022,Alfie Hussain,East Sussex,Eastbourne,BN21 1FN,0-3815-99654-727
+Wine,Britvic,Alcoholic,628,3800,2088,1712,12/21/2020,Simran Khan,Denbighshire,Ruthin,LL15 2JK,1-2231-31093-599
+Vodka,Fever-Tree,Alcoholic,975,9641,10018,-377,5/7/2021,Noah Khan,North Ayrshire,Irvine,KA12 9WF,0-5656-78822-551
+Coffee,Britvic,Coffee,648,2200,998,1202,2/11/2022,James Smith,Powys,Llandrindod Wells,LD1 5LU,1-9116-80971-744
+Lemonade,Britvic,Soft Drink,864,6666,3670,2996,11/25/2022,Yusuf Thompson,Lisburn and Castlereagh,Lisburn,BT28 1UU,1-5336-99228-144
+Lemonade,Coca-Cola GB,Soft Drink,245,5873,6563,-690,2/11/2020,William Wright,Belfast,Belfast,BT1 5GL,0-3834-27614-308
+Green Tea,Fever-Tree,Tea,972,11161,7724,3437,8/12/2020,Olivia Jones,Ards and North Down,Bangor,BT20 8EJ,1-4444-91515-329
+Herbal Tea,Fever-Tree,Tea,151,4248,3902,346,12/11/2022,Grace Lewis,Mid and East Antrim,Ballymena,BT42 8WA,0-5709-39468-317
+Herbal Tea,Britvic,Tea,60,10259,8848,1411,3/19/2023,Noah Jackson,Blaenau Gwent,Ebbw Vale,NP23 1GB,0-4652-43036-136
+Wine,Britvic,Alcoholic,838,4667,4420,247,1/9/2023,Florence Wright,Newport,Newport,NP20 1WM,0-7781-69511-525
+Wine,Fever-Tree,Alcoholic,799,1545,1166,379,11/22/2023,Ella Jones,North Yorkshire,York,YO1 1HB,1-6241-66450-150
+Herbal Tea,Fever-Tree,Tea,311,1812,919,893,5/23/2023,Grace Cooper,Torfaen,Pontypool,NP4 3VL,0-2783-35330-232
+Herbal Tea,Coca-Cola GB,Tea,50,3372,2317,1055,1/20/2021,Olivia King,Newry Mourne and Down,Newry,BT35 1FS,0-3560-12872-604
+Lemonade,Coca-Cola GB,Soft Drink,400,6803,7301,-498,12/15/2020,Harry Islam,Belfast,Belfast,BT1 2DC,1-2859-20169-688
+Beer,Coca-Cola GB,Alcoholic,329,7102,2933,4169,9/16/2023,Lucas Lewis,Devon,Exeter,EX1 3VA,1-4976-51149-602
+Vodka,Coca-Cola GB,Alcoholic,92,4413,2775,1638,4/7/2020,Fatima Harris,Aberdeenshire,Inverurie,AB51 5CJ,1-7304-60678-348
+Herbal Tea,Fever-Tree,Tea,966,6254,4320,1934,10/29/2021,Aisha King,Aberdeenshire,Inverurie,AB51 3SE,0-3228-84499-200
+Herbal Tea,Britvic,Tea,699,7359,2952,4407,8/22/2020,Samuel Shah,Stirling,Stirling,FK8 4TS,0-9606-25725-991
+Wine,Fever-Tree,Alcoholic,521,3195,3552,-357,2/7/2023,Henry Watson,Derbyshire,Derby,DE1 5PS,0-4425-76244-501
+Green Tea,Fever-Tree,Tea,452,11814,6569,5245,2/25/2022,Ruby Khan,Caerphilly,Hengoed,CF82 8KL,1-8106-31922-85
+Beer,Fever-Tree,Alcoholic,882,11771,5012,6759,7/15/2022,Alfie Begum,Powys,Llandrindod Wells,LD1 9WT,1-3992-76967-804
+Green Tea,Fever-Tree,Tea,431,2327,1703,624,1/2/2021,Freya Carter,Ards and North Down,Bangor,BT20 8JR,0-6547-15723-246
+Cola,Fever-Tree,Soft Drink,66,701,746,-45,2/7/2022,Ruby Jones,Greater Manchester,Manchester,M1 7RJ,1-665-94360-290
+Energy Drink,Coca-Cola GB,Soft Drink,680,9084,10869,-1785,10/29/2022,Liam Ahmed,Renfrewshire,Paisley,PA1 8GH,0-1337-84095-95
+Beer,Fever-Tree,Alcoholic,308,8553,4331,4222,12/13/2021,Freddie Lewis,Moray,Elgin,IV30 9JC,0-156-12979-306
+Herbal Tea,Britvic,Tea,387,11986,7020,4966,9/28/2020,Liam Clarke,Leicestershire,Leicester,LE1 3EX,1-1881-71235-558
+Coffee,Fever-Tree,Coffee,427,906,1029,-123,4/18/2020,William Davies,Bristol,Bristol,BS1 6XH,0-3589-50312-861
+Wine,Coca-Cola GB,Alcoholic,561,10750,10731,19,7/3/2022,Zara Johnson,Mid and East Antrim,Ballymena,BT42 2EJ,1-9120-90481-714
+Black Tea,Coca-Cola GB,Tea,150,7878,6204,1674,6/8/2023,Jack Clarke,North Yorkshire,York,YO1 7XX,1-1745-60444-301
+Coffee,Fever-Tree,Coffee,749,2969,2512,457,11/23/2022,Yusuf Taylor,Angus,Forfar,DD8 4GJ,1-4784-70469-171
+Herbal Tea,Fever-Tree,Tea,597,1622,682,940,2/8/2023,Alice Cooper,Clackmannanshire,Alloa,FK10 8UN,0-1177-50539-408
+Wine,Fever-Tree,Alcoholic,469,1422,1462,-40,1/1/2023,Ethan Turner,Belfast,Belfast,BT1 5JL,1-713-32570-283
+Vodka,Fever-Tree,Alcoholic,768,6311,5022,1289,10/23/2021,Emily Harris,Ceredigion,Aberystwyth,SY23 9NN,1-5731-99463-781
+Coffee,Britvic,Coffee,610,11596,12106,-510,4/1/2022,Lily Brown,Bristol,Bristol,BS1 4XN,1-3583-95909-512
+Beer,Britvic,Alcoholic,797,11359,6456,4903,1/1/2023,Isla Johnson,City of London,London,EC1 9JS,1-2744-59005-340
+Cola,Fever-Tree,Soft Drink,108,3179,3325,-146,5/27/2022,Olivia Smith,Renfrewshire,Paisley,PA1 6FE,1-4633-57118-138
+Cola,Fever-Tree,Soft Drink,219,1691,1242,449,4/25/2022,Zara Robinson,Edinburgh,Edinburgh,EH1 7MP,1-1120-28098-532
+Green Tea,Fever-Tree,Tea,399,9464,5292,4172,3/1/2022,Emily Robinson,Buckinghamshire,Aylesbury,HP20 4GM,1-1041-58319-531
+Coffee,Fever-Tree,Coffee,338,6288,6471,-183,6/30/2023,Florence Ali,Armagh City Banbridge and Craigavon,Armagh,BT61 7CD,0-1830-83752-799
+Vodka,Britvic,Alcoholic,67,7686,3816,3870,3/15/2022,Ava Phillips,Leicestershire,Leicester,LE1 4SC,1-861-93000-858
+Cola,Coca-Cola GB,Soft Drink,367,2104,1349,755,10/6/2020,Olivia Carter,Torfaen,Pontypool,NP4 8RD,1-3757-97232-604
+Green Tea,Fever-Tree,Tea,613,8378,6929,1449,5/13/2023,Joseph Clarke,West Midlands,Birmingham,B1 6NY,1-6855-93000-441
+Herbal Tea,Britvic,Tea,133,3889,1932,1957,1/1/2023,Ethan Harris,Aberdeenshire,Inverurie,AB51 5JP,0-6085-80074-874
+Beer,Fever-Tree,Alcoholic,757,11738,6487,5251,9/8/2021,Leila Phillips,Wrexham,Wrexham,LL11 3LA,0-2597-68361-987
+Coffee,Coca-Cola GB,Coffee,424,1391,1078,313,6/2/2021,George Brown,South Ayrshire,Ayr,KA7 5RT,0-9959-36922-602
+Cola,Coca-Cola GB,Soft Drink,320,2653,2491,162,6/25/2020,Samuel Cooper,West Sussex,Chichester,PO19 1UM,1-1818-44722-415
+Herbal Tea,Fever-Tree,Tea,250,11193,8313,2880,12/28/2020,Ruby Islam,Isle of Wight,Newport,PO30 3MJ,1-4740-91313-961
+Black Tea,Coca-Cola GB,Tea,544,1889,1864,25,5/12/2022,Ethan Jackson,Falkirk,Falkirk,FK1 5DS,1-9335-44136-63
+Black Tea,Britvic,Tea,267,10107,7708,2399,11/29/2020,Florence Thomas,Isle of Anglesey,Llangefni,LL77 6YC,1-9153-72534-378
+Herbal Tea,Coca-Cola GB,Tea,713,2643,2168,475,4/18/2022,Alice Brown,Dumfries and Galloway,Dumfries,DG1 3YR,1-7732-99143-530
+Vodka,Fever-Tree,Alcoholic,668,1796,1118,678,3/31/2022,Emily Edwards,Lisburn and Castlereagh,Lisburn,BT28 9YW,1-5374-27841-739
+Beer,Britvic,Alcoholic,996,6297,6958,-661,5/7/2022,Daisy Thompson,Tyne and Wear,Newcastle upon Tyne,NE1 5JH,1-7519-27481-142
+Lemonade,Fever-Tree,Soft Drink,226,6621,4492,2129,7/5/2021,Thomas White,East Ayrshire,Kilmarnock,KA1 8DE,0-694-59996-374
+Vodka,Britvic,Alcoholic,365,3245,3415,-170,3/25/2023,Liam Hussain,Na h-Eileanan Siar,Stornoway,HS1 6FW,0-6875-49387-282
+Green Tea,Britvic,Tea,123,6065,6901,-836,5/7/2023,Zara Ali,Midlothian,Dalkeith,EH22 4XN,0-2228-96954-342
+Beer,Britvic,Alcoholic,394,4830,3174,1656,6/24/2022,Muhammad Smith,Aberdeen City,Aberdeen,AB10 2WB,0-953-93147-145
+Vodka,Britvic,Alcoholic,714,4646,5007,-361,12/18/2021,Ruby Cooper,South Yorkshire,Sheffield,S1 2TN,1-9290-91490-629
+Herbal Tea,Fever-Tree,Tea,421,764,466,298,10/29/2023,George Begum,Inverclyde,Greenock,PA15 1TF,0-2632-23801-298
+Coffee,Coca-Cola GB,Coffee,344,10555,7832,2723,8/26/2021,Aisha Islam,Antrim and Newtownabbey,Antrim,BT41 8EA,0-4881-20739-485
+Coffee,Britvic,Coffee,363,4760,3845,915,8/11/2023,Noah Wright,Fife,Glenrothes,KY7 2FG,1-6949-42370-328
+Beer,Fever-Tree,Alcoholic,759,7619,6302,1317,10/8/2021,Charlotte Wright,Fermanagh and Omagh,Enniskillen,BT74 5NN,1-1721-31409-62
+Coffee,Britvic,Coffee,529,3354,3943,-589,8/7/2022,Jack Thomas,Derry City and Strabane,Derry,BT48 2PN,0-9813-27795-485
+Energy Drink,Coca-Cola GB,Soft Drink,520,7531,7784,-253,8/18/2021,Evie Hussain,Suffolk,Ipswich,IP1 9MX,0-1885-58283-248
+Wine,Britvic,Alcoholic,548,7189,6553,636,10/2/2021,Freya Singh,Monmouthshire,Monmouth,NP25 3TE,1-5844-54171-826
+Green Tea,Fever-Tree,Tea,802,1436,733,703,1/21/2022,Florence Thompson,West Yorkshire,Leeds,LS1 4FG,1-9423-38499-752
+Cola,Fever-Tree,Soft Drink,272,9842,11213,-1371,9/20/2023,Noah Thompson,Orkney Islands,Kirkwall,KW15 8BX,0-5766-19275-973
+Cola,Coca-Cola GB,Soft Drink,652,10603,8969,1634,9/5/2022,Charlie Lewis,North Lanarkshire,Motherwell,ML1 7CA,0-2514-49366-137
+Black Tea,Britvic,Tea,99,8829,6067,2762,9/20/2020,Arjun Begum,Merseyside,Liverpool,L1 7BF,1-2775-62436-468
+Coffee,Fever-Tree,Coffee,590,7874,7019,855,1/28/2021,Olivia King,Devon,Exeter,EX1 8CP,0-4760-28168-67
+Herbal Tea,Coca-Cola GB,Tea,998,9396,9514,-118,11/11/2020,Freya Jackson,Na h-Eileanan Siar,Stornoway,HS1 6KH,0-8672-96362-69
+Black Tea,Fever-Tree,Tea,453,9671,9250,421,2/10/2021,Jack Davies,Angus,Forfar,DD8 7VD,1-8829-56373-407
+Beer,Britvic,Alcoholic,558,3285,2954,331,6/20/2023,Fatima Mitchell,Lincolnshire,Lincoln,LN1 6WU,1-3332-49522-87
+Cola,Britvic,Soft Drink,515,3478,1639,1839,7/3/2023,Aisha Begum,Hampshire,Winchester,SO23 7JW,1-8963-16005-982
+Cola,Coca-Cola GB,Soft Drink,637,6742,7350,-608,6/2/2023,Noah Clarke,South Ayrshire,Ayr,KA7 2UB,0-8779-64225-748
+Lemonade,Coca-Cola GB,Soft Drink,910,2700,1977,723,9/15/2022,Grace Thompson,Lincolnshire,Lincoln,LN1 8NJ,0-1243-46208-792
+Black Tea,Fever-Tree,Tea,52,9514,10055,-541,11/12/2022,Alice Turner,Orkney Islands,Kirkwall,KW15 4FY,1-9852-24166-488
+Energy Drink,Coca-Cola GB,Soft Drink,947,3806,3978,-172,1/21/2023,Sophie Jones,Isle of Wight,Newport,PO30 2YD,1-2727-78430-835
+Beer,Britvic,Alcoholic,234,11490,13758,-2268,7/23/2022,George Jackson,South Yorkshire,Sheffield,S1 6AN,0-7874-64689-952
+Lemonade,Coca-Cola GB,Soft Drink,659,4500,1861,2639,11/30/2023,Omar Carter,Perth and Kinross,Perth,PH1 3CC,0-4048-35156-635
+Vodka,Fever-Tree,Alcoholic,578,5148,3299,1849,6/24/2020,Ella Hussain,Orkney Islands,Kirkwall,KW15 8NJ,1-1673-28167-540
+Herbal Tea,Fever-Tree,Tea,539,6392,5377,1015,5/25/2022,Ruby Smith,Devon,Exeter,EX1 2BW,0-9038-14722-855
+Herbal Tea,Fever-Tree,Tea,897,7850,3855,3995,10/5/2023,Charlotte Ali,Blaenau Gwent,Ebbw Vale,NP23 6PP,0-5800-56135-866
+Coffee,Coca-Cola GB,Coffee,413,3759,4129,-370,5/26/2021,Noah Brown,Cheshire,Chester,CH1 1CD,0-5246-55831-617
+Black Tea,Coca-Cola GB,Tea,326,7785,7533,252,4/3/2020,Oliver White,Ceredigion,Aberystwyth,SY23 9PG,1-6176-27332-992
+Energy Drink,Fever-Tree,Soft Drink,385,9825,8558,1267,10/3/2022,Harry Harris,Tyne and Wear,Newcastle upon Tyne,NE1 7DA,1-6358-43708-94
+Beer,Coca-Cola GB,Alcoholic,499,10636,11766,-1130,8/12/2022,Alfie Patel,North Lanarkshire,Motherwell,ML1 6XJ,1-849-83731-885
+Lemonade,Britvic,Soft Drink,852,7144,4350,2794,1/29/2023,James Lewis,Dorset,Dorchester,DT1 1KV,0-2389-38902-716
+Green Tea,Britvic,Tea,819,4037,1911,2126,4/28/2023,Ruby Robinson,Lincolnshire,Lincoln,LN1 4MK,1-5203-31516-739
+Green Tea,Fever-Tree,Tea,266,10908,6752,4156,7/10/2023,Jessica Jackson,Mid Ulster,Cookstown,BT80 2SS,0-8185-63907-781
+Lemonade,Britvic,Soft Drink,711,562,311,251,11/17/2021,Poppy Turner,West Sussex,Chichester,PO19 5FK,0-2381-48668-195
+Energy Drink,Coca-Cola GB,Soft Drink,576,8730,9277,-547,3/27/2021,Sophie Davies,Merthyr Tydfil,Merthyr Tydfil,CF47 7PM,1-4764-94994-761
+Lemonade,Coca-Cola GB,Soft Drink,909,3261,2045,1216,5/7/2021,Mia Wood,West Lothian,Livingston,EH54 5XH,0-2585-13008-567
+Vodka,Britvic,Alcoholic,231,2878,3055,-177,2/8/2021,James Jackson,Isle of Wight,Newport,PO30 8BK,0-615-25450-744
+Vodka,Fever-Tree,Alcoholic,529,9806,9411,395,12/6/2020,Lily Ali,East Ayrshire,Kilmarnock,KA1 9WM,1-7522-30630-849
+Wine,Coca-Cola GB,Alcoholic,892,6503,7714,-1211,9/5/2020,Oliver Thompson,Cumbria,Carlisle,CA1 2UU,1-3032-24859-784
+Green Tea,Coca-Cola GB,Tea,265,11921,13771,-1850,1/26/2022,Freddie Islam,Cambridgeshire,Cambridge,CB1 7CJ,1-759-78521-157
+Beer,Fever-Tree,Alcoholic,744,2856,1519,1337,5/13/2021,Florence Williams,Worcestershire,Worcester,WR1 3CV,1-2684-12048-901
+Wine,Fever-Tree,Alcoholic,432,8942,9594,-652,8/16/2021,Fatima Walker,West Midlands,Birmingham,B1 3NY,0-4996-61131-918
+Green Tea,Fever-Tree,Tea,696,9233,7205,2028,1/1/2020,Liam Brown,Greater Manchester,Manchester,M1 1DU,1-7828-52872-310
+Green Tea,Fever-Tree,Tea,124,1881,1814,67,12/28/2020,James Davies,West Dunbartonshire,Dumbarton,G82 7VC,1-1121-51187-100
+Black Tea,Fever-Tree,Tea,677,2249,2505,-256,11/30/2020,Ella Harris,Fife,Glenrothes,KY7 8DB,1-9006-26131-22
+Vodka,Fever-Tree,Alcoholic,749,4332,4201,131,5/29/2020,Priya Robinson,Kent,Maidstone,ME14 8ER,0-841-60002-211
+Beer,Britvic,Alcoholic,198,4624,3634,990,1/28/2022,Ruby Sharma,Orkney Islands,Kirkwall,KW15 8FG,1-6622-28096-876
+Lemonade,Fever-Tree,Soft Drink,893,946,1046,-100,11/22/2021,Simran Begum,Gloucestershire,Gloucester,GL1 9NB,0-4745-55453-463
+Lemonade,Coca-Cola GB,Soft Drink,692,8538,8105,433,10/9/2023,James Lewis,Merthyr Tydfil,Merthyr Tydfil,CF47 9MR,0-5871-83699-492
+Green Tea,Britvic,Tea,985,8443,8115,328,12/1/2020,Charlotte Clarke,Isle of Anglesey,Llangefni,LL77 9MV,1-2835-58741-130
+Vodka,Britvic,Alcoholic,169,5376,3529,1847,5/1/2023,Fatima Jones,West Sussex,Chichester,PO19 5DH,1-2489-67732-46
+Herbal Tea,Fever-Tree,Tea,461,3953,3894,59,7/24/2023,Lily Roberts,Carmarthenshire,Carmarthen,SA31 3TE,1-4618-61694-226
+Beer,Coca-Cola GB,Alcoholic,67,4643,4713,-70,9/6/2023,Amelia Jones,Leicestershire,Leicester,LE1 8GU,0-7659-74867-626
+Wine,Coca-Cola GB,Alcoholic,455,7248,4954,2294,3/10/2021,Henry King,Orkney Islands,Kirkwall,KW15 9KH,1-4566-58467-101
+Lemonade,Britvic,Soft Drink,673,6122,6237,-115,9/28/2021,Liam Davies,Monmouthshire,Monmouth,NP25 9LJ,1-9337-49834-758
+Beer,Fever-Tree,Alcoholic,255,7678,5351,2327,7/7/2022,Samuel Harris,Merseyside,Liverpool,L1 8HH,1-934-77763-600
+Beer,Britvic,Alcoholic,589,7338,4019,3319,5/12/2020,Noah Watson,West Lothian,Livingston,EH54 1XW,1-8760-26287-912
+Coffee,Britvic,Coffee,350,6548,6839,-291,7/1/2023,Zara Walker,Monmouthshire,Monmouth,NP25 2BD,0-8616-22696-254
+Cola,Coca-Cola GB,Soft Drink,863,7706,4060,3646,3/27/2020,Simran Sharma,Suffolk,Ipswich,IP1 9CL,1-3355-57241-909
+Beer,Britvic,Alcoholic,969,4500,2558,1942,2/1/2022,Arjun Roberts,Newport,Newport,NP20 1YS,1-1971-12790-511
+Black Tea,Coca-Cola GB,Tea,63,10948,8140,2808,1/29/2022,Omar Harris,West Midlands,Birmingham,B1 6UX,1-6300-90059-59
+Wine,Britvic,Alcoholic,360,7686,9015,-1329,10/30/2022,Amelia King,Orkney Islands,Kirkwall,KW15 9EV,0-373-36041-752
+Vodka,Coca-Cola GB,Alcoholic,526,2532,2984,-452,4/28/2021,Muhammad Carter,City of London,London,EC1 6AU,0-6584-41862-10
+Green Tea,Britvic,Tea,425,2408,1692,716,11/11/2023,Emily Thomas,Torfaen,Pontypool,NP4 3TX,1-9397-14244-187
+Vodka,Britvic,Alcoholic,903,9270,10253,-983,12/3/2023,Priya King,Shropshire,Shrewsbury,SY1 7JE,1-8212-36962-176
+Energy Drink,Fever-Tree,Soft Drink,134,2698,2474,224,5/27/2020,Simran Roberts,North Ayrshire,Irvine,KA12 1LH,0-1300-17113-183
+Black Tea,Coca-Cola GB,Tea,940,4163,4904,-741,12/4/2023,Freddie Brown,North Lanarkshire,Motherwell,ML1 4EH,0-2761-61729-651
+Cola,Britvic,Soft Drink,604,1219,1117,102,10/13/2020,Lucas Watson,Clackmannanshire,Alloa,FK10 1VE,1-4929-58952-25
+Cola,Fever-Tree,Soft Drink,131,7624,7919,-295,5/24/2023,Zara Wood,Cambridgeshire,Cambridge,CB1 9KS,1-8412-48255-664
+Coffee,Coca-Cola GB,Coffee,717,7083,4364,2719,4/19/2023,Edward Wright,Derry City and Strabane,Derry,BT48 2BV,1-8215-12470-884
+Beer,Coca-Cola GB,Alcoholic,173,9675,11039,-1364,2/14/2020,George Thompson,East Renfrewshire,Giffnock,G46 9GL,0-401-55453-701
+Coffee,Britvic,Coffee,698,3091,3661,-570,8/1/2021,Samuel Khan,Suffolk,Ipswich,IP1 4GJ,1-2222-98432-100
+Coffee,Britvic,Coffee,235,1894,2259,-365,10/29/2022,George Carter,Cheshire,Chester,CH1 9JU,0-7512-74918-247
+Energy Drink,Fever-Tree,Soft Drink,458,5667,3229,2438,1/24/2021,Freya Patel,Ards and North Down,Bangor,BT20 2YT,1-9233-70011-397
+Black Tea,Fever-Tree,Tea,512,3509,1513,1996,7/5/2020,Emily Phillips,Edinburgh,Edinburgh,EH1 6SS,1-6507-90350-844
+Wine,Britvic,Alcoholic,807,7868,5644,2224,10/25/2022,Oliver Thompson,Midlothian,Dalkeith,EH22 3TD,0-3035-84233-972
+Beer,Britvic,Alcoholic,776,8129,7555,574,9/23/2022,Henry Walker,Cornwall,Truro,TR1 5EB,0-5238-17492-52
+Lemonade,Britvic,Soft Drink,687,3831,1694,2137,8/2/2023,Thomas Thompson,Renfrewshire,Paisley,PA1 7SE,1-7778-75828-294
+Herbal Tea,Coca-Cola GB,Tea,879,8808,6792,2016,2/28/2023,Yusuf Shah,Tyne and Wear,Newcastle upon Tyne,NE1 8RW,1-5279-29786-451
+Lemonade,Fever-Tree,Soft Drink,704,5887,4599,1288,7/13/2023,Alfie Mitchell,Merseyside,Liverpool,L1 6FH,1-5738-12599-422
+Energy Drink,Fever-Tree,Soft Drink,470,4254,4608,-354,9/6/2021,Daisy Ahmed,Aberdeen City,Aberdeen,AB10 3ND,1-7696-50088-465
+Green Tea,Fever-Tree,Tea,374,5888,4306,1582,3/3/2020,William Cooper,East Ayrshire,Kilmarnock,KA1 2GL,1-6593-87125-220
+Herbal Tea,Fever-Tree,Tea,787,5516,5095,421,1/18/2020,Charlie Edwards,City of London,London,EC1 5RX,1-1867-12500-300
+Wine,Coca-Cola GB,Alcoholic,950,6042,5282,760,1/31/2021,Alice Thomas,South Lanarkshire,Hamilton,ML3 9FK,1-3146-41870-141
+Black Tea,Fever-Tree,Tea,131,4302,3343,959,8/19/2021,Daniel Davies,Cardiff,Cardiff,CF10 4YN,1-4759-79888-519
+Beer,Britvic,Alcoholic,606,5120,3429,1691,10/2/2023,Lily Ahmed,West Midlands,Birmingham,B1 6TK,1-5299-90432-295
+Black Tea,Britvic,Tea,841,11779,9019,2760,8/15/2020,Charlotte Islam,Worcestershire,Worcester,WR1 9AM,0-2452-48177-440
+Herbal Tea,Britvic,Tea,698,6030,6847,-817,6/28/2023,Jessica Jones,Gloucestershire,Gloucester,GL1 7PR,0-7122-27786-888
+Vodka,Britvic,Alcoholic,942,1593,1232,361,12/31/2022,Simran Brown,Cheshire,Chester,CH1 2RY,1-2323-38931-756
+Black Tea,Fever-Tree,Tea,345,5375,2454,2921,9/9/2020,Poppy Hussain,Suffolk,Ipswich,IP1 5CG,0-6604-79453-489
+Vodka,Coca-Cola GB,Alcoholic,342,4899,2584,2315,10/6/2020,Harry White,Cambridgeshire,Cambridge,CB1 5RD,0-8060-12609-57
+Lemonade,Coca-Cola GB,Soft Drink,585,9620,6949,2671,9/15/2023,Alice Davies,Aberdeenshire,Inverurie,AB51 8NH,0-8776-58390-312
+Energy Drink,Coca-Cola GB,Soft Drink,387,5473,3677,1796,11/5/2022,Lily Smith,Merseyside,Liverpool,L1 5SV,1-2534-68529-552
+Lemonade,Britvic,Soft Drink,92,2384,2093,291,10/24/2023,Edward Clarke,Fife,Glenrothes,KY7 4NM,0-2744-80004-577
+Black Tea,Fever-Tree,Tea,219,10408,9107,1301,12/11/2022,Fatima Williams,Pembrokeshire,Haverfordwest,SA61 9CL,0-4125-77987-551
+Energy Drink,Britvic,Soft Drink,310,4219,3832,387,9/10/2020,Omar Jones,Derry City and Strabane,Derry,BT48 4JP,0-7875-86923-565
+Coffee,Fever-Tree,Coffee,440,4265,3322,943,4/2/2021,Muhammad Smith,Torfaen,Pontypool,NP4 6HP,0-4568-51947-497
+Beer,Fever-Tree,Alcoholic,446,7766,3826,3940,9/28/2021,George Islam,Mid and East Antrim,Ballymena,BT42 2HW,0-8629-96374-764
+Vodka,Britvic,Alcoholic,817,4982,4898,84,1/19/2022,Freya Robinson,East Riding of Yorkshire,Beverley,HU17 7LV,0-4001-65869-459
+Lemonade,Britvic,Soft Drink,395,7046,5464,1582,6/21/2022,William Lewis,Isle of Wight,Newport,PO30 1FV,0-1170-62521-504
+Energy Drink,Britvic,Soft Drink,878,9928,6183,3745,1/15/2021,Mia Turner,Greater Manchester,Manchester,M1 5DB,0-954-85053-671
+Black Tea,Coca-Cola GB,Tea,944,7468,7971,-503,3/21/2023,Lily Phillips,Mid and East Antrim,Ballymena,BT42 4LS,0-2755-93903-621
+Green Tea,Coca-Cola GB,Tea,927,3890,2562,1328,4/3/2023,Noah Wright,Durham,Durham,DH1 8RN,1-8004-48152-919
+Energy Drink,Britvic,Soft Drink,428,4176,3968,208,8/5/2020,Mia Phillips,Pembrokeshire,Haverfordwest,SA61 3VW,0-109-76127-820
+Cola,Britvic,Soft Drink,77,6684,5788,896,10/30/2020,Daniel Thomas,Devon,Exeter,EX1 1GW,0-5962-37535-699
+Cola,Coca-Cola GB,Soft Drink,168,11012,12809,-1797,3/27/2023,Simran Smith,Gloucestershire,Gloucester,GL1 5BM,1-7041-51896-790
+Lemonade,Coca-Cola GB,Soft Drink,866,11807,8481,3326,3/27/2023,James Taylor,Midlothian,Dalkeith,EH22 9UL,0-8332-55519-404
+Beer,Fever-Tree,Alcoholic,800,10384,10282,102,7/17/2022,Zara Jones,Neath Port Talbot,Port Talbot,SA13 1RE,1-2329-10403-411
+Green Tea,Fever-Tree,Tea,145,2309,1985,324,2/25/2022,Omar Phillips,Surrey,Guildford,GU1 1LY,1-7021-17144-311
+Black Tea,Britvic,Tea,375,4782,5648,-866,12/10/2022,Daisy Jackson,Hertfordshire,Hertford,SG13 2VG,1-3039-49618-15
+Coffee,Britvic,Coffee,229,3349,2401,948,2/4/2022,Isabella Edwards,Wiltshire,Salisbury,SP1 2JA,0-5593-29142-141
+Coffee,Britvic,Coffee,244,4834,4955,-121,5/2/2020,Simran Phillips,Herefordshire,Hereford,HR1 9GK,1-2405-47151-287
+Energy Drink,Fever-Tree,Soft Drink,564,4807,3373,1434,1/23/2021,Leila Singh,Belfast,Belfast,BT1 5PP,1-784-68868-132
+Beer,Britvic,Alcoholic,969,10388,11010,-622,1/3/2020,Aisha Ahmed,Leicestershire,Leicester,LE1 8KE,1-8267-91973-453
+Cola,Fever-Tree,Soft Drink,749,7509,3224,4285,3/7/2020,Aisha Hussain,Cornwall,Truro,TR1 5HB,0-6931-33363-166
+Coffee,Fever-Tree,Coffee,429,8413,8525,-112,1/22/2020,Ava Cooper,South Ayrshire,Ayr,KA7 8BS,0-5142-99245-658
+Black Tea,Fever-Tree,Tea,585,4107,1967,2140,11/30/2022,Jack Green,Derry City and Strabane,Derry,BT48 9NS,1-9051-94305-206
+Herbal Tea,Coca-Cola GB,Tea,512,6291,4033,2258,12/26/2022,Mia Edwards,Argyll and Bute,Lochgilphead,PA31 7LD,1-294-47852-950
+Beer,Coca-Cola GB,Alcoholic,813,1159,580,579,4/3/2020,Noah Sharma,Hertfordshire,Hertford,SG13 5SC,1-1780-11607-588
+Cola,Coca-Cola GB,Soft Drink,279,2018,1940,78,4/6/2023,Thomas Khan,Bedfordshire,Bedford,MK40 3JD,0-4710-44818-570
+Green Tea,Coca-Cola GB,Tea,916,892,644,248,10/13/2021,Poppy Johnson,Neath Port Talbot,Port Talbot,SA13 7FS,0-8361-25515-647
+Black Tea,Fever-Tree,Tea,843,11155,12068,-913,11/18/2020,Fatima Khan,Edinburgh,Edinburgh,EH1 2LE,1-624-61562-873
+Coffee,Fever-Tree,Coffee,969,11650,9566,2084,1/2/2020,William Begum,Swansea,Swansea,SA1 4UH,0-5401-17806-23
+Cola,Coca-Cola GB,Soft Drink,266,625,297,328,4/2/2023,Ethan Roberts,Flintshire,Mold,CH7 1DG,1-6850-54605-944
+Cola,Coca-Cola GB,Soft Drink,61,8482,7550,932,6/15/2021,Amelia Sharma,Tyne and Wear,Newcastle upon Tyne,NE1 5FL,1-6095-34105-511
+Coffee,Coca-Cola GB,Coffee,696,6881,4062,2819,5/9/2023,Joseph Harris,Lincolnshire,Lincoln,LN1 3GR,0-8633-64380-664
+Green Tea,Britvic,Tea,788,9002,3706,5296,3/20/2021,William Turner,Dorset,Dorchester,DT1 5UL,1-7697-14159-339
+Wine,Britvic,Alcoholic,412,3297,1591,1706,1/22/2022,Ella Thomas,Denbighshire,Ruthin,LL15 7UT,0-2440-18966-544
+Wine,Britvic,Alcoholic,114,4787,3273,1514,10/10/2022,Harry Begum,Wrexham,Wrexham,LL11 7YJ,1-3246-77295-287
+Beer,Coca-Cola GB,Alcoholic,749,5092,5534,-442,5/14/2022,Ethan Walker,Armagh City Banbridge and Craigavon,Armagh,BT61 4RE,0-5695-34819-684
+Wine,Coca-Cola GB,Alcoholic,707,5386,5897,-511,10/27/2021,Benjamin Edwards,Caerphilly,Hengoed,CF82 9RK,0-2490-37103-399
+Wine,Fever-Tree,Alcoholic,272,9611,8309,1302,11/1/2022,James King,Neath Port Talbot,Port Talbot,SA13 2PB,0-3979-48230-268
+Cola,Coca-Cola GB,Soft Drink,70,9696,6432,3264,4/11/2023,Simran Edwards,Ards and North Down,Bangor,BT20 4XE,0-2969-38063-994
+Beer,Fever-Tree,Alcoholic,836,7405,4843,2562,2/17/2023,Aisha Williams,Isle of Anglesey,Llangefni,LL77 1FN,0-3305-44771-482
+Black Tea,Britvic,Tea,551,1624,1025,599,11/21/2020,Leila King,East Sussex,Eastbourne,BN21 9JT,1-9918-46553-328
+Energy Drink,Fever-Tree,Soft Drink,656,1730,1472,258,4/22/2020,Benjamin Begum,East Ayrshire,Kilmarnock,KA1 1YL,1-2028-69923-783
+Vodka,Fever-Tree,Alcoholic,984,10076,5445,4631,8/1/2023,Samuel Carter,Glasgow City,Glasgow,G1 9HJ,0-3127-28430-489
+Wine,Coca-Cola GB,Alcoholic,161,7180,4260,2920,6/14/2023,Thomas Mitchell,Flintshire,Mold,CH7 3KT,0-3547-51670-45
+Vodka,Britvic,Alcoholic,843,7740,8133,-393,5/1/2020,Alice Clarke,Cardiff,Cardiff,CF10 9GM,1-4894-47923-587
+Herbal Tea,Fever-Tree,Tea,669,2425,1529,896,5/18/2022,Arjun Turner,Dumfries and Galloway,Dumfries,DG1 3VP,0-3504-49745-487
+Beer,Britvic,Alcoholic,336,2224,1756,468,1/25/2023,Benjamin King,Hertfordshire,Hertford,SG13 1GK,1-4541-78482-331
+Energy Drink,Britvic,Soft Drink,188,5494,5091,403,3/6/2023,Zara Lewis,Tyne and Wear,Newcastle upon Tyne,NE1 1WD,1-6912-22218-499
+Herbal Tea,Fever-Tree,Tea,821,5152,2527,2625,6/7/2020,Isabella Robinson,Inverclyde,Greenock,PA15 6NV,1-1269-94133-437
+Energy Drink,Fever-Tree,Soft Drink,842,10547,4776,5771,3/2/2021,Zara Shah,Fife,Glenrothes,KY7 7UK,1-9021-40953-178
+Lemonade,Britvic,Soft Drink,77,7670,7718,-48,4/2/2023,Yusuf Wilson,Greater Manchester,Manchester,M1 3JR,0-4082-73254-216
+Coffee,Britvic,Coffee,825,2251,1427,824,3/26/2022,Arjun Williams,Monmouthshire,Monmouth,NP25 6JX,1-7121-26260-107
+Black Tea,Fever-Tree,Tea,137,7882,7605,277,7/1/2023,Muhammad Turner,Powys,Llandrindod Wells,LD1 7WR,1-1568-78447-303
+Green Tea,Britvic,Tea,691,6988,6409,579,1/5/2020,Daisy Patel,Bristol,Bristol,BS1 1WR,1-9206-74091-781
+Beer,Fever-Tree,Alcoholic,976,10266,9915,351,11/13/2022,Freya Johnson,Devon,Exeter,EX1 7NA,0-5591-84120-893
+Herbal Tea,Fever-Tree,Tea,566,4213,1751,2462,7/9/2022,Florence Thompson,Glasgow City,Glasgow,G1 4GV,1-934-53758-9
+Beer,Coca-Cola GB,Alcoholic,151,7207,3584,3623,3/5/2021,Freddie Singh,Shetland Islands,Lerwick,ZE1 6TG,0-3546-21900-819
+Coffee,Coca-Cola GB,Coffee,495,3145,2041,1104,8/19/2022,Sophie Thomas,Bridgend,Bridgend,CF31 6RJ,0-7928-74592-767
+Wine,Britvic,Alcoholic,331,3239,2581,658,11/12/2022,Thomas Taylor,Merthyr Tydfil,Merthyr Tydfil,CF47 8VD,0-4279-23487-916
+Energy Drink,Coca-Cola GB,Soft Drink,391,10882,11564,-682,6/16/2020,Jack Taylor,Merthyr Tydfil,Merthyr Tydfil,CF47 7WL,1-1379-58404-694
+Cola,Britvic,Soft Drink,139,3755,2516,1239,6/6/2020,Jack White,Shropshire,Shrewsbury,SY1 1SV,1-2230-78115-549
+Green Tea,Coca-Cola GB,Tea,582,10602,10028,574,6/10/2020,Muhammad Davies,Herefordshire,Hereford,HR1 4WU,0-2738-75748-529
+Coffee,Britvic,Coffee,433,5537,6038,-501,8/22/2022,Daisy Phillips,Scottish Borders,Newtown St Boswells,TD6 8DT,0-725-58435-30
+Green Tea,Fever-Tree,Tea,122,7311,6988,323,7/15/2022,Ethan Khan,West Midlands,Birmingham,B1 5GS,1-6948-40818-814
+Beer,Britvic,Alcoholic,342,645,453,192,1/14/2021,Harry Begum,Bedfordshire,Bedford,MK40 6UF,0-8930-60789-195
+Beer,Britvic,Alcoholic,122,2024,2126,-102,3/23/2023,Sophie Mitchell,Nottinghamshire,Nottingham,NG1 7NT,1-7617-99337-472
+Cola,Fever-Tree,Soft Drink,275,7774,3244,4530,11/13/2023,Lily Sharma,Lisburn and Castlereagh,Lisburn,BT28 9NX,0-1644-14946-472
+Lemonade,Britvic,Soft Drink,964,3952,3345,607,3/23/2023,Mia White,Wrexham,Wrexham,LL11 7JP,1-5283-12213-399
+Black Tea,Coca-Cola GB,Tea,885,10827,4954,5873,9/11/2020,Edward Sharma,Nottinghamshire,Nottingham,NG1 7AE,1-8210-69606-958
+Beer,Britvic,Alcoholic,221,11466,6601,4865,11/3/2023,William Islam,North Yorkshire,York,YO1 8CG,1-6929-98225-669
+Green Tea,Britvic,Tea,513,5095,5250,-155,2/20/2022,Muhammad Roberts,Buckinghamshire,Aylesbury,HP20 7JK,0-2574-87717-969
+Green Tea,Coca-Cola GB,Tea,656,4607,3671,936,10/15/2022,Thomas Ali,Aberdeenshire,Inverurie,AB51 5US,0-7155-88964-843
+Energy Drink,Britvic,Soft Drink,518,10277,5971,4306,6/29/2020,Isla Cooper,Mid and East Antrim,Ballymena,BT42 9YX,0-4354-15646-114
+Wine,Coca-Cola GB,Alcoholic,874,1880,2142,-262,1/10/2020,Isabella Harris,Flintshire,Mold,CH7 3YV,1-6685-15866-160
+Vodka,Fever-Tree,Alcoholic,291,7677,7537,140,8/21/2022,Aisha Begum,Glasgow City,Glasgow,G1 2DJ,1-8268-78012-476
+Green Tea,Coca-Cola GB,Tea,820,6489,3024,3465,6/7/2022,Fatima Harris,Renfrewshire,Paisley,PA1 2WX,0-3563-84289-487
+Wine,Fever-Tree,Alcoholic,102,8441,7948,493,12/2/2020,Simran Thompson,West Lothian,Livingston,EH54 9DD,1-7670-40389-817
+Green Tea,Britvic,Tea,661,6071,5502,569,6/1/2022,Lily Clarke,Neath Port Talbot,Port Talbot,SA13 8SF,1-765-20031-335
+Black Tea,Fever-Tree,Tea,960,5154,2365,2789,5/1/2023,Olivia Jones,East Riding of Yorkshire,Beverley,HU17 3JB,0-304-84603-852
+Herbal Tea,Fever-Tree,Tea,357,6536,5750,786,11/9/2021,Florence Hussain,Falkirk,Falkirk,FK1 6PK,0-1817-69546-898
+Energy Drink,Fever-Tree,Soft Drink,107,633,608,25,8/22/2022,Yusuf Ahmed,Inverclyde,Greenock,PA15 4TR,0-8709-68556-541
+Green Tea,Fever-Tree,Tea,518,8409,9613,-1204,10/30/2021,Edward Watson,Buckinghamshire,Aylesbury,HP20 4SR,0-2324-80063-649
+Lemonade,Coca-Cola GB,Soft Drink,978,1323,1259,64,8/1/2023,Emily Cooper,Highland,Inverness,IV1 4EC,0-7554-89395-383
+Cola,Fever-Tree,Soft Drink,392,7968,8034,-66,9/30/2021,Priya Phillips,Lisburn and Castlereagh,Lisburn,BT28 3VC,0-3684-57663-395
+Coffee,Coca-Cola GB,Coffee,158,11696,11242,454,11/23/2022,Henry Sharma,Newport,Newport,NP20 8DW,0-5029-92344-319
+Beer,Fever-Tree,Alcoholic,776,7074,7026,48,1/24/2023,Isla Patel,Hertfordshire,Hertford,SG13 8GR,1-6118-97516-282
+Lemonade,Fever-Tree,Soft Drink,201,11323,10081,1242,6/24/2021,Poppy Green,Newry Mourne and Down,Newry,BT35 7WG,1-2578-82833-874
+Herbal Tea,Britvic,Tea,162,7145,8141,-996,12/28/2020,Zara Shah,Shetland Islands,Lerwick,ZE1 3TC,1-9939-89450-904
+Vodka,Fever-Tree,Alcoholic,540,3983,2805,1178,7/4/2022,Joseph King,East Dunbartonshire,Kirkintilloch,G66 4EJ,0-1621-32950-519
+Black Tea,Fever-Tree,Tea,317,6250,7039,-789,8/24/2023,Isabella Ali,Tyne and Wear,Newcastle upon Tyne,NE1 3RN,0-4764-10402-919
+Wine,Coca-Cola GB,Alcoholic,825,11248,6729,4519,5/11/2020,William Jones,Cheshire,Chester,CH1 9FE,0-1064-40007-70
+Black Tea,Coca-Cola GB,Tea,653,11748,13090,-1342,7/26/2022,Henry Green,Mid Ulster,Cookstown,BT80 3UL,0-5234-93165-60
+Lemonade,Britvic,Soft Drink,71,11243,9505,1738,10/20/2020,Ruby Green,Na h-Eileanan Siar,Stornoway,HS1 1CB,0-2883-52160-380
+Energy Drink,Britvic,Soft Drink,681,4068,2830,1238,2/2/2022,Oliver Jackson,Merthyr Tydfil,Merthyr Tydfil,CF47 6HY,0-3633-68224-760
+Beer,Coca-Cola GB,Alcoholic,950,1838,1821,17,6/19/2021,Muhammad White,Perth and Kinross,Perth,PH1 3NL,0-8548-35409-388
+Vodka,Britvic,Alcoholic,339,6546,4551,1995,11/27/2021,Evie Smith,Swansea,Swansea,SA1 7XR,0-8291-34637-46
+Green Tea,Fever-Tree,Tea,779,4170,1804,2366,4/16/2020,Aisha Green,City of London,London,EC1 4GG,0-7159-34227-259
+Herbal Tea,Fever-Tree,Tea,385,9706,7053,2653,4/22/2023,Noah Singh,Shropshire,Shrewsbury,SY1 9JX,1-9041-65545-487
+Vodka,Coca-Cola GB,Alcoholic,917,1422,1691,-269,2/3/2023,Evie Roberts,Aberdeenshire,Inverurie,AB51 2FJ,1-1719-45626-883
+Vodka,Coca-Cola GB,Alcoholic,676,594,365,229,4/18/2022,Evie Jones,Derry City and Strabane,Derry,BT48 1LC,0-9949-11109-230
+Vodka,Fever-Tree,Alcoholic,713,2119,2533,-414,9/16/2023,Poppy Islam,West Sussex,Chichester,PO19 1PY,0-2964-19846-376
+Coffee,Fever-Tree,Coffee,832,10189,8066,2123,12/7/2020,Noah Thompson,Moray,Elgin,IV30 5FY,1-762-45761-768
+Herbal Tea,Britvic,Tea,422,6512,5058,1454,4/25/2022,William Carter,Devon,Exeter,EX1 2VS,0-5864-65164-617
+Black Tea,Coca-Cola GB,Tea,675,11159,10670,489,10/29/2023,Daisy Islam,Powys,Llandrindod Wells,LD1 3LC,1-5710-79827-530
+Wine,Britvic,Alcoholic,993,5547,5783,-236,8/8/2021,Alice Lewis,Shetland Islands,Lerwick,ZE1 1SK,1-9650-31705-413
+Lemonade,Britvic,Soft Drink,235,9053,8006,1047,10/26/2023,Henry White,Greater Manchester,Manchester,M1 4PX,0-302-25300-790
+Lemonade,Britvic,Soft Drink,108,1115,960,155,1/19/2021,Charlotte Sharma,Moray,Elgin,IV30 4BE,1-3253-79177-300
+Black Tea,Coca-Cola GB,Tea,490,8116,6391,1725,7/6/2021,Omar Ali,Moray,Elgin,IV30 1DK,0-2420-56818-510
+Wine,Coca-Cola GB,Alcoholic,425,6274,3853,2421,7/8/2023,Daisy Smith,Swansea,Swansea,SA1 1YC,1-1492-36518-143
+Cola,Fever-Tree,Soft Drink,475,9184,3816,5368,4/11/2020,Jessica Jones,Lancashire,Preston,PR1 3YG,0-7283-11075-239
+Energy Drink,Fever-Tree,Soft Drink,399,7527,6217,1310,4/16/2021,Evie Sharma,Suffolk,Ipswich,IP1 6BV,0-7247-12456-471
+Vodka,Coca-Cola GB,Alcoholic,976,10850,6707,4143,2/12/2021,Amelia Jackson,Norfolk,Norwich,NR1 5SF,1-5918-85850-373
+Beer,Britvic,Alcoholic,834,11244,12158,-914,4/3/2022,James Clarke,Clackmannanshire,Alloa,FK10 4XK,1-7646-69285-455
+Vodka,Britvic,Alcoholic,181,10096,9788,308,12/1/2022,Alice Khan,Stirling,Stirling,FK8 1CU,1-9090-71184-173
+Lemonade,Fever-Tree,Soft Drink,362,4007,2951,1056,7/25/2020,Aisha Ali,Berkshire,Reading,RG1 5PS,1-1818-77054-737
+Beer,Fever-Tree,Alcoholic,898,3257,2879,378,5/9/2022,Henry Green,Caerphilly,Hengoed,CF82 7JY,0-1370-45405-128
+Lemonade,Fever-Tree,Soft Drink,508,4926,5160,-234,1/14/2020,Yusuf Johnson,Bedfordshire,Bedford,MK40 7HD,1-1774-22156-390
+Lemonade,Coca-Cola GB,Soft Drink,278,11970,4852,7118,3/21/2022,William Begum,South Lanarkshire,Hamilton,ML3 7UH,1-7155-95332-998
+Wine,Fever-Tree,Alcoholic,665,9335,6157,3178,4/27/2022,Henry Roberts,Newry Mourne and Down,Newry,BT35 5NN,1-4117-52970-587
+Vodka,Britvic,Alcoholic,78,7675,4629,3046,11/28/2021,Ethan Taylor,Isle of Wight,Newport,PO30 7ME,0-8052-92100-868
+Herbal Tea,Fever-Tree,Tea,180,2755,1737,1018,3/31/2022,Yusuf Sharma,Leicestershire,Leicester,LE1 1LG,1-1999-62976-886
+Black Tea,Coca-Cola GB,Tea,445,11941,4803,7138,3/6/2021,Priya Wilson,East Sussex,Eastbourne,BN21 1KH,1-2465-29265-742
+Cola,Coca-Cola GB,Soft Drink,465,10069,9456,613,7/17/2022,Edward Green,South Ayrshire,Ayr,KA7 8DS,1-1687-40443-305
+Beer,Fever-Tree,Alcoholic,462,1217,1196,21,9/11/2021,Priya Robinson,Caerphilly,Hengoed,CF82 8RJ,1-3237-55231-68
+Wine,Coca-Cola GB,Alcoholic,863,11883,8074,3809,3/12/2021,Aisha Harris,Argyll and Bute,Lochgilphead,PA31 6HE,1-9296-95105-10
+Herbal Tea,Coca-Cola GB,Tea,882,10080,6588,3492,12/15/2021,Ruby Watson,Falkirk,Falkirk,FK1 5CR,1-6564-55237-978
+Green Tea,Britvic,Tea,439,6556,7766,-1210,12/24/2022,Yusuf Edwards,Vale of Glamorgan,Barry,CF63 2DH,1-3337-77488-833
+Beer,Coca-Cola GB,Alcoholic,230,10845,5875,4970,10/27/2023,Liam Turner,East Sussex,Eastbourne,BN21 1HN,1-475-74595-805
+Beer,Fever-Tree,Alcoholic,798,1955,2188,-233,7/9/2022,Poppy Lewis,Blaenau Gwent,Ebbw Vale,NP23 5XH,1-6506-87220-428
+Herbal Tea,Coca-Cola GB,Tea,893,6397,5321,1076,11/28/2020,Jessica Wright,Worcestershire,Worcester,WR1 2XJ,1-2481-70036-951
+Beer,Coca-Cola GB,Alcoholic,310,9395,7904,1491,4/4/2022,Grace Shah,Newport,Newport,NP20 3FS,0-2170-28700-388
+Energy Drink,Fever-Tree,Soft Drink,947,10770,9064,1706,1/30/2021,Olivia Phillips,South Lanarkshire,Hamilton,ML3 6SF,1-3373-52300-136
+Beer,Fever-Tree,Alcoholic,470,10389,10992,-603,1/31/2021,Leila Evans,Bridgend,Bridgend,CF31 4EM,1-8790-71849-106
+Green Tea,Coca-Cola GB,Tea,879,5541,4269,1272,11/28/2023,Alice Edwards,Inverclyde,Greenock,PA15 9RB,0-8566-74369-179
+Cola,Fever-Tree,Soft Drink,556,2279,1803,476,10/28/2021,Arjun Cooper,Vale of Glamorgan,Barry,CF63 9XM,1-3689-85631-360
+Black Tea,Britvic,Tea,247,8277,5754,2523,2/7/2023,Poppy Clarke,Herefordshire,Hereford,HR1 7YN,1-7534-45509-314
+Green Tea,Coca-Cola GB,Tea,61,1729,1133,596,11/20/2023,James Clarke,Cornwall,Truro,TR1 3BH,1-898-47992-299
+Herbal Tea,Fever-Tree,Tea,637,9846,4838,5008,7/19/2022,George Ahmed,Newport,Newport,NP20 3XD,0-5345-84475-33
+Herbal Tea,Coca-Cola GB,Tea,727,2128,1703,425,12/31/2021,Freya Sharma,Belfast,Belfast,BT1 3UK,1-1261-84599-81
+Green Tea,Coca-Cola GB,Tea,209,5052,3336,1716,9/9/2022,Arjun Shah,Northumberland,Morpeth,NE61 8XX,1-8079-42747-287
+Coffee,Coca-Cola GB,Coffee,363,3149,2935,214,3/26/2020,Alfie Robinson,Rutland,Oakham,LE15 9UJ,1-8061-72027-776
+Vodka,Fever-Tree,Alcoholic,382,6974,3692,3282,10/22/2021,Oliver Hussain,Causeway Coast and Glens,Coleraine,BT52 8LH,1-7507-38159-465
+Vodka,Fever-Tree,Alcoholic,870,4533,3540,993,6/10/2020,Samuel Williams,Ards and North Down,Bangor,BT20 9NM,0-2070-68856-178
+Vodka,Britvic,Alcoholic,893,6434,2936,3498,8/22/2020,Freddie Johnson,Carmarthenshire,Carmarthen,SA31 8BM,0-4302-99247-733
+Green Tea,Fever-Tree,Tea,967,3891,3536,355,6/30/2020,Priya Harris,Vale of Glamorgan,Barry,CF63 8AE,0-5842-43640-806
+Coffee,Fever-Tree,Coffee,291,6856,3074,3782,9/30/2021,Florence Carter,Antrim and Newtownabbey,Antrim,BT41 9YT,1-9662-80928-795
+Cola,Britvic,Soft Drink,183,8129,5234,2895,2/5/2022,Ella Jackson,Essex,Chelmsford,CM1 8AD,1-897-49998-911
+Beer,Coca-Cola GB,Alcoholic,886,3971,2255,1716,7/21/2020,Aisha Williams,North Ayrshire,Irvine,KA12 4AD,0-2298-88924-566
+Black Tea,Britvic,Tea,442,7438,4106,3332,3/31/2020,Priya Carter,Durham,Durham,DH1 1MU,0-6067-66531-72
+Herbal Tea,Fever-Tree,Tea,785,10484,7943,2541,8/31/2020,Charlotte Jones,Lisburn and Castlereagh,Lisburn,BT28 2JA,0-1589-89194-987
+Beer,Coca-Cola GB,Alcoholic,838,11638,7422,4216,2/5/2023,Aisha Wright,Flintshire,Mold,CH7 2WT,0-5210-65072-96
+Vodka,Coca-Cola GB,Alcoholic,112,8357,3656,4701,5/10/2022,Jessica Mitchell,Cheshire,Chester,CH1 6AE,0-9468-13325-756
+Beer,Britvic,Alcoholic,874,10733,8615,2118,4/20/2020,Ethan Turner,Gwynedd,Caernarfon,LL55 8GE,0-8635-40216-313
+Lemonade,Fever-Tree,Soft Drink,182,10820,6249,4571,11/28/2022,Ruby Shah,West Dunbartonshire,Dumbarton,G82 4KJ,0-5751-13219-495
+Energy Drink,Coca-Cola GB,Soft Drink,389,5235,5289,-54,8/12/2023,Henry Begum,Glasgow City,Glasgow,G1 4YV,1-760-25181-248
+Green Tea,Coca-Cola GB,Tea,427,831,715,116,11/4/2022,Leila Ali,Carmarthenshire,Carmarthen,SA31 5CH,1-9676-90933-850
+Black Tea,Coca-Cola GB,Tea,958,11041,6150,4891,3/25/2021,Evie Thomas,Causeway Coast and Glens,Coleraine,BT52 3EB,0-6716-47001-909
+Vodka,Coca-Cola GB,Alcoholic,603,3993,2167,1826,2/14/2020,Amelia White,Orkney Islands,Kirkwall,KW15 2AR,1-1918-54352-959
+Black Tea,Coca-Cola GB,Tea,709,7756,4943,2813,4/24/2022,Evie Jackson,Derry City and Strabane,Derry,BT48 4KV,0-8792-10915-671
+Vodka,Britvic,Alcoholic,111,883,967,-84,9/18/2023,Isabella Singh,West Yorkshire,Leeds,LS1 8XK,1-150-66792-475
+Cola,Britvic,Soft Drink,319,2853,3246,-393,9/8/2022,Grace Williams,Causeway Coast and Glens,Coleraine,BT52 3LP,1-7677-64257-951
+Wine,Britvic,Alcoholic,667,2593,2286,307,10/8/2020,William Clarke,East Ayrshire,Kilmarnock,KA1 8KM,0-800-55017-519
+Lemonade,Britvic,Soft Drink,401,5144,4210,934,4/23/2022,Isabella Lewis,Bridgend,Bridgend,CF31 1PS,0-5034-55593-429
+Energy Drink,Britvic,Soft Drink,130,11691,8386,3305,2/10/2021,Charlie Shah,Greater Manchester,Manchester,M1 4CT,0-9372-15383-356
+Wine,Fever-Tree,Alcoholic,278,9564,9337,227,4/8/2020,Edward Mitchell,Vale of Glamorgan,Barry,CF63 7YW,1-6304-56036-560
+Vodka,Britvic,Alcoholic,237,6391,3881,2510,8/18/2021,Jack Wilson,North Yorkshire,York,YO1 2HP,0-2002-85083-377
+Beer,Britvic,Alcoholic,349,6816,4088,2728,8/4/2022,Alfie Thomas,Pembrokeshire,Haverfordwest,SA61 2AV,0-2241-35969-844
+Coffee,Britvic,Coffee,622,3283,2184,1099,8/21/2022,George Roberts,Buckinghamshire,Aylesbury,HP20 7BJ,0-2691-23122-16
+Lemonade,Coca-Cola GB,Soft Drink,614,7640,3340,4300,6/1/2020,Omar Watson,Scottish Borders,Newtown St Boswells,TD6 9NA,1-356-37152-602
+Energy Drink,Britvic,Soft Drink,703,8679,5150,3529,3/12/2022,Isla Begum,Scottish Borders,Newtown St Boswells,TD6 7VU,1-2211-93397-400
+Green Tea,Coca-Cola GB,Tea,886,10149,5252,4897,6/19/2023,Fatima Taylor,North Yorkshire,York,YO1 4CA,1-9600-51593-43
+Vodka,Fever-Tree,Alcoholic,69,1707,1146,561,4/3/2020,Ella Mitchell,Glasgow City,Glasgow,G1 7EW,0-1907-90386-626
+Vodka,Britvic,Alcoholic,396,1685,1142,543,8/12/2021,Priya Islam,Vale of Glamorgan,Barry,CF63 5TC,1-5102-41276-175
+Beer,Fever-Tree,Alcoholic,286,3099,1885,1214,1/10/2023,Grace Roberts,Cambridgeshire,Cambridge,CB1 6JW,1-2293-70909-514
+Lemonade,Coca-Cola GB,Soft Drink,428,3398,3946,-548,5/31/2020,William Johnson,Wrexham,Wrexham,LL11 7DB,0-5636-87860-629
+Vodka,Britvic,Alcoholic,158,10768,8768,2000,1/9/2022,Edward Patel,Ceredigion,Aberystwyth,SY23 8WA,1-1791-78337-649
+Cola,Fever-Tree,Soft Drink,277,865,581,284,5/8/2022,Daniel King,Carmarthenshire,Carmarthen,SA31 9GN,0-2379-30144-976
+Coffee,Coca-Cola GB,Coffee,750,5682,4577,1105,2/1/2023,Fatima Edwards,Shropshire,Shrewsbury,SY1 7UB,1-9488-68733-91
+Cola,Fever-Tree,Soft Drink,878,6816,3152,3664,3/1/2023,Freddie Taylor,Inverclyde,Greenock,PA15 9WE,0-2795-53007-875
+Cola,Britvic,Soft Drink,808,5137,2738,2399,6/8/2023,George Hussain,West Dunbartonshire,Dumbarton,G82 7YH,1-1835-11382-101
+Coffee,Fever-Tree,Coffee,839,1771,1413,358,8/11/2022,Benjamin Lewis,Buckinghamshire,Aylesbury,HP20 1NA,0-4701-46905-737
+Beer,Fever-Tree,Alcoholic,842,10677,4998,5679,6/21/2023,Jessica Hussain,Caerphilly,Hengoed,CF82 1YM,1-8335-12446-124
+Energy Drink,Coca-Cola GB,Soft Drink,141,3739,3782,-43,1/31/2020,Lily Turner,Cambridgeshire,Cambridge,CB1 4TY,0-1183-33209-950
+Cola,Coca-Cola GB,Soft Drink,295,3711,3553,158,12/14/2023,James Patel,East Sussex,Eastbourne,BN21 8PS,0-4866-45117-520
+Black Tea,Britvic,Tea,575,9631,8031,1600,2/28/2021,Omar Davies,Rutland,Oakham,LE15 6TB,1-944-24544-393
+Black Tea,Coca-Cola GB,Tea,313,11352,4992,6360,6/16/2020,Lily Mitchell,Staffordshire,Stafford,ST16 7LK,1-3631-77154-117
+Herbal Tea,Britvic,Tea,607,1114,472,642,3/20/2020,Jessica Wilson,Armagh City Banbridge and Craigavon,Armagh,BT61 5XC,0-9768-77959-172
+Energy Drink,Coca-Cola GB,Soft Drink,639,9660,7545,2115,2/27/2023,Daisy Carter,East Lothian,Haddington,EH41 2TU,0-7212-92665-437
+Black Tea,Coca-Cola GB,Tea,374,8237,8279,-42,3/21/2020,Evie Taylor,Tyne and Wear,Newcastle upon Tyne,NE1 3LX,0-2583-23402-536
+Energy Drink,Fever-Tree,Soft Drink,110,11985,12167,-182,8/27/2022,Yusuf Ali,Isle of Wight,Newport,PO30 2NH,0-7462-36335-705
+Vodka,Britvic,Alcoholic,222,2176,1351,825,4/7/2020,Liam Phillips,West Yorkshire,Leeds,LS1 5TD,1-6675-55683-800
+Wine,Britvic,Alcoholic,985,7466,8135,-669,3/25/2023,Daniel Hussain,Surrey,Guildford,GU1 7SK,0-6736-12733-990
+Energy Drink,Coca-Cola GB,Soft Drink,624,5666,5387,279,6/24/2023,Ethan Singh,Durham,Durham,DH1 1JY,0-7880-43050-557
+Lemonade,Fever-Tree,Soft Drink,265,8625,3617,5008,7/17/2023,Leila Thompson,Somerset,Taunton,TA1 1FC,1-6665-27195-838
+Coffee,Britvic,Coffee,531,9750,5557,4193,10/5/2023,Ava Phillips,Highland,Inverness,IV1 7EC,0-9775-79159-527
+Wine,Fever-Tree,Alcoholic,257,7135,7074,61,12/28/2023,Alice Singh,Carmarthenshire,Carmarthen,SA31 2PL,0-7394-33091-316
+Beer,Fever-Tree,Alcoholic,537,5476,6313,-837,6/3/2022,Amelia Shah,Shetland Islands,Lerwick,ZE1 7BP,0-1304-20752-275
+Herbal Tea,Fever-Tree,Tea,996,10079,5048,5031,5/30/2020,Emily Harris,East Riding of Yorkshire,Beverley,HU17 6NS,1-6815-26071-953
+Vodka,Fever-Tree,Alcoholic,871,1867,1116,751,8/20/2023,Ella Shah,Carmarthenshire,Carmarthen,SA31 2XB,1-1975-54249-174
+Coffee,Coca-Cola GB,Coffee,338,1097,550,547,5/6/2022,Ruby White,Hampshire,Winchester,SO23 9YW,1-2023-67163-70
+Wine,Coca-Cola GB,Alcoholic,282,1995,1548,447,1/9/2023,Noah Clarke,Greater London,London,W1 4RU,0-608-42411-205
+Energy Drink,Britvic,Soft Drink,357,8369,7469,900,9/6/2020,Zara Shah,East Renfrewshire,Giffnock,G46 9LB,0-7931-10881-279
+Black Tea,Fever-Tree,Tea,584,5650,6499,-849,11/26/2023,Jessica Thomas,Torfaen,Pontypool,NP4 7KK,0-7533-87373-919
+Vodka,Fever-Tree,Alcoholic,204,3461,3381,80,1/25/2022,William Ahmed,Argyll and Bute,Lochgilphead,PA31 3GY,0-1486-71581-387
+Cola,Fever-Tree,Soft Drink,982,8499,8162,337,7/31/2021,Ruby Watson,Na h-Eileanan Siar,Stornoway,HS1 2WD,1-3060-55242-826
+Beer,Coca-Cola GB,Alcoholic,469,8043,5707,2336,2/24/2023,Freddie White,Argyll and Bute,Lochgilphead,PA31 5SE,1-8147-36237-126
+Vodka,Britvic,Alcoholic,194,6757,5482,1275,4/14/2022,Freddie Green,Dundee City,Dundee,DD1 2LM,1-6018-47784-571
+Coffee,Britvic,Coffee,730,8497,8998,-501,11/2/2023,Daniel Khan,North Ayrshire,Irvine,KA12 9VM,0-3614-22930-469
+Beer,Fever-Tree,Alcoholic,454,7177,3520,3657,8/21/2020,Lily Ahmed,Caerphilly,Hengoed,CF82 6MT,1-9051-38644-436
+Black Tea,Coca-Cola GB,Tea,774,2961,1675,1286,1/14/2023,Samuel Carter,Lancashire,Preston,PR1 2FC,1-2944-11965-412
+Wine,Fever-Tree,Alcoholic,270,1031,1074,-43,7/14/2021,Jessica Ahmed,City of London,London,EC1 7AW,1-9934-96941-53
+Black Tea,Britvic,Tea,313,9407,3790,5617,12/20/2023,Leila Singh,Angus,Forfar,DD8 8KV,0-8949-39602-4
+Herbal Tea,Britvic,Tea,454,5466,2581,2885,11/17/2023,William Wood,Monmouthshire,Monmouth,NP25 2RJ,1-9306-67273-828
+Coffee,Fever-Tree,Coffee,966,4296,2897,1399,10/16/2021,Ethan Mitchell,Perth and Kinross,Perth,PH1 3LT,0-8820-32283-690
+Vodka,Fever-Tree,Alcoholic,448,5743,6723,-980,10/23/2020,Thomas Patel,Denbighshire,Ruthin,LL15 6VA,0-995-98027-246
+Green Tea,Britvic,Tea,803,11238,9399,1839,10/19/2021,Alfie Davies,Angus,Forfar,DD8 6RG,1-2830-68183-360
+Beer,Fever-Tree,Alcoholic,308,7488,4487,3001,1/18/2023,Harry Edwards,Rhondda Cynon Taf,Pontypridd,CF37 6LU,1-9367-75849-330
+Beer,Coca-Cola GB,Alcoholic,783,1779,914,865,1/11/2021,Mia Begum,Clackmannanshire,Alloa,FK10 5ED,0-9092-70458-661
+Energy Drink,Fever-Tree,Soft Drink,288,4607,4010,597,11/28/2022,Leila King,Na h-Eileanan Siar,Stornoway,HS1 5NR,1-8120-64646-844
+Coffee,Fever-Tree,Coffee,491,7159,6687,472,5/11/2022,Ava Wood,Ards and North Down,Bangor,BT20 8NC,1-2138-55955-991
+Green Tea,Coca-Cola GB,Tea,432,9869,9685,184,1/25/2020,Daisy Evans,Na h-Eileanan Siar,Stornoway,HS1 7JC,0-816-27324-255
+Cola,Fever-Tree,Soft Drink,461,6070,2924,3146,10/30/2022,Alfie Sharma,Vale of Glamorgan,Barry,CF63 7JA,1-8602-44452-980
+Cola,Fever-Tree,Soft Drink,645,10744,4687,6057,5/24/2021,Amelia Hussain,Caerphilly,Hengoed,CF82 1CD,1-738-18019-611
+Green Tea,Fever-Tree,Tea,449,11140,9592,1548,4/7/2023,Jack Wood,Essex,Chelmsford,CM1 1GV,0-9093-85675-892
+Green Tea,Fever-Tree,Tea,669,7480,4929,2551,10/10/2021,Oliver Roberts,West Dunbartonshire,Dumbarton,G82 8XL,1-1961-98335-417
+Coffee,Britvic,Coffee,255,10745,5037,5708,1/15/2022,Ava King,Wrexham,Wrexham,LL11 5BG,0-5453-52960-208
+Black Tea,Britvic,Tea,192,5306,3779,1527,3/18/2023,Alfie Singh,Aberdeen City,Aberdeen,AB10 2SE,1-8337-97475-348
+Wine,Fever-Tree,Alcoholic,542,6245,5365,880,12/20/2022,Thomas King,Argyll and Bute,Lochgilphead,PA31 6RF,0-524-34385-512
+Beer,Coca-Cola GB,Alcoholic,236,2195,2564,-369,3/18/2023,Alfie Harris,Lancashire,Preston,PR1 7DB,1-3157-79866-780
+Cola,Coca-Cola GB,Soft Drink,893,2871,1939,932,6/13/2021,Simran Davies,Derry City and Strabane,Derry,BT48 5AB,0-3726-94853-231
+Wine,Coca-Cola GB,Alcoholic,932,1119,1056,63,7/24/2023,Muhammad Begum,Herefordshire,Hereford,HR1 4VT,0-8960-89910-435
+Herbal Tea,Britvic,Tea,769,11926,8063,3863,2/4/2023,Yusuf Ahmed,Merseyside,Liverpool,L1 7LH,0-4012-84946-393
+Wine,Britvic,Alcoholic,306,6126,4779,1347,12/20/2021,Grace Phillips,Buckinghamshire,Aylesbury,HP20 3GH,0-8422-23491-416
+Herbal Tea,Fever-Tree,Tea,539,9682,9948,-266,11/7/2023,Daisy Mitchell,West Midlands,Birmingham,B1 4TW,0-8936-41854-898
+Wine,Fever-Tree,Alcoholic,922,1026,607,419,8/1/2022,Amelia Watson,East Riding of Yorkshire,Beverley,HU17 1LM,1-4451-25509-950
+Cola,Coca-Cola GB,Soft Drink,362,2161,1941,220,10/8/2021,Florence Mitchell,Cumbria,Carlisle,CA1 8HD,1-1762-83647-164
+Energy Drink,Coca-Cola GB,Soft Drink,180,2028,1778,250,2/27/2022,Edward Islam,Buckinghamshire,Aylesbury,HP20 8MY,0-1976-99353-907
+Lemonade,Fever-Tree,Soft Drink,668,10411,4499,5912,3/19/2022,Benjamin Harris,Lancashire,Preston,PR1 1DE,1-4454-25570-432
+Vodka,Fever-Tree,Alcoholic,97,3604,3364,240,12/25/2021,Leila Sharma,Devon,Exeter,EX1 7YT,0-2762-33206-903
+Coffee,Fever-Tree,Coffee,665,9630,9251,379,6/23/2021,Isabella Jackson,North Ayrshire,Irvine,KA12 2JT,1-1345-82686-954
+Coffee,Coca-Cola GB,Coffee,170,9999,8864,1135,2/3/2021,Florence Ali,Tyne and Wear,Newcastle upon Tyne,NE1 4UT,0-469-20956-552
+Beer,Coca-Cola GB,Alcoholic,694,9631,7849,1782,7/18/2021,William Thomas,Perth and Kinross,Perth,PH1 8PS,1-715-47971-704
+Vodka,Britvic,Alcoholic,988,1072,782,290,7/5/2021,Evie Wood,Essex,Chelmsford,CM1 6JB,1-2889-85605-385
+Beer,Coca-Cola GB,Alcoholic,704,3272,2162,1110,8/1/2022,Aisha Carter,Bristol,Bristol,BS1 9WF,1-9733-12914-325
+Cola,Fever-Tree,Soft Drink,237,8568,4647,3921,1/18/2022,Lucas Clarke,East Ayrshire,Kilmarnock,KA1 7EN,0-6366-59047-184
+Herbal Tea,Fever-Tree,Tea,333,3067,3223,-156,10/14/2022,Emily Thomas,Hampshire,Winchester,SO23 4PB,0-152-66927-69
+Black Tea,Coca-Cola GB,Tea,76,3854,1982,1872,8/2/2022,Muhammad White,North Yorkshire,York,YO1 8FA,1-4812-98815-560
+Green Tea,Fever-Tree,Tea,609,8019,9114,-1095,9/10/2022,Ruby Islam,Powys,Llandrindod Wells,LD1 5UR,0-1372-90788-110
+Coffee,Coca-Cola GB,Coffee,793,802,373,429,10/8/2022,Freddie Edwards,Monmouthshire,Monmouth,NP25 5LT,1-3800-82602-418
+Wine,Britvic,Alcoholic,118,9935,8009,1926,1/10/2023,Simran Ali,West Sussex,Chichester,PO19 1RW,0-9885-59377-158
+Lemonade,Coca-Cola GB,Soft Drink,999,6736,2980,3756,8/18/2020,Henry Patel,Lincolnshire,Lincoln,LN1 8DR,0-985-94523-373
+Lemonade,Coca-Cola GB,Soft Drink,930,2884,2862,22,11/4/2020,George Green,Clackmannanshire,Alloa,FK10 7WF,0-9314-74058-559
+Green Tea,Britvic,Tea,487,7932,8533,-601,7/1/2020,William Clarke,Armagh City Banbridge and Craigavon,Armagh,BT61 9TV,0-5286-50086-104
+Vodka,Fever-Tree,Alcoholic,926,6871,7349,-478,5/25/2021,George Phillips,Causeway Coast and Glens,Coleraine,BT52 1XS,1-6135-70846-518
+Energy Drink,Coca-Cola GB,Soft Drink,584,5341,5770,-429,2/17/2022,Harry Ahmed,Hampshire,Winchester,SO23 5ER,1-8684-54864-330
+Cola,Fever-Tree,Soft Drink,919,11126,8674,2452,11/4/2022,Isabella Thomas,Oxfordshire,Oxford,OX1 2AB,0-3319-68471-676
+Cola,Britvic,Soft Drink,693,11328,8622,2706,9/30/2020,Sophie Lewis,Wrexham,Wrexham,LL11 6UE,1-6122-33840-403
+Wine,Coca-Cola GB,Alcoholic,963,4165,1687,2478,1/2/2021,Jack Shah,Glasgow City,Glasgow,G1 5KU,1-2179-37021-147
+Vodka,Britvic,Alcoholic,499,6965,6950,15,9/28/2020,Ella Taylor,Mid and East Antrim,Ballymena,BT42 7SD,0-9357-51358-424
+Energy Drink,Britvic,Soft Drink,597,6717,4952,1765,7/30/2023,Alfie Watson,Derry City and Strabane,Derry,BT48 5WR,1-6975-97422-857
+Green Tea,Britvic,Tea,575,3792,3093,699,5/17/2023,Florence Wood,Wiltshire,Salisbury,SP1 2JM,1-5276-28966-836
+Beer,Coca-Cola GB,Alcoholic,332,10616,6604,4012,1/24/2021,Charlotte Islam,Lisburn and Castlereagh,Lisburn,BT28 8KX,0-8084-97266-62
+Energy Drink,Britvic,Soft Drink,117,4896,4147,749,12/10/2023,Charlotte Wood,Lisburn and Castlereagh,Lisburn,BT28 1GB,1-7575-71928-558
+Lemonade,Coca-Cola GB,Soft Drink,707,8510,7446,1064,11/4/2022,Evie Ahmed,East Renfrewshire,Giffnock,G46 8SG,0-6135-53416-690
+Wine,Fever-Tree,Alcoholic,687,11400,7376,4024,5/27/2022,Yusuf Thompson,Rhondda Cynon Taf,Pontypridd,CF37 2BJ,1-3409-29879-385
+Green Tea,Coca-Cola GB,Tea,995,1171,988,183,9/29/2022,Emily Thomas,Bridgend,Bridgend,CF31 3GK,0-5982-11256-497
+Lemonade,Coca-Cola GB,Soft Drink,673,8889,8686,203,6/11/2020,Daniel Wilson,Kent,Maidstone,ME14 4NY,0-900-59051-588
+Wine,Britvic,Alcoholic,309,7482,6251,1231,5/27/2023,Isla Thompson,Newry Mourne and Down,Newry,BT35 2PE,0-2307-63083-660
+Coffee,Britvic,Coffee,594,2927,2006,921,5/18/2020,Ethan Thompson,Aberdeen City,Aberdeen,AB10 2TT,1-2285-15811-361
+Green Tea,Fever-Tree,Tea,658,5393,2475,2918,12/8/2021,Florence Wright,Northamptonshire,Northampton,NN1 7SL,1-3363-60422-874
+Cola,Fever-Tree,Soft Drink,892,2996,1820,1176,11/5/2022,Ethan Wilson,Cornwall,Truro,TR1 1TX,1-4981-85030-755
+Wine,Britvic,Alcoholic,274,2692,2515,177,1/13/2023,Benjamin Shah,Ards and North Down,Bangor,BT20 4NV,1-8873-72236-587
+Coffee,Britvic,Coffee,221,8708,5635,3073,6/21/2022,George Shah,Northumberland,Morpeth,NE61 6TB,1-5452-64460-180
+Cola,Fever-Tree,Soft Drink,654,9292,9327,-35,12/11/2020,Liam Jones,East Dunbartonshire,Kirkintilloch,G66 2EG,1-9273-80550-183
+Cola,Coca-Cola GB,Soft Drink,978,8351,9098,-747,4/11/2023,Benjamin Mitchell,Gloucestershire,Gloucester,GL1 2MF,1-8129-46771-330
+Vodka,Coca-Cola GB,Alcoholic,563,8899,10322,-1423,10/8/2020,Evie Green,Norfolk,Norwich,NR1 6JP,1-415-76879-784
+Cola,Britvic,Soft Drink,529,1637,1393,244,12/5/2020,Henry Jackson,West Dunbartonshire,Dumbarton,G82 9SU,1-8609-89235-258
+Herbal Tea,Fever-Tree,Tea,569,6531,5837,694,10/11/2023,Priya Wright,Bridgend,Bridgend,CF31 2RG,0-5103-25328-188
+Black Tea,Fever-Tree,Tea,653,10843,10891,-48,1/2/2020,Sophie Turner,Bridgend,Bridgend,CF31 5LD,1-8524-47192-975
+Black Tea,Britvic,Tea,844,7470,8442,-972,9/12/2023,Charlotte Jones,Perth and Kinross,Perth,PH1 1MK,0-8773-46010-549
+Energy Drink,Britvic,Soft Drink,695,11850,8170,3680,12/21/2021,Ruby Khan,Newry Mourne and Down,Newry,BT35 2XR,0-7455-64899-236
+Green Tea,Coca-Cola GB,Tea,81,5555,5854,-299,11/8/2023,Daisy Walker,Herefordshire,Hereford,HR1 2DK,1-6694-23137-742
+Herbal Tea,Coca-Cola GB,Tea,65,5373,5973,-600,2/19/2022,Freya Jackson,Glasgow City,Glasgow,G1 8PD,0-5627-65288-647
+Beer,Britvic,Alcoholic,974,5603,3444,2159,7/15/2020,Simran Carter,Orkney Islands,Kirkwall,KW15 4AR,0-261-24605-346
+Beer,Fever-Tree,Alcoholic,103,4863,2307,2556,5/9/2023,Liam Edwards,South Ayrshire,Ayr,KA7 1GJ,0-9267-41816-586
+Vodka,Britvic,Alcoholic,247,2414,1256,1158,10/10/2021,Lucas Thompson,Antrim and Newtownabbey,Antrim,BT41 3TL,0-1690-18566-88
+Wine,Coca-Cola GB,Alcoholic,320,1360,571,789,7/17/2021,Isabella Wood,Bedfordshire,Bedford,MK40 3TR,0-9774-65302-33
+Beer,Britvic,Alcoholic,412,6441,4682,1759,1/22/2021,Oliver Smith,Newry Mourne and Down,Newry,BT35 9CA,0-5275-63588-371
+Beer,Britvic,Alcoholic,93,7208,7181,27,11/24/2022,Samuel Patel,Wiltshire,Salisbury,SP1 3YR,1-8674-59068-388
+Coffee,Britvic,Coffee,865,9992,5005,4987,4/23/2023,William Evans,Norfolk,Norwich,NR1 8CX,0-2461-63736-892
+Beer,Fever-Tree,Alcoholic,929,9287,5753,3534,7/4/2023,Ella Begum,Dundee City,Dundee,DD1 9CR,0-2904-96341-640
+Green Tea,Britvic,Tea,354,8009,8776,-767,3/5/2023,Aisha King,Staffordshire,Stafford,ST16 2DP,0-1603-79531-221
+Green Tea,Britvic,Tea,526,10560,5699,4861,10/28/2022,George Brown,Conwy,Conwy,LL32 6KP,0-9307-39372-499
+Vodka,Fever-Tree,Alcoholic,615,2795,3055,-260,9/15/2023,Emily Cooper,Antrim and Newtownabbey,Antrim,BT41 7VK,0-8596-29841-760
+Green Tea,Fever-Tree,Tea,992,6950,7397,-447,7/8/2020,Daniel Harris,Oxfordshire,Oxford,OX1 5DH,1-7990-72324-549
+Beer,Britvic,Alcoholic,413,11237,12881,-1644,12/4/2022,Aisha Shah,Scottish Borders,Newtown St Boswells,TD6 9FW,0-9927-26027-792
+Green Tea,Britvic,Tea,159,6526,7115,-589,12/4/2022,Isla Shah,Torfaen,Pontypool,NP4 8RP,0-6135-38902-653
+Wine,Coca-Cola GB,Alcoholic,50,4128,2752,1376,7/18/2020,Emily Hussain,Rutland,Oakham,LE15 8SW,0-9678-98396-524
+Energy Drink,Coca-Cola GB,Soft Drink,812,1636,1044,592,9/13/2020,Alfie Green,Gwynedd,Caernarfon,LL55 2SV,0-6740-12588-404
+Green Tea,Britvic,Tea,127,8650,9564,-914,9/10/2021,Olivia Watson,Conwy,Conwy,LL32 2RF,1-2811-16787-406
+Wine,Coca-Cola GB,Alcoholic,92,11522,7502,4020,9/2/2021,Charlie Turner,Mid and East Antrim,Ballymena,BT42 6RW,1-2402-40938-115
+Wine,Coca-Cola GB,Alcoholic,269,10057,6356,3701,9/16/2022,Emily White,Swansea,Swansea,SA1 4AP,1-3662-49953-952
+Beer,Britvic,Alcoholic,530,4761,5421,-660,11/17/2023,Benjamin Ahmed,West Dunbartonshire,Dumbarton,G82 1UH,0-1891-42536-674
+Lemonade,Britvic,Soft Drink,267,11651,11673,-22,7/8/2022,Mia Ahmed,West Yorkshire,Leeds,LS1 4GU,1-3278-58213-695
+Black Tea,Fever-Tree,Tea,654,3375,2158,1217,6/11/2022,Isla Singh,Hertfordshire,Hertford,SG13 2VM,1-4444-16230-305
+Black Tea,Coca-Cola GB,Tea,704,6091,5500,591,10/31/2020,Mia Wilson,Lancashire,Preston,PR1 3JG,0-2495-65876-19
+Vodka,Fever-Tree,Alcoholic,678,7845,4348,3497,7/1/2022,Alfie Brown,Cardiff,Cardiff,CF10 9PG,1-3409-79934-739
+Lemonade,Britvic,Soft Drink,722,5943,2539,3404,8/25/2023,Aisha Begum,Shetland Islands,Lerwick,ZE1 8AW,0-7766-70076-284
+Wine,Fever-Tree,Alcoholic,88,9900,5685,4215,10/27/2022,Mia Walker,Herefordshire,Hereford,HR1 9PV,0-6937-70357-939
+Coffee,Britvic,Coffee,855,10814,9067,1747,3/1/2021,Zara Patel,Herefordshire,Hereford,HR1 6FA,0-1909-85255-686
+Wine,Britvic,Alcoholic,388,5787,2574,3213,10/11/2020,Isla Davies,West Dunbartonshire,Dumbarton,G82 3CX,0-7193-99863-239
+Cola,Coca-Cola GB,Soft Drink,221,10365,10504,-139,4/21/2021,Olivia Evans,Rhondda Cynon Taf,Pontypridd,CF37 4RF,0-3694-85457-867
+Green Tea,Coca-Cola GB,Tea,525,554,245,309,4/25/2020,Isla Watson,Aberdeen City,Aberdeen,AB10 3YS,0-1116-48684-209
+Vodka,Coca-Cola GB,Alcoholic,683,7438,6312,1126,9/18/2023,Grace Ali,Edinburgh,Edinburgh,EH1 7GD,1-9050-56437-693
+Black Tea,Coca-Cola GB,Tea,670,9882,6002,3880,10/11/2023,Alfie Carter,Pembrokeshire,Haverfordwest,SA61 9AJ,0-2913-95957-489
+Black Tea,Coca-Cola GB,Tea,171,7128,6445,683,5/6/2022,Jessica Wilson,Inverclyde,Greenock,PA15 9UP,1-5292-45282-200
+Wine,Fever-Tree,Alcoholic,614,8013,9474,-1461,12/26/2022,Leila Thomas,Cambridgeshire,Cambridge,CB1 3RX,0-4442-79163-894
+Black Tea,Coca-Cola GB,Tea,168,4423,3493,930,3/11/2023,Oliver Shah,Merseyside,Liverpool,L1 7VC,1-3291-87193-826
+Wine,Britvic,Alcoholic,314,4671,4441,230,11/19/2020,Joseph Turner,East Ayrshire,Kilmarnock,KA1 8LH,0-5221-51853-752
+Black Tea,Coca-Cola GB,Tea,465,10425,9742,683,11/19/2021,Harry Singh,Hampshire,Winchester,SO23 6EE,1-5676-46655-902
+Coffee,Fever-Tree,Coffee,205,5948,5988,-40,10/25/2023,Priya Clarke,Pembrokeshire,Haverfordwest,SA61 4BP,1-3723-40704-506
+Cola,Coca-Cola GB,Soft Drink,198,785,906,-121,6/25/2022,Henry Smith,Denbighshire,Ruthin,LL15 9XB,1-6680-31538-445
+Energy Drink,Fever-Tree,Soft Drink,881,5843,5076,767,4/22/2022,Yusuf Davies,North Ayrshire,Irvine,KA12 2PU,1-2438-45261-767
+Cola,Britvic,Soft Drink,926,9180,10041,-861,5/25/2023,Isla Hussain,Essex,Chelmsford,CM1 9DU,1-5426-98236-523
+Energy Drink,Fever-Tree,Soft Drink,59,10731,6614,4117,2/23/2020,Liam Islam,Rhondda Cynon Taf,Pontypridd,CF37 4AU,1-1059-71824-543
+Coffee,Coca-Cola GB,Coffee,615,6075,7145,-1070,9/25/2021,Leila Roberts,Vale of Glamorgan,Barry,CF63 6LD,0-2516-36267-905
+Cola,Britvic,Soft Drink,164,2173,1205,968,11/3/2022,Olivia Smith,West Yorkshire,Leeds,LS1 2DS,1-1081-13235-522
+Beer,Fever-Tree,Alcoholic,259,8283,7542,741,9/1/2022,Aisha Clarke,Lisburn and Castlereagh,Lisburn,BT28 9GD,0-4913-22793-483
+Energy Drink,Fever-Tree,Soft Drink,643,2000,1638,362,6/19/2020,Alfie White,Buckinghamshire,Aylesbury,HP20 3BX,1-5168-40062-254
+Cola,Britvic,Soft Drink,153,8517,5288,3229,7/15/2023,Simran Khan,Inverclyde,Greenock,PA15 2SG,0-7200-23164-955
+Beer,Fever-Tree,Alcoholic,559,11875,4879,6996,4/15/2022,Jack Wood,Lincolnshire,Lincoln,LN1 2LC,0-8265-48254-522
+Coffee,Fever-Tree,Coffee,172,2630,1631,999,2/10/2021,Zara Khan,East Dunbartonshire,Kirkintilloch,G66 7DT,0-5198-45882-575
+Coffee,Britvic,Coffee,622,10628,9074,1554,8/18/2021,Mia Ali,Armagh City Banbridge and Craigavon,Armagh,BT61 9DD,0-1738-49924-824
+Coffee,Fever-Tree,Coffee,688,11833,8844,2989,8/15/2021,Emily Singh,Newport,Newport,NP20 2TF,0-8476-34492-256
+Vodka,Fever-Tree,Alcoholic,409,4339,1761,2578,10/19/2020,Joseph Brown,Shropshire,Shrewsbury,SY1 7PF,1-9426-74350-472
+Green Tea,Britvic,Tea,328,1598,1873,-275,6/13/2022,Ethan Hussain,Flintshire,Mold,CH7 7VN,0-1374-97551-593
+Wine,Coca-Cola GB,Alcoholic,386,4144,3758,386,7/9/2020,Samuel Khan,Carmarthenshire,Carmarthen,SA31 5SW,1-8096-52898-596
+Energy Drink,Fever-Tree,Soft Drink,857,10732,8824,1908,6/7/2023,Fatima Watson,Cumbria,Carlisle,CA1 2GP,1-990-69393-418
+Vodka,Britvic,Alcoholic,590,8203,8093,110,5/10/2020,James Ali,Dorset,Dorchester,DT1 5BF,1-7706-22880-550
+Black Tea,Coca-Cola GB,Tea,600,6984,8293,-1309,8/3/2022,Leila Jackson,West Yorkshire,Leeds,LS1 7MK,0-3371-89254-142
+Cola,Britvic,Soft Drink,608,10284,8046,2238,11/7/2022,Freddie Phillips,Inverclyde,Greenock,PA15 1AU,1-1739-56488-370
+Wine,Fever-Tree,Alcoholic,292,2227,1774,453,7/29/2022,Amelia Lewis,Fife,Glenrothes,KY7 4NX,0-4721-12758-318
+Green Tea,Coca-Cola GB,Tea,222,2885,2237,648,5/20/2023,William Jackson,Greater Manchester,Manchester,M1 6YM,0-1039-41114-520
+Black Tea,Coca-Cola GB,Tea,303,6379,4254,2125,1/8/2022,Jack Williams,Derbyshire,Derby,DE1 3DM,0-7067-29689-915
+Beer,Britvic,Alcoholic,307,6939,4431,2508,8/29/2020,Charlotte Wood,Gloucestershire,Gloucester,GL1 1PH,0-4849-42949-400
+Green Tea,Britvic,Tea,573,1540,1704,-164,4/21/2021,Priya Jackson,Highland,Inverness,IV1 4AA,0-3496-90649-425
+Coffee,Fever-Tree,Coffee,828,6323,7372,-1049,5/12/2022,Jack Thomas,Perth and Kinross,Perth,PH1 5UN,1-2185-91381-557
+Herbal Tea,Coca-Cola GB,Tea,232,5969,6517,-548,8/24/2023,Edward Watson,Dorset,Dorchester,DT1 8JC,0-2099-74122-657
+Cola,Coca-Cola GB,Soft Drink,238,3843,3624,219,4/17/2020,Muhammad Harris,West Midlands,Birmingham,B1 2HN,1-4755-43029-742
+Black Tea,Fever-Tree,Tea,671,3917,2526,1391,5/13/2020,George Wright,Newry Mourne and Down,Newry,BT35 5LM,1-7205-27536-351
+Herbal Tea,Coca-Cola GB,Tea,169,1945,1054,891,12/4/2021,Edward Johnson,West Midlands,Birmingham,B1 3JN,0-5725-79434-623
+Cola,Coca-Cola GB,Soft Drink,638,4328,4533,-205,1/12/2023,Jessica Jones,North Lanarkshire,Motherwell,ML1 1YW,0-6385-68997-323
+Herbal Tea,Coca-Cola GB,Tea,301,10582,10768,-186,7/23/2022,Aisha Evans,Mid Ulster,Cookstown,BT80 6TF,1-7088-94186-27
+Energy Drink,Britvic,Soft Drink,278,11503,8804,2699,4/28/2020,Ruby Phillips,Midlothian,Dalkeith,EH22 5SJ,0-3670-85800-75
+Beer,Fever-Tree,Alcoholic,420,1029,1053,-24,10/27/2020,Oliver Cooper,Argyll and Bute,Lochgilphead,PA31 1JD,0-3056-39348-645
+Wine,Britvic,Alcoholic,996,8289,4594,3695,3/1/2020,Jessica Jones,Nottinghamshire,Nottingham,NG1 9MD,1-1980-38437-31
+Beer,Coca-Cola GB,Alcoholic,931,2439,2900,-461,5/15/2020,Florence Edwards,Mid Ulster,Cookstown,BT80 2AR,1-6891-32923-570
+Lemonade,Britvic,Soft Drink,204,8306,8628,-322,8/13/2020,Aisha Jones,Rutland,Oakham,LE15 3AU,0-9747-52437-17
+Cola,Fever-Tree,Soft Drink,987,4145,3004,1141,8/6/2020,Sophie Johnson,Ards and North Down,Bangor,BT20 9WF,1-2858-34265-665
+Beer,Coca-Cola GB,Alcoholic,529,11127,12656,-1529,7/9/2023,Charlotte Ali,Antrim and Newtownabbey,Antrim,BT41 1DA,1-9405-54734-2
+Energy Drink,Britvic,Soft Drink,791,2793,2014,779,6/18/2023,Yusuf Turner,South Yorkshire,Sheffield,S1 4WU,0-7528-60321-476
+Green Tea,Britvic,Tea,260,1145,980,165,5/29/2020,Mia Edwards,Aberdeen City,Aberdeen,AB10 8RH,1-8867-70929-112
+Energy Drink,Fever-Tree,Soft Drink,157,6426,7362,-936,11/28/2020,Isla Carter,Essex,Chelmsford,CM1 5TT,1-8449-74044-651
+Beer,Fever-Tree,Alcoholic,147,7485,4575,2910,9/30/2020,Benjamin Begum,Isle of Anglesey,Llangefni,LL77 5HB,0-5924-38741-749
+Wine,Coca-Cola GB,Alcoholic,985,5078,4872,206,8/21/2023,Lucas Turner,Mid Ulster,Cookstown,BT80 7HV,1-8671-54017-117
+Beer,Fever-Tree,Alcoholic,812,8401,4500,3901,2/18/2022,Olivia Thomas,South Ayrshire,Ayr,KA7 5GL,0-2839-66973-283
+Vodka,Coca-Cola GB,Alcoholic,737,6169,4277,1892,9/5/2021,Omar Carter,Monmouthshire,Monmouth,NP25 3SV,0-7861-59556-8
+Cola,Coca-Cola GB,Soft Drink,683,1581,1684,-103,6/6/2020,Fatima Davies,Warwickshire,Warwick,CV34 9JN,0-7468-84928-668
+Coffee,Fever-Tree,Coffee,793,11546,6103,5443,7/26/2023,Oliver Davies,Denbighshire,Ruthin,LL15 3LP,0-1149-44483-228
+Cola,Britvic,Soft Drink,72,2566,2035,531,5/1/2022,Samuel Cooper,Inverclyde,Greenock,PA15 7LR,0-6797-15089-944
+Energy Drink,Britvic,Soft Drink,980,5605,4576,1029,4/13/2021,Ella Davies,Shropshire,Shrewsbury,SY1 5JG,0-1402-20052-748
+Herbal Tea,Coca-Cola GB,Tea,601,2138,1146,992,1/31/2021,Aisha Hussain,Inverclyde,Greenock,PA15 3BC,0-2187-44029-956
+Coffee,Fever-Tree,Coffee,830,6896,3841,3055,8/28/2021,Edward Ahmed,Merseyside,Liverpool,L1 8XW,0-2177-17050-236
+Black Tea,Fever-Tree,Tea,962,2868,2014,854,4/20/2023,George Green,Worcestershire,Worcester,WR1 2PW,0-2700-65234-487
+Wine,Coca-Cola GB,Alcoholic,371,5467,4704,763,8/28/2020,Yusuf Thompson,Derry City and Strabane,Derry,BT48 6NS,1-6551-15225-356
+Energy Drink,Coca-Cola GB,Soft Drink,340,7441,3580,3861,9/8/2022,Alice Wood,Wrexham,Wrexham,LL11 3KU,0-4931-12631-327
+Wine,Coca-Cola GB,Alcoholic,194,5132,2109,3023,3/17/2021,George Taylor,Gwynedd,Caernarfon,LL55 7MP,1-7039-62727-85
+Cola,Coca-Cola GB,Soft Drink,949,707,557,150,7/19/2023,Joseph Walker,East Riding of Yorkshire,Beverley,HU17 3AA,0-8115-60956-65
+Cola,Fever-Tree,Soft Drink,195,11828,6332,5496,1/24/2023,Charlotte Lewis,Orkney Islands,Kirkwall,KW15 9YY,0-1317-97584-50
+Wine,Fever-Tree,Alcoholic,904,4330,5179,-849,7/31/2020,Jack Jones,Lisburn and Castlereagh,Lisburn,BT28 7CT,0-7376-75976-596
+Vodka,Coca-Cola GB,Alcoholic,383,2262,1921,341,2/28/2022,Emily Islam,Tyne and Wear,Newcastle upon Tyne,NE1 4MC,1-1325-85228-915
+Green Tea,Britvic,Tea,921,10232,10258,-26,12/20/2022,Benjamin Wood,Northumberland,Morpeth,NE61 3UK,1-7616-77653-814
+Lemonade,Coca-Cola GB,Soft Drink,303,10577,9955,622,11/23/2023,Henry Ahmed,Devon,Exeter,EX1 4BT,0-6197-83877-674
+Wine,Fever-Tree,Alcoholic,624,8470,5303,3167,8/5/2020,Charlotte Walker,West Lothian,Livingston,EH54 4UV,0-5964-63707-303
+Black Tea,Fever-Tree,Tea,171,1766,796,970,8/5/2020,Freddie Singh,Hertfordshire,Hertford,SG13 4BE,1-6686-52498-124
+Herbal Tea,Fever-Tree,Tea,153,7861,3294,4567,2/26/2021,Edward Hussain,Kent,Maidstone,ME14 3GT,0-6684-85375-801
+Lemonade,Britvic,Soft Drink,600,8044,4668,3376,11/27/2020,Daniel Ali,East Dunbartonshire,Kirkintilloch,G66 4BA,0-3434-14356-830
+Green Tea,Coca-Cola GB,Tea,834,11068,9413,1655,1/20/2021,Charlotte Ahmed,Swansea,Swansea,SA1 5DA,0-3911-88861-225
+Beer,Fever-Tree,Alcoholic,144,4759,2587,2172,2/8/2020,Lily Robinson,Carmarthenshire,Carmarthen,SA31 4VV,1-1486-79932-622
+Beer,Fever-Tree,Alcoholic,946,2549,2026,523,6/13/2020,Daisy Williams,Lancashire,Preston,PR1 7TP,0-1596-40005-985
+Black Tea,Fever-Tree,Tea,269,8625,10005,-1380,9/19/2022,Evie Watson,Ceredigion,Aberystwyth,SY23 3TC,1-8117-75178-237
+Green Tea,Britvic,Tea,153,1284,786,498,9/16/2020,Simran Turner,Rutland,Oakham,LE15 9CB,1-6031-77271-608
+Herbal Tea,Coca-Cola GB,Tea,629,1816,803,1013,10/31/2020,Noah Wood,Carmarthenshire,Carmarthen,SA31 3AF,1-7250-25207-917
+Green Tea,Fever-Tree,Tea,150,4631,3947,684,5/17/2023,Charlie White,City of London,London,EC1 1JM,1-1200-35594-204
+Vodka,Coca-Cola GB,Alcoholic,352,8401,5242,3159,6/22/2021,Alice Evans,East Riding of Yorkshire,Beverley,HU17 3UN,1-5509-85452-791
+Green Tea,Britvic,Tea,300,11153,4961,6192,3/14/2022,Charlie Ahmed,Devon,Exeter,EX1 8DW,1-6351-11653-125
+Energy Drink,Fever-Tree,Soft Drink,536,7038,3157,3881,10/23/2021,Sophie Green,Merseyside,Liverpool,L1 7JK,1-4371-17160-275
+Herbal Tea,Britvic,Tea,502,6100,2960,3140,2/20/2022,Alice Clarke,Northamptonshire,Northampton,NN1 5YG,1-4597-11061-580
+Lemonade,Britvic,Soft Drink,551,4366,2669,1697,12/25/2022,Isabella Harris,Caerphilly,Hengoed,CF82 5RM,1-1926-33878-500
+Cola,Britvic,Soft Drink,622,8826,4823,4003,8/19/2023,Charlotte Cooper,Wrexham,Wrexham,LL11 4JS,1-8904-54747-150
+Black Tea,Coca-Cola GB,Tea,711,2250,2438,-188,8/28/2020,William Clarke,Blaenau Gwent,Ebbw Vale,NP23 8YP,0-2695-78386-760
+Beer,Britvic,Alcoholic,903,4514,2553,1961,3/18/2021,Mia Harris,Rutland,Oakham,LE15 3UP,1-2470-27038-554
+Herbal Tea,Coca-Cola GB,Tea,557,3332,1593,1739,11/27/2023,Joseph Green,West Lothian,Livingston,EH54 2GU,0-470-54967-664
+Lemonade,Coca-Cola GB,Soft Drink,996,5257,3238,2019,12/10/2023,Alice Patel,Perth and Kinross,Perth,PH1 2TD,0-6613-98869-387
+Lemonade,Coca-Cola GB,Soft Drink,98,5296,2925,2371,4/1/2023,Poppy Harris,Shropshire,Shrewsbury,SY1 2KL,1-4825-24442-993
+Cola,Britvic,Soft Drink,697,4878,3717,1161,12/19/2021,Jessica White,Newport,Newport,NP20 8FL,1-5033-53743-913
+Vodka,Coca-Cola GB,Alcoholic,158,11142,6674,4468,5/16/2023,Leila Lewis,Herefordshire,Hereford,HR1 3AX,0-5536-21679-97
+Wine,Coca-Cola GB,Alcoholic,241,2933,2065,868,7/17/2022,Muhammad Cooper,Berkshire,Reading,RG1 3JE,1-1269-89840-651
+Coffee,Fever-Tree,Coffee,986,5557,5962,-405,5/31/2021,Edward Lewis,City of London,London,EC1 8LY,1-7466-27419-836
+Black Tea,Fever-Tree,Tea,259,9601,8689,912,3/1/2020,Amelia Green,Worcestershire,Worcester,WR1 2SJ,0-3306-43095-503
+Vodka,Britvic,Alcoholic,51,8055,8278,-223,4/13/2022,Isla Evans,City of London,London,EC1 2RH,1-7751-17100-690
+Cola,Fever-Tree,Soft Drink,155,1135,610,525,6/19/2023,Lucas Cooper,Surrey,Guildford,GU1 2KC,1-9748-62487-537
+Green Tea,Fever-Tree,Tea,940,5972,2455,3517,8/17/2020,Harry Walker,Gloucestershire,Gloucester,GL1 1ER,0-7239-92058-879
+Lemonade,Coca-Cola GB,Soft Drink,827,11126,6474,4652,4/25/2020,Fatima Sharma,Mid Ulster,Cookstown,BT80 1BV,0-7942-15556-44
+Black Tea,Britvic,Tea,364,10667,10019,648,8/24/2020,Mia Khan,Merthyr Tydfil,Merthyr Tydfil,CF47 1AV,0-853-71835-373
+Beer,Britvic,Alcoholic,147,8480,8923,-443,10/6/2020,Ethan Jackson,Bedfordshire,Bedford,MK40 8MS,1-7916-49270-10
+Coffee,Coca-Cola GB,Coffee,124,2671,1599,1072,4/4/2020,Poppy Jackson,Carmarthenshire,Carmarthen,SA31 9KN,1-8663-56152-621
+Vodka,Fever-Tree,Alcoholic,389,5433,2987,2446,9/19/2021,Arjun Carter,Fife,Glenrothes,KY7 5SF,0-6685-97796-863
+Beer,Coca-Cola GB,Alcoholic,748,11198,12985,-1787,8/19/2020,Ruby Patel,Newport,Newport,NP20 7XN,0-965-77889-185
+Green Tea,Britvic,Tea,560,10372,6558,3814,8/12/2021,Priya Davies,Falkirk,Falkirk,FK1 6XR,1-3605-36485-848
+Green Tea,Fever-Tree,Tea,216,5801,4208,1593,9/1/2022,Grace Walker,Fife,Glenrothes,KY7 5HR,0-9506-40437-548
+Wine,Coca-Cola GB,Alcoholic,672,4650,4125,525,2/26/2022,Samuel Begum,Worcestershire,Worcester,WR1 9GY,0-2971-93924-507
+Wine,Coca-Cola GB,Alcoholic,557,8587,3844,4743,12/16/2021,Thomas Thomas,Greater London,London,W1 5LV,1-4073-37621-848
+Energy Drink,Fever-Tree,Soft Drink,948,4973,4476,497,12/28/2023,Edward King,South Ayrshire,Ayr,KA7 7KE,0-7880-28228-193
+Cola,Coca-Cola GB,Soft Drink,723,2432,2123,309,6/16/2023,Alfie Williams,Belfast,Belfast,BT1 2TH,1-6799-92684-461
+Green Tea,Coca-Cola GB,Tea,581,4991,2488,2503,1/11/2020,Alice Islam,Perth and Kinross,Perth,PH1 7MX,1-3541-55069-217
+Lemonade,Fever-Tree,Soft Drink,678,4930,5473,-543,1/13/2022,Simran Shah,Angus,Forfar,DD8 9YK,0-478-26389-746
+Coffee,Fever-Tree,Coffee,471,6039,3399,2640,1/29/2023,James Jackson,Lincolnshire,Lincoln,LN1 8WL,0-4020-30758-319
+Wine,Fever-Tree,Alcoholic,686,9995,5651,4344,11/7/2022,Yusuf Johnson,Greater Manchester,Manchester,M1 1PA,0-209-74011-853
+Beer,Coca-Cola GB,Alcoholic,442,3603,3143,460,10/28/2023,Lily Thompson,Cheshire,Chester,CH1 7PM,0-2694-26629-914
+Wine,Britvic,Alcoholic,138,8348,8415,-67,9/15/2023,Yusuf Ali,West Lothian,Livingston,EH54 8UE,1-8132-76164-268
+Beer,Fever-Tree,Alcoholic,968,2147,1660,487,8/18/2023,Poppy Clarke,Argyll and Bute,Lochgilphead,PA31 7TM,1-2834-75949-879
+Wine,Britvic,Alcoholic,319,2381,1272,1109,1/14/2023,Amelia Harris,Conwy,Conwy,LL32 6FE,1-7647-87803-404
+Black Tea,Coca-Cola GB,Tea,98,11564,9916,1648,10/7/2021,Florence Wood,Edinburgh,Edinburgh,EH1 8FW,0-3859-97612-927
+Beer,Fever-Tree,Alcoholic,264,3451,2621,830,7/16/2023,Omar Johnson,West Sussex,Chichester,PO19 1XN,0-8913-84542-216
+Energy Drink,Fever-Tree,Soft Drink,922,5855,5059,796,5/6/2022,Benjamin Turner,Durham,Durham,DH1 4RP,0-8347-20552-614
+Black Tea,Britvic,Tea,276,734,506,228,8/19/2021,Ella Johnson,Worcestershire,Worcester,WR1 5LK,1-2630-26849-151
+Coffee,Fever-Tree,Coffee,139,6190,5564,626,3/9/2022,Harry Smith,South Yorkshire,Sheffield,S1 4HD,0-9674-98413-787
+Herbal Tea,Britvic,Tea,932,3593,1471,2122,10/13/2023,Jack Green,Rhondda Cynon Taf,Pontypridd,CF37 6SP,0-9425-44398-745
+Green Tea,Fever-Tree,Tea,596,10848,6840,4008,8/21/2022,Daniel Johnson,Vale of Glamorgan,Barry,CF63 4AY,0-1203-23305-276
+Energy Drink,Britvic,Soft Drink,899,2375,2275,100,8/7/2020,Lucas Turner,Angus,Forfar,DD8 7DG,0-9344-61043-12
+Herbal Tea,Britvic,Tea,201,1455,789,666,2/3/2022,James Phillips,West Dunbartonshire,Dumbarton,G82 4PY,0-5603-26673-33
+Lemonade,Coca-Cola GB,Soft Drink,543,2133,1206,927,1/8/2020,Olivia Hussain,Stirling,Stirling,FK8 4PA,1-8354-78822-266
+Vodka,Britvic,Alcoholic,122,8193,4477,3716,9/28/2022,Oliver Wilson,Somerset,Taunton,TA1 9HW,1-7983-85112-318
+Cola,Coca-Cola GB,Soft Drink,94,1475,1315,160,9/11/2020,Noah Evans,North Yorkshire,York,YO1 6KS,0-8413-58266-579
+Beer,Britvic,Alcoholic,486,3546,3686,-140,4/6/2022,Harry Brown,Carmarthenshire,Carmarthen,SA31 2FG,0-9208-90425-589
+Lemonade,Fever-Tree,Soft Drink,970,5968,4358,1610,5/20/2020,Amelia Thomas,North Ayrshire,Irvine,KA12 5CL,1-4558-91625-504
+Herbal Tea,Coca-Cola GB,Tea,282,1636,1248,388,6/23/2022,Jack Islam,South Ayrshire,Ayr,KA7 1FN,0-901-34227-152
+Beer,Coca-Cola GB,Alcoholic,787,7401,4880,2521,6/3/2023,Liam Singh,Aberdeenshire,Inverurie,AB51 5VE,0-5123-92329-639
+Cola,Fever-Tree,Soft Drink,918,6957,3890,3067,3/26/2020,George Mitchell,Tyne and Wear,Newcastle upon Tyne,NE1 4AH,1-5649-64464-768
+Coffee,Coca-Cola GB,Coffee,690,11611,10307,1304,7/22/2020,Yusuf Robinson,Kent,Maidstone,ME14 4FB,0-2947-82350-77
+Beer,Coca-Cola GB,Alcoholic,167,1519,1559,-40,12/21/2022,Charlotte Brown,Perth and Kinross,Perth,PH1 9VM,0-3499-96321-920
+Wine,Coca-Cola GB,Alcoholic,923,11530,9444,2086,2/11/2020,Daisy Taylor,Powys,Llandrindod Wells,LD1 9BJ,0-128-79352-13
+Beer,Coca-Cola GB,Alcoholic,70,9338,9344,-6,8/5/2023,William Wilson,Buckinghamshire,Aylesbury,HP20 5KK,1-8301-33416-520
+Beer,Britvic,Alcoholic,957,2187,2250,-63,11/5/2022,Ruby Jones,Aberdeen City,Aberdeen,AB10 7WA,1-6216-43246-766
+Energy Drink,Fever-Tree,Soft Drink,117,6327,5983,344,6/10/2022,Liam Green,Caerphilly,Hengoed,CF82 4EU,1-866-45968-432
+Black Tea,Britvic,Tea,434,10537,8016,2521,5/23/2021,Thomas Shah,Northamptonshire,Northampton,NN1 8BL,1-6613-37815-731
+Green Tea,Coca-Cola GB,Tea,568,11993,9826,2167,6/23/2023,Leila Edwards,East Renfrewshire,Giffnock,G46 3VF,0-3225-12482-452
+Green Tea,Britvic,Tea,311,10533,7316,3217,8/18/2021,Henry Shah,Buckinghamshire,Aylesbury,HP20 1CE,1-8468-76608-803
+Vodka,Fever-Tree,Alcoholic,323,11904,8426,3478,6/26/2022,Isabella Williams,Swansea,Swansea,SA1 4LT,0-7846-61003-698
+Energy Drink,Fever-Tree,Soft Drink,783,3724,4002,-278,1/7/2022,Benjamin Roberts,Perth and Kinross,Perth,PH1 5YR,0-290-19403-664
+Green Tea,Coca-Cola GB,Tea,728,10218,10074,144,12/6/2022,Fatima Lewis,Renfrewshire,Paisley,PA1 2YD,1-7582-87879-978
+Energy Drink,Fever-Tree,Soft Drink,428,5416,3419,1997,9/4/2022,Zara Thomas,Newport,Newport,NP20 3SN,0-2594-11020-608
+Energy Drink,Coca-Cola GB,Soft Drink,738,4302,3929,373,3/21/2022,Zara Roberts,Na h-Eileanan Siar,Stornoway,HS1 9VU,1-2706-25105-782
+Lemonade,Britvic,Soft Drink,200,11167,6981,4186,11/26/2020,Charlie Taylor,Denbighshire,Ruthin,LL15 2LW,0-7146-20479-691
+Coffee,Coca-Cola GB,Coffee,209,9587,8550,1037,5/7/2021,Alice Turner,Worcestershire,Worcester,WR1 3RB,1-1208-78951-558
+Wine,Fever-Tree,Alcoholic,816,4785,5724,-939,6/5/2020,Yusuf Evans,Orkney Islands,Kirkwall,KW15 9TH,1-2800-43130-213
+Beer,Coca-Cola GB,Alcoholic,989,1459,1713,-254,1/2/2020,Priya Sharma,Worcestershire,Worcester,WR1 6CG,0-3954-66585-720
+Wine,Fever-Tree,Alcoholic,661,3884,2066,1818,4/27/2020,Jack Jackson,Northamptonshire,Northampton,NN1 9XU,0-7046-98740-521
+Lemonade,Coca-Cola GB,Soft Drink,737,11622,13392,-1770,12/6/2023,Simran Davies,Northamptonshire,Northampton,NN1 4DC,0-7852-81884-56
+Cola,Coca-Cola GB,Soft Drink,414,9542,6479,3063,4/10/2023,Harry Harris,Gloucestershire,Gloucester,GL1 7CH,1-6849-56041-58
+Cola,Fever-Tree,Soft Drink,855,8242,9623,-1381,4/27/2021,Liam Phillips,Highland,Inverness,IV1 8MV,0-1821-65797-717
+Green Tea,Coca-Cola GB,Tea,810,7664,8294,-630,7/14/2022,Amelia Mitchell,Clackmannanshire,Alloa,FK10 2UY,1-5792-18511-564
+Coffee,Coca-Cola GB,Coffee,366,2395,1452,943,6/26/2021,Amelia Mitchell,Warwickshire,Warwick,CV34 2LX,1-3023-94604-504
+Cola,Britvic,Soft Drink,368,8110,7362,748,8/5/2020,Benjamin Patel,Flintshire,Mold,CH7 1GN,1-1196-18542-90
+Cola,Fever-Tree,Soft Drink,776,7714,5232,2482,6/8/2022,Benjamin Wilson,Swansea,Swansea,SA1 4TV,0-6366-17094-313
+Coffee,Coca-Cola GB,Coffee,319,1129,1349,-220,3/22/2023,James Mitchell,East Sussex,Eastbourne,BN21 5JE,0-5292-55068-152
+Coffee,Coca-Cola GB,Coffee,674,10747,11769,-1022,7/9/2020,Arjun Phillips,Ceredigion,Aberystwyth,SY23 6VU,1-3668-66314-845
+Cola,Coca-Cola GB,Soft Drink,72,3634,4063,-429,3/27/2021,Joseph Wright,Highland,Inverness,IV1 6UG,0-8731-45066-327
+Cola,Britvic,Soft Drink,158,11367,8045,3322,2/26/2020,Alice Hussain,Bedfordshire,Bedford,MK40 6VY,0-8262-33827-549
+Cola,Coca-Cola GB,Soft Drink,546,5357,2349,3008,11/26/2022,Poppy Shah,Highland,Inverness,IV1 9VK,1-6392-51756-776
+Black Tea,Britvic,Tea,666,5203,2329,2874,10/6/2020,Freddie Phillips,Flintshire,Mold,CH7 8KT,0-4935-89119-161
+Black Tea,Britvic,Tea,932,6213,5983,230,3/23/2022,Isabella Sharma,North Lanarkshire,Motherwell,ML1 6UJ,1-5153-44283-369
+Green Tea,Britvic,Tea,762,5894,3393,2501,11/17/2023,James Watson,Tyne and Wear,Newcastle upon Tyne,NE1 5LX,1-9135-95449-302
+Herbal Tea,Fever-Tree,Tea,118,5559,2777,2782,5/19/2021,Benjamin Wood,Rutland,Oakham,LE15 4LD,0-3710-46630-110
+Coffee,Coca-Cola GB,Coffee,664,11784,5596,6188,4/21/2021,Evie Islam,Bedfordshire,Bedford,MK40 1NS,1-3711-68878-604
+Black Tea,Britvic,Tea,158,732,664,68,8/23/2023,Omar Brown,Gwynedd,Caernarfon,LL55 5ST,0-1048-42044-89
+Beer,Fever-Tree,Alcoholic,88,9405,5181,4224,3/13/2022,Emily Taylor,Flintshire,Mold,CH7 4LC,1-9830-19307-541
+Beer,Fever-Tree,Alcoholic,985,3223,2197,1026,3/2/2020,Freddie Lewis,Stirling,Stirling,FK8 6KE,0-1290-38204-673
+Black Tea,Britvic,Tea,124,5173,2632,2541,10/18/2021,Daisy Walker,South Lanarkshire,Hamilton,ML3 8GY,1-4875-92955-503
+Black Tea,Britvic,Tea,958,11529,9634,1895,7/27/2023,Daniel King,Gwynedd,Caernarfon,LL55 2KS,1-8234-40926-922
+Energy Drink,Fever-Tree,Soft Drink,696,1472,1520,-48,10/29/2021,Ruby Sharma,Tyne and Wear,Newcastle upon Tyne,NE1 4UP,1-4588-24003-77
+Energy Drink,Coca-Cola GB,Soft Drink,177,1947,1236,711,3/29/2020,Alfie Carter,Greater Manchester,Manchester,M1 5GB,1-3456-99397-257
+Beer,Coca-Cola GB,Alcoholic,317,3051,2630,421,11/21/2023,Simran Wood,Dumfries and Galloway,Dumfries,DG1 2FA,0-6037-83187-486
+Lemonade,Britvic,Soft Drink,927,7055,4557,2498,1/13/2021,Isabella Robinson,Isle of Wight,Newport,PO30 7BF,1-181-72566-164
+Cola,Fever-Tree,Soft Drink,668,1187,501,686,7/31/2021,Olivia Ahmed,Fermanagh and Omagh,Enniskillen,BT74 2BP,1-3175-82311-207
+Coffee,Fever-Tree,Coffee,224,8828,5670,3158,9/29/2020,Isla Turner,Cheshire,Chester,CH1 4KV,0-7094-81703-582
+Energy Drink,Britvic,Soft Drink,955,9146,9705,-559,5/25/2023,Alfie Lewis,Inverclyde,Greenock,PA15 8WP,0-1626-73208-676
+Black Tea,Coca-Cola GB,Tea,900,11062,6313,4749,9/16/2023,Ruby Jackson,Highland,Inverness,IV1 2VX,1-9287-53068-182
+Green Tea,Fever-Tree,Tea,695,11752,11692,60,8/30/2022,Joseph White,Essex,Chelmsford,CM1 4VG,1-4019-45992-451
+Lemonade,Coca-Cola GB,Soft Drink,922,3414,1815,1599,10/22/2021,Priya Wood,Dumfries and Galloway,Dumfries,DG1 6XM,1-1392-42847-202
+Vodka,Britvic,Alcoholic,492,3915,1756,2159,6/14/2021,Sophie Jones,Orkney Islands,Kirkwall,KW15 6MA,0-5829-24308-80
+Green Tea,Britvic,Tea,813,5219,5536,-317,1/14/2020,Thomas Smith,Argyll and Bute,Lochgilphead,PA31 2HN,0-4860-67725-200
+Beer,Fever-Tree,Alcoholic,100,9406,6657,2749,8/1/2023,Zara Cooper,Nottinghamshire,Nottingham,NG1 2MF,1-6464-11031-932
+Green Tea,Britvic,Tea,581,724,342,382,11/10/2021,Freddie Williams,Powys,Llandrindod Wells,LD1 8BX,1-6571-75028-31
+Lemonade,Britvic,Soft Drink,280,3280,1884,1396,6/18/2021,George Wilson,Lincolnshire,Lincoln,LN1 9RE,0-7755-86915-331
+Coffee,Coca-Cola GB,Coffee,955,3275,3491,-216,12/2/2020,Grace Wood,Cheshire,Chester,CH1 1AV,1-9936-61206-930
+Coffee,Fever-Tree,Coffee,336,3874,2009,1865,8/5/2021,Lucas Johnson,Somerset,Taunton,TA1 3SG,0-2614-31135-244
+Green Tea,Coca-Cola GB,Tea,135,4250,2570,1680,2/2/2020,Jessica Shah,Shropshire,Shrewsbury,SY1 2SS,1-9125-37021-837
+Lemonade,Fever-Tree,Soft Drink,142,11669,7730,3939,11/8/2022,Ella Singh,Fife,Glenrothes,KY7 7BP,1-1844-29394-569
+Herbal Tea,Fever-Tree,Tea,122,7730,5788,1942,3/30/2022,Isla White,Edinburgh,Edinburgh,EH1 3EV,1-6536-23486-598
+Vodka,Coca-Cola GB,Alcoholic,131,2488,1178,1310,1/7/2022,Ethan Harris,Herefordshire,Hereford,HR1 2KT,1-6662-81448-64
+Cola,Fever-Tree,Soft Drink,106,5137,2663,2474,10/14/2020,Isabella Khan,Newry Mourne and Down,Newry,BT35 8YW,0-6946-15039-790
+Coffee,Fever-Tree,Coffee,504,2346,2151,195,8/15/2020,Mia Wilson,Denbighshire,Ruthin,LL15 1WN,0-1178-79747-104
+Herbal Tea,Britvic,Tea,405,5684,5454,230,3/9/2023,Lily Islam,Vale of Glamorgan,Barry,CF63 1TD,1-525-38969-902
+Coffee,Fever-Tree,Coffee,987,10514,8946,1568,5/31/2020,Harry Patel,Norfolk,Norwich,NR1 7GP,1-3993-99506-503
+Black Tea,Fever-Tree,Tea,653,6085,2584,3501,3/27/2021,Emily Williams,Caerphilly,Hengoed,CF82 5EG,1-9367-74921-563
+Beer,Britvic,Alcoholic,273,10016,11294,-1278,5/30/2022,Leila Roberts,Isle of Anglesey,Llangefni,LL77 3GN,0-3116-51628-860
+Green Tea,Coca-Cola GB,Tea,689,4996,2297,2699,6/26/2021,William Begum,Norfolk,Norwich,NR1 7RV,1-5288-92155-736
+Green Tea,Coca-Cola GB,Tea,590,9679,9253,426,9/30/2023,Harry Edwards,Neath Port Talbot,Port Talbot,SA13 9AD,1-3388-90997-278
+Lemonade,Britvic,Soft Drink,487,9365,4511,4854,6/27/2020,Amelia Carter,South Ayrshire,Ayr,KA7 8NM,0-530-21746-363
+Energy Drink,Britvic,Soft Drink,564,11435,9716,1719,9/11/2022,Charlie Harris,Somerset,Taunton,TA1 3SE,0-168-11682-883
+Cola,Britvic,Soft Drink,405,7647,5332,2315,4/14/2023,Emily Phillips,Mid and East Antrim,Ballymena,BT42 2LW,0-7836-35499-513
+Green Tea,Coca-Cola GB,Tea,496,11174,10131,1043,5/10/2021,Sophie Roberts,Stirling,Stirling,FK8 7UB,1-9639-62534-548
+Black Tea,Fever-Tree,Tea,886,5678,4251,1427,6/12/2021,Muhammad Patel,Fife,Glenrothes,KY7 2JT,0-4352-31344-596
+Energy Drink,Fever-Tree,Soft Drink,642,4536,5336,-800,5/24/2023,William Mitchell,Hampshire,Winchester,SO23 9CR,0-2362-50501-706
+Wine,Britvic,Alcoholic,118,5985,3568,2417,7/16/2023,Alfie Phillips,Dorset,Dorchester,DT1 7TF,1-662-52319-318
+Wine,Fever-Tree,Alcoholic,267,5738,6537,-799,10/29/2022,Priya Patel,Monmouthshire,Monmouth,NP25 6SE,0-3063-56507-389
+Beer,Coca-Cola GB,Alcoholic,776,11844,8832,3012,2/19/2022,Isla Roberts,Northamptonshire,Northampton,NN1 3LA,1-8285-27625-915
+Beer,Coca-Cola GB,Alcoholic,181,1824,1125,699,2/25/2023,Zara Watson,Falkirk,Falkirk,FK1 3CT,0-4072-16653-686
+Coffee,Britvic,Coffee,737,1429,1074,355,8/13/2022,George Clarke,Edinburgh,Edinburgh,EH1 8RN,1-1059-85965-962
+Energy Drink,Britvic,Soft Drink,480,4654,3741,913,10/30/2020,Alice Singh,Clackmannanshire,Alloa,FK10 4WW,0-2832-25832-429
+Beer,Britvic,Alcoholic,583,4219,2610,1609,3/11/2022,Poppy Shah,Denbighshire,Ruthin,LL15 4KX,0-7553-87460-561
+Beer,Coca-Cola GB,Alcoholic,408,9974,10371,-397,3/27/2021,Charlotte Wood,Gloucestershire,Gloucester,GL1 5KA,1-6724-31632-861
+Wine,Coca-Cola GB,Alcoholic,325,9454,5687,3767,1/28/2021,Leila Watson,Powys,Llandrindod Wells,LD1 7MF,1-8439-45638-642
+Energy Drink,Britvic,Soft Drink,97,4758,4838,-80,7/4/2022,Thomas Patel,Buckinghamshire,Aylesbury,HP20 2RH,0-1662-83516-174
+Lemonade,Coca-Cola GB,Soft Drink,151,2543,1577,966,6/10/2021,Oliver Wilson,West Dunbartonshire,Dumbarton,G82 3XT,1-6158-32989-268
+Herbal Tea,Britvic,Tea,203,4617,1933,2684,11/28/2023,Benjamin Sharma,South Yorkshire,Sheffield,S1 2AN,0-3860-86380-504
+Vodka,Britvic,Alcoholic,412,3219,3560,-341,7/3/2020,Sophie Green,Merthyr Tydfil,Merthyr Tydfil,CF47 3SC,0-7462-93109-372
+Vodka,Britvic,Alcoholic,120,6565,2704,3861,9/13/2022,Daniel Evans,Derbyshire,Derby,DE1 3TU,1-9463-54151-946
+Coffee,Britvic,Coffee,935,8573,5718,2855,2/21/2023,Muhammad Robinson,Clackmannanshire,Alloa,FK10 1RS,1-1211-50340-308
+Energy Drink,Fever-Tree,Soft Drink,587,3306,2449,857,8/9/2020,Charlotte Mitchell,Shropshire,Shrewsbury,SY1 2WH,0-1176-26540-282
+Black Tea,Britvic,Tea,489,771,791,-20,8/31/2022,Zara Islam,Cheshire,Chester,CH1 3JB,0-8290-21980-703
+Coffee,Coca-Cola GB,Coffee,661,7174,5403,1771,12/23/2023,Ruby Singh,Highland,Inverness,IV1 8LV,0-2125-55823-96
+Herbal Tea,Coca-Cola GB,Tea,732,6345,3607,2738,11/7/2021,Simran Thomas,Falkirk,Falkirk,FK1 3MV,0-5305-64565-184
+Coffee,Fever-Tree,Coffee,559,8461,6741,1720,1/8/2020,Muhammad Wood,Wrexham,Wrexham,LL11 4LE,1-5531-59271-211
+Black Tea,Britvic,Tea,557,1714,701,1013,8/31/2023,Thomas Thompson,Highland,Inverness,IV1 1RL,0-6742-99925-515
+Cola,Britvic,Soft Drink,781,9159,10448,-1289,3/15/2022,Zara Green,Newport,Newport,NP20 6KF,0-2330-86638-112
+Lemonade,Coca-Cola GB,Soft Drink,642,6118,6878,-760,4/14/2020,Jack Carter,Derbyshire,Derby,DE1 5AH,0-4391-31178-760
+Herbal Tea,Coca-Cola GB,Tea,518,11630,13646,-2016,3/16/2021,Florence Clarke,East Dunbartonshire,Kirkintilloch,G66 1BL,1-4781-80345-9
+Beer,Britvic,Alcoholic,158,2436,2360,76,8/20/2022,Simran Evans,Oxfordshire,Oxford,OX1 3WV,0-2835-19570-136
+Beer,Britvic,Alcoholic,96,3950,1781,2169,1/11/2021,Muhammad Walker,South Yorkshire,Sheffield,S1 6RK,1-1236-42214-617
+Herbal Tea,Coca-Cola GB,Tea,615,6354,4802,1552,4/28/2021,Thomas Evans,Oxfordshire,Oxford,OX1 6MY,1-1092-62184-283
+Green Tea,Fever-Tree,Tea,562,3986,4046,-60,8/6/2023,Arjun Turner,Midlothian,Dalkeith,EH22 6YJ,1-6254-20518-700
+Lemonade,Britvic,Soft Drink,327,10776,7991,2785,10/10/2021,Sophie Ali,Vale of Glamorgan,Barry,CF63 6XP,1-8614-92818-510
+Lemonade,Britvic,Soft Drink,195,7500,4083,3417,12/10/2020,Simran Khan,Lincolnshire,Lincoln,LN1 5NR,0-9660-10540-539
+Black Tea,Fever-Tree,Tea,855,11620,7197,4423,7/4/2021,Aisha White,Cambridgeshire,Cambridge,CB1 1CN,1-4433-33433-455
+Herbal Tea,Britvic,Tea,731,11317,10570,747,2/18/2023,Daisy Green,East Sussex,Eastbourne,BN21 8PS,1-9076-68446-919
+Coffee,Coca-Cola GB,Coffee,312,9574,5979,3595,12/12/2023,Priya Islam,Wiltshire,Salisbury,SP1 4AY,1-1917-46352-583
+Beer,Fever-Tree,Alcoholic,959,7112,6963,149,2/20/2020,Poppy Cooper,Nottinghamshire,Nottingham,NG1 9UK,0-4956-95397-198
+Beer,Britvic,Alcoholic,833,5780,6351,-571,10/4/2021,Ethan Smith,Denbighshire,Ruthin,LL15 5WP,0-6718-68482-660
+Cola,Britvic,Soft Drink,149,4091,3687,404,12/12/2023,Muhammad Smith,Mid Ulster,Cookstown,BT80 2JS,0-4959-65823-771
+Vodka,Britvic,Alcoholic,891,4148,2642,1506,7/3/2021,Ruby Wilson,Staffordshire,Stafford,ST16 3EM,1-740-93835-152
+Cola,Fever-Tree,Soft Drink,566,4345,4494,-149,12/20/2020,Charlotte Hussain,Derbyshire,Derby,DE1 2PG,1-1385-17329-944
+Herbal Tea,Coca-Cola GB,Tea,190,9211,9744,-533,5/11/2021,Samuel Johnson,Greater Manchester,Manchester,M1 7JE,1-1255-39662-987
+Vodka,Fever-Tree,Alcoholic,792,1363,1003,360,2/15/2022,Omar Lewis,East Riding of Yorkshire,Beverley,HU17 5JV,1-4800-37549-441
+Energy Drink,Britvic,Soft Drink,232,3483,3616,-133,5/7/2023,Mia Smith,Swansea,Swansea,SA1 9JK,1-6567-42754-168
+Black Tea,Fever-Tree,Tea,554,1931,1914,17,6/14/2020,Ruby Patel,Dumfries and Galloway,Dumfries,DG1 3FA,0-8236-76532-231
+Vodka,Fever-Tree,Alcoholic,175,5631,2679,2952,3/12/2022,Grace Roberts,Kent,Maidstone,ME14 5HA,1-2693-49783-850
+Green Tea,Fever-Tree,Tea,582,882,382,500,3/7/2021,Daniel Ali,Isle of Wight,Newport,PO30 5NP,0-5790-47328-170
+Cola,Britvic,Soft Drink,910,8327,7383,944,2/27/2023,Jessica Robinson,Belfast,Belfast,BT1 7TX,1-5998-69297-459
+Herbal Tea,Britvic,Tea,52,5626,2292,3334,11/25/2023,William Wilson,Conwy,Conwy,LL32 7SL,0-6376-21708-749
+Wine,Britvic,Alcoholic,818,11382,13356,-1974,7/25/2021,Ethan Khan,Dorset,Dorchester,DT1 7RV,1-552-25118-899
+Beer,Coca-Cola GB,Alcoholic,269,2474,2623,-149,3/13/2020,Lucas Begum,Caerphilly,Hengoed,CF82 8BA,1-5482-49105-363
+Green Tea,Coca-Cola GB,Tea,192,5170,3911,1259,6/23/2021,Joseph Phillips,Ards and North Down,Bangor,BT20 5EF,0-2576-97486-100
+Cola,Coca-Cola GB,Soft Drink,326,11401,5649,5752,10/10/2023,Noah Lewis,Monmouthshire,Monmouth,NP25 4UY,1-1229-70960-887
+Green Tea,Coca-Cola GB,Tea,635,11871,5221,6650,6/19/2023,Daniel Islam,Oxfordshire,Oxford,OX1 5DY,0-9393-25381-15
+Coffee,Fever-Tree,Coffee,303,9132,7403,1729,8/7/2022,Omar Wood,Dorset,Dorchester,DT1 3XM,0-4862-71370-448
+Vodka,Coca-Cola GB,Alcoholic,61,5260,2581,2679,1/28/2021,Harry Thompson,Argyll and Bute,Lochgilphead,PA31 5LN,1-7014-94793-928
+Energy Drink,Fever-Tree,Soft Drink,403,1072,877,195,10/28/2022,Harry Johnson,Fife,Glenrothes,KY7 5SC,0-9376-17968-814
+Lemonade,Britvic,Soft Drink,983,8732,4970,3762,1/17/2021,Olivia Cooper,Caerphilly,Hengoed,CF82 2RK,1-1956-73113-692
+Black Tea,Coca-Cola GB,Tea,574,11147,10104,1043,1/28/2023,Priya Green,Shropshire,Shrewsbury,SY1 7YM,1-8382-89354-441
+Herbal Tea,Fever-Tree,Tea,715,5257,2296,2961,6/19/2021,Fatima Green,Clackmannanshire,Alloa,FK10 1SR,0-5642-78039-536
+Vodka,Britvic,Alcoholic,166,7144,6927,217,7/5/2021,Benjamin Ahmed,Fermanagh and Omagh,Enniskillen,BT74 6AA,1-6138-24832-595
+Lemonade,Coca-Cola GB,Soft Drink,981,3047,1427,1620,9/12/2020,Lily Brown,Devon,Exeter,EX1 6AF,1-1751-11246-63
+Green Tea,Fever-Tree,Tea,280,6092,5879,213,5/11/2020,Benjamin Turner,Essex,Chelmsford,CM1 6MK,0-6983-61049-927
+Coffee,Coca-Cola GB,Coffee,918,11471,9697,1774,4/26/2023,Simran Lewis,Na h-Eileanan Siar,Stornoway,HS1 7NB,1-6344-78742-327
+Energy Drink,Coca-Cola GB,Soft Drink,319,10673,8415,2258,3/13/2021,Samuel Taylor,Cornwall,Truro,TR1 3JY,1-7554-47388-434
+Green Tea,Coca-Cola GB,Tea,341,5288,3917,1371,4/13/2023,Sophie White,East Riding of Yorkshire,Beverley,HU17 9KJ,1-6611-36698-424
+Vodka,Fever-Tree,Alcoholic,66,3161,1883,1278,1/9/2021,Zara Thompson,Moray,Elgin,IV30 4SL,0-4454-82348-285
+Coffee,Fever-Tree,Coffee,499,3395,1561,1834,12/21/2023,Ruby Wright,Staffordshire,Stafford,ST16 4XP,0-1070-63788-144
+Lemonade,Fever-Tree,Soft Drink,437,1554,1736,-182,2/3/2023,Liam Brown,Devon,Exeter,EX1 8DT,1-4352-74871-131
+Vodka,Britvic,Alcoholic,713,8150,6353,1797,11/22/2022,Florence Sharma,Monmouthshire,Monmouth,NP25 8SL,0-5229-34621-440
+Cola,Fever-Tree,Soft Drink,352,3168,3199,-31,12/17/2020,Edward Robinson,Shetland Islands,Lerwick,ZE1 9PX,0-9459-90495-998
+Lemonade,Fever-Tree,Soft Drink,717,5458,4566,892,8/29/2020,Simran Watson,West Lothian,Livingston,EH54 9XH,0-4282-54693-827
+Energy Drink,Britvic,Soft Drink,148,9496,3986,5510,11/11/2021,Benjamin Thompson,Dorset,Dorchester,DT1 5DS,1-734-71694-228
+Cola,Fever-Tree,Soft Drink,426,8104,8468,-364,1/7/2020,Lucas King,West Yorkshire,Leeds,LS1 3AC,1-4172-58290-463
+Lemonade,Coca-Cola GB,Soft Drink,353,1848,850,998,11/5/2021,Zara Begum,City of London,London,EC1 7FD,0-9659-70384-123
+Wine,Britvic,Alcoholic,74,3863,2289,1574,3/16/2022,Edward Edwards,Inverclyde,Greenock,PA15 8HV,1-8794-20249-905
+Wine,Britvic,Alcoholic,883,3289,3279,10,5/23/2022,Leila Jones,Durham,Durham,DH1 1XW,0-8623-36631-370
+Green Tea,Britvic,Tea,367,3604,2507,1097,8/27/2022,Charlie Jones,Flintshire,Mold,CH7 8JF,1-3924-50964-650
+Wine,Coca-Cola GB,Alcoholic,362,7156,7050,106,3/23/2020,James Sharma,Flintshire,Mold,CH7 2GJ,0-7406-56844-95
+Black Tea,Fever-Tree,Tea,830,2204,1745,459,10/27/2021,Lucas Thompson,East Dunbartonshire,Kirkintilloch,G66 7JA,1-5226-61662-627
+Energy Drink,Britvic,Soft Drink,837,10265,10117,148,5/15/2022,Isla Jackson,City of London,London,EC1 4JP,1-8597-66828-112
+Lemonade,Fever-Tree,Soft Drink,526,5024,4210,814,2/4/2022,Zara Evans,Bridgend,Bridgend,CF31 1WL,1-1852-43330-626
+Black Tea,Fever-Tree,Tea,264,10241,11332,-1091,2/13/2021,Fatima Walker,Surrey,Guildford,GU1 2GB,0-8677-76077-290
+Cola,Coca-Cola GB,Soft Drink,876,5083,5728,-645,2/13/2021,Jack Jones,Northumberland,Morpeth,NE61 7AA,0-1135-38910-982
+Coffee,Britvic,Coffee,596,8183,9234,-1051,10/14/2022,Emily Wood,Northamptonshire,Northampton,NN1 6EE,1-2340-92345-100
+Cola,Fever-Tree,Soft Drink,926,8845,4083,4762,11/20/2023,James Green,North Lanarkshire,Motherwell,ML1 4UN,0-8414-72355-549
+Lemonade,Coca-Cola GB,Soft Drink,622,567,454,113,3/27/2020,Liam Edwards,Rhondda Cynon Taf,Pontypridd,CF37 8AK,0-823-88539-51
+Lemonade,Fever-Tree,Soft Drink,344,11664,5422,6242,11/28/2020,Freya Patel,Warwickshire,Warwick,CV34 2UX,0-7237-63205-835
+Green Tea,Britvic,Tea,166,5593,6380,-787,7/15/2020,Ethan Patel,Derry City and Strabane,Derry,BT48 3XC,1-9822-66861-994
+Herbal Tea,Britvic,Tea,540,9254,4505,4749,3/12/2023,Joseph Wright,Lancashire,Preston,PR1 2DR,0-625-89084-501
+Energy Drink,Fever-Tree,Soft Drink,872,4235,1775,2460,1/14/2023,Ethan Smith,Neath Port Talbot,Port Talbot,SA13 6AR,1-1803-36895-543
+Energy Drink,Britvic,Soft Drink,829,11236,10587,649,11/21/2023,James Harris,Tyne and Wear,Newcastle upon Tyne,NE1 3PW,1-7999-18849-344
+Cola,Britvic,Soft Drink,353,3624,2030,1594,4/7/2022,Freddie Wood,Leicestershire,Leicester,LE1 7SG,1-6657-56674-488
+Herbal Tea,Fever-Tree,Tea,394,686,485,201,11/3/2020,Freya Hussain,North Ayrshire,Irvine,KA12 7MS,0-2221-51958-529
+Wine,Britvic,Alcoholic,141,5178,6110,-932,1/15/2022,Charlie Singh,Clackmannanshire,Alloa,FK10 5TJ,0-4771-52959-190
+Black Tea,Coca-Cola GB,Tea,951,4259,2108,2151,5/27/2021,Daisy Ahmed,Northamptonshire,Northampton,NN1 4AS,0-204-74166-837
+Energy Drink,Coca-Cola GB,Soft Drink,625,4129,2809,1320,11/27/2023,Alice Evans,Swansea,Swansea,SA1 7CL,0-1473-47128-613
+Coffee,Fever-Tree,Coffee,775,555,242,313,7/6/2023,Lucas Jones,Ceredigion,Aberystwyth,SY23 2XD,1-111-66072-208
+Lemonade,Britvic,Soft Drink,914,5487,2263,3224,3/24/2020,Ava Jackson,Cumbria,Carlisle,CA1 2BG,1-5871-96540-855
+Energy Drink,Britvic,Soft Drink,798,9888,4511,5377,5/4/2022,Sophie Ahmed,Mid and East Antrim,Ballymena,BT42 2SP,0-7284-73020-848
+Green Tea,Coca-Cola GB,Tea,389,4857,5475,-618,7/17/2020,Yusuf Williams,Carmarthenshire,Carmarthen,SA31 3WL,1-2892-12615-601
+Cola,Fever-Tree,Soft Drink,205,4083,1904,2179,7/26/2020,Priya Singh,Nottinghamshire,Nottingham,NG1 4NE,1-4454-23626-800
+Beer,Fever-Tree,Alcoholic,621,1935,1098,837,3/4/2021,Freya Taylor,Clackmannanshire,Alloa,FK10 2NY,0-8024-89269-957
+Energy Drink,Coca-Cola GB,Soft Drink,456,10178,7146,3032,8/22/2022,Joseph Carter,Wiltshire,Salisbury,SP1 9PK,0-7997-12596-781
+Black Tea,Fever-Tree,Tea,405,9441,7899,1542,10/20/2021,Ava Williams,Denbighshire,Ruthin,LL15 3HC,0-6901-32026-714
+Coffee,Britvic,Coffee,397,9837,5860,3977,3/31/2020,Samuel Mitchell,Na h-Eileanan Siar,Stornoway,HS1 4MT,0-2395-76046-297
+Green Tea,Coca-Cola GB,Tea,247,2470,2908,-438,1/29/2021,James Williams,Armagh City Banbridge and Craigavon,Armagh,BT61 7BS,0-2522-87994-265
+Black Tea,Coca-Cola GB,Tea,854,10265,6124,4141,8/27/2021,Charlotte Turner,Powys,Llandrindod Wells,LD1 9LB,1-2348-64949-205
+Herbal Tea,Fever-Tree,Tea,853,3110,1991,1119,7/1/2023,Benjamin Taylor,Cardiff,Cardiff,CF10 4EN,0-6396-77829-443
+Energy Drink,Britvic,Soft Drink,271,10259,6578,3681,5/11/2023,Charlotte Evans,Merseyside,Liverpool,L1 9UX,0-4227-22418-615
+Wine,Britvic,Alcoholic,291,5281,3946,1335,8/28/2023,Ella Wood,Suffolk,Ipswich,IP1 2RU,1-359-46007-748
+Cola,Coca-Cola GB,Soft Drink,90,682,547,135,11/4/2023,Priya Clarke,East Dunbartonshire,Kirkintilloch,G66 8HL,1-7657-13627-935
+Beer,Britvic,Alcoholic,836,3986,2314,1672,4/21/2021,Noah Evans,Fife,Glenrothes,KY7 7HL,0-184-82135-952
+Wine,Coca-Cola GB,Alcoholic,90,4286,4482,-196,5/22/2023,Mia Clarke,Surrey,Guildford,GU1 9VE,1-9508-16973-472
+Lemonade,Coca-Cola GB,Soft Drink,647,1004,936,68,3/7/2021,Isabella Phillips,Fermanagh and Omagh,Enniskillen,BT74 3SA,0-9728-25429-152
+Green Tea,Coca-Cola GB,Tea,825,6090,4384,1706,10/31/2021,Emily Carter,Surrey,Guildford,GU1 7MH,0-3732-89760-183
+Green Tea,Fever-Tree,Tea,114,3716,3386,330,10/3/2022,Florence Ahmed,Causeway Coast and Glens,Coleraine,BT52 3CE,1-2911-85041-560
+Herbal Tea,Fever-Tree,Tea,165,2363,2066,297,6/20/2020,Henry King,Lincolnshire,Lincoln,LN1 8MV,0-1065-74673-259
+Wine,Coca-Cola GB,Alcoholic,994,3093,3156,-63,4/30/2021,Ava Shah,Cardiff,Cardiff,CF10 6VP,1-2819-90760-143
+Green Tea,Fever-Tree,Tea,877,1185,928,257,11/20/2022,Omar Ahmed,Neath Port Talbot,Port Talbot,SA13 2JP,0-7062-80035-768
+Wine,Coca-Cola GB,Alcoholic,198,9631,6395,3236,11/21/2023,Charlie Phillips,Oxfordshire,Oxford,OX1 8TT,1-4938-68284-339
+Vodka,Fever-Tree,Alcoholic,916,3300,2844,456,11/26/2023,Daniel Cooper,Buckinghamshire,Aylesbury,HP20 4TE,1-1868-45903-899
+Lemonade,Fever-Tree,Soft Drink,124,9496,10140,-644,6/23/2021,Florence Ahmed,Causeway Coast and Glens,Coleraine,BT52 3JJ,0-8565-42975-386
+Wine,Britvic,Alcoholic,948,3655,4381,-726,8/27/2020,Yusuf Edwards,Aberdeenshire,Inverurie,AB51 9EB,0-5586-13340-50
+Energy Drink,Britvic,Soft Drink,790,2757,3188,-431,10/27/2021,Freya Thompson,Scottish Borders,Newtown St Boswells,TD6 3NL,0-6166-12977-761
+Cola,Britvic,Soft Drink,482,789,401,388,2/9/2021,Emily Carter,Somerset,Taunton,TA1 7KB,0-8148-23673-330
+Cola,Coca-Cola GB,Soft Drink,403,4174,2292,1882,8/29/2023,Mia Wright,Torfaen,Pontypool,NP4 4MF,1-4367-96410-53
+Lemonade,Fever-Tree,Soft Drink,674,11136,8518,2618,1/27/2022,Thomas Johnson,Lincolnshire,Lincoln,LN1 9YY,1-1171-25531-148
+Beer,Coca-Cola GB,Alcoholic,763,11663,6863,4800,8/28/2020,Poppy Evans,Bedfordshire,Bedford,MK40 6VY,0-7705-92111-676
+Lemonade,Coca-Cola GB,Soft Drink,492,6454,6159,295,4/6/2020,Edward Edwards,Wrexham,Wrexham,LL11 7YY,1-9146-17051-14
+Green Tea,Fever-Tree,Tea,689,4100,4507,-407,8/18/2021,Thomas Green,Durham,Durham,DH1 7TC,0-258-28139-680
+Green Tea,Coca-Cola GB,Tea,978,2449,1593,856,1/22/2020,Omar Smith,Flintshire,Mold,CH7 2AC,0-7406-56073-225
+Lemonade,Fever-Tree,Soft Drink,517,2717,1972,745,11/20/2020,Harry Thompson,Scottish Borders,Newtown St Boswells,TD6 7TC,1-3604-23643-318
+Green Tea,Britvic,Tea,700,9212,10782,-1570,3/6/2022,Sophie Johnson,Neath Port Talbot,Port Talbot,SA13 6TK,1-2459-15577-471
+Lemonade,Coca-Cola GB,Soft Drink,93,8371,3609,4762,8/6/2020,Noah Wright,Dundee City,Dundee,DD1 3SU,0-4698-54556-871
+Lemonade,Fever-Tree,Soft Drink,304,3698,1866,1832,4/4/2022,George Ahmed,Edinburgh,Edinburgh,EH1 9AR,0-7798-22467-850
+Vodka,Fever-Tree,Alcoholic,168,5624,4496,1128,9/2/2023,Omar Harris,Orkney Islands,Kirkwall,KW15 5TL,1-7650-32050-751
+Lemonade,Coca-Cola GB,Soft Drink,82,9598,7017,2581,10/14/2022,Isabella Cooper,Cambridgeshire,Cambridge,CB1 8VG,1-2967-24710-384
+Wine,Coca-Cola GB,Alcoholic,139,7514,3524,3990,5/23/2023,James Edwards,Isle of Anglesey,Llangefni,LL77 3WS,1-4926-71204-677
+Cola,Coca-Cola GB,Soft Drink,624,3908,4473,-565,4/12/2023,Alice Lewis,Flintshire,Mold,CH7 8WY,1-5666-21142-908
+Wine,Coca-Cola GB,Alcoholic,541,7741,9164,-1423,4/10/2023,Ella Jones,East Renfrewshire,Giffnock,G46 8FR,0-941-86483-492
