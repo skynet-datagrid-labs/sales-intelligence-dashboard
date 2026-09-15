@@ -1,0 +1,1071 @@
+Product,Company,Category,Units Sold,Revenue,Cost of Goods Sold,Profit,Purchase Date,Customer Name,Customer County,Customer City,Customer Zip Code,Order ID
+Green Tea,Orangina-Schweppes,Tea,797,11359,6308,5051,6/12/2022,Sarah Rousseau,Sarthe,Le Mans,72935,1-8449-74044-651
+Wine,Coca-Cola France,Alcoholic,374,11508,8987,2521,1/11/2022,Louise Fournier,Lot-et-Garonne,Agen,47111,1-8354-39038-969
+Coffee,Coca-Cola France,Coffee,852,9924,8554,1370,10/1/2021,Inès Simon,Jura,Lons-le-Saunier,39205,0-4795-46261-546
+Lemonade,Orangina-Schweppes,Soft Drink,322,7152,7155,-3,4/14/2021,Liam Simon,Mayenne,Laval,53248,0-8936-17087-929
+Beer,Coca-Cola France,Alcoholic,139,11588,8042,3546,7/24/2021,Elisa Dubois,Manche,Saint-Lô,50826,1-9290-91490-629
+Cola,Pernod Ricard Soft,Soft Drink,890,6175,6527,-352,2/13/2020,Charlotte Bernard,Essonne,Évry-Courcouronnes,91861,0-4026-43158-566
+Coffee,Pernod Ricard Soft,Coffee,512,3509,2429,1080,12/24/2020,Clémence Lambert,Deux-Sèvres,Niort,79068,0-2367-53899-245
+Wine,Coca-Cola France,Alcoholic,689,5950,6982,-1032,7/25/2021,Gabriel Bonnet,Calvados,Caen,14521,1-8885-53404-962
+Coffee,Pernod Ricard Soft,Coffee,505,4264,3767,497,12/30/2020,Mathis Bertrand,Ariège,Foix,09342,0-7067-29689-915
+Herbal Tea,Orangina-Schweppes,Tea,650,1059,1243,-184,8/27/2021,Liam Vincent,Loire,Saint-Étienne,42117,1-1333-28449-773
+Lemonade,Pernod Ricard Soft,Soft Drink,788,10262,7858,2404,5/28/2020,Lucas Roux,Aube,Troyes,10636,0-1300-80468-219
+Beer,Coca-Cola France,Alcoholic,592,8934,9883,-949,8/12/2022,Tom Vincent,Seine-Saint-Denis,Bobigny,93739,1-5346-36624-380
+Herbal Tea,Coca-Cola France,Tea,343,8095,4478,3617,3/6/2020,Elisa Bonnet,Aveyron,Rodez,12856,1-8126-78920-639
+Beer,Orangina-Schweppes,Alcoholic,950,6042,7081,-1039,7/9/2022,Hugo Bernard,Puy-de-Dôme,Clermont-Ferrand,63347,0-5633-15611-416
+Green Tea,Coca-Cola France,Tea,327,7183,4274,2909,1/18/2023,Lucie Bonnet,Orne,Alençon,61556,0-447-15836-106
+Coffee,Pernod Ricard Soft,Coffee,525,3469,1521,1948,6/16/2022,Ethan Richard,Aveyron,Rodez,12905,1-8178-59638-360
+Herbal Tea,Coca-Cola France,Tea,825,2868,3132,-264,7/3/2022,Eva David,Indre,Châteauroux,36353,1-9142-81228-387
+Herbal Tea,Coca-Cola France,Tea,313,4711,4413,298,7/12/2021,Pierre Richard,Landes,Mont-de-Marsan,40280,0-349-91650-574
+Wine,Coca-Cola France,Alcoholic,326,4579,4419,160,6/15/2022,Romain Muller,Vendée,La Roche-sur-Yon,85773,0-1834-90028-625
+Vodka,Orangina-Schweppes,Alcoholic,371,5467,5247,220,2/22/2023,Lucas Robert,Haute-Corse,Bastia,2B873,0-4862-59259-163
+Black Tea,Orangina-Schweppes,Tea,432,8942,9743,-801,9/14/2022,Baptiste Moreau,Nièvre,Nevers,58069,1-3710-98724-719
+Energy Drink,Pernod Ricard Soft,Soft Drink,876,1163,768,395,11/28/2023,Marie Morel,Charente,Angoulême,16130,0-6988-97153-963
+Energy Drink,Coca-Cola France,Soft Drink,607,1114,1316,-202,12/21/2020,Arthur Faure,Cantal,Aurillac,15325,0-7266-40273-102
+Green Tea,Orangina-Schweppes,Tea,128,3776,1728,2048,5/17/2021,Romain Gauthier,Ardèche,Privas,07660,1-1742-79045-141
+Black Tea,Pernod Ricard Soft,Tea,494,10623,6460,4163,7/1/2020,Raphaël Richard,Meurthe-et-Moselle,Nancy,54969,0-331-78922-446
+Cola,Orangina-Schweppes,Soft Drink,702,4768,5456,-688,4/29/2022,Théo Lefebvre,Pas-de-Calais,Arras,62514,1-3962-60615-84
+Vodka,Orangina-Schweppes,Alcoholic,708,7405,6450,955,2/2/2020,Léa Moreau,Lot,Cahors,46053,0-6997-78955-117
+Vodka,Coca-Cola France,Alcoholic,185,9905,5265,4640,9/28/2021,Maxime Bonnet,Haute-Garonne,Toulouse,31640,0-556-72910-443
+Wine,Coca-Cola France,Alcoholic,307,6939,4413,2526,11/28/2022,Gabriel Dubois,Charente,Angoulême,16597,0-7722-77143-637
+Beer,Pernod Ricard Soft,Alcoholic,658,6787,5244,1543,5/7/2020,Inès Muller,Côte-d'Or,Dijon,21430,1-9669-12560-878
+Cola,Orangina-Schweppes,Soft Drink,222,2176,982,1194,12/2/2021,Charlotte David,Marne,Châlons-en-Champagne,51217,1-1973-46487-466
+Energy Drink,Orangina-Schweppes,Soft Drink,400,6803,7998,-1195,1/13/2023,Julien David,Indre-et-Loire,Tours,37355,1-7372-94500-22
+Coffee,Pernod Ricard Soft,Coffee,759,9090,8444,646,5/22/2021,Camille Bonnet,Loire-Atlantique,Nantes,44319,0-1173-49965-118
+Coffee,Pernod Ricard Soft,Coffee,977,1480,1775,-295,10/8/2023,Lucie Fournier,Gers,Auch,32041,0-7808-78021-668
+Wine,Orangina-Schweppes,Alcoholic,397,10688,4437,6251,3/17/2021,Pierre Morel,Puy-de-Dôme,Clermont-Ferrand,63962,1-1921-47762-244
+Vodka,Pernod Ricard Soft,Alcoholic,843,6728,6938,-210,6/19/2023,Lucie Bernard,Indre,Châteauroux,36476,0-1191-60940-677
+Lemonade,Pernod Ricard Soft,Soft Drink,194,4678,4273,405,9/10/2021,Léonie Dubois,Savoie,Chambéry,73824,1-4973-69446-75
+Coffee,Coca-Cola France,Coffee,660,7063,5492,1571,11/15/2022,Pierre Lefevre,Haute-Savoie,Annecy,74407,0-3817-37508-486
+Lemonade,Orangina-Schweppes,Soft Drink,361,6712,6899,-187,8/22/2022,Alice Faure,Bouches-du-Rhône,Marseille,13676,1-1593-94130-558
+Wine,Pernod Ricard Soft,Alcoholic,309,7346,6244,1102,3/12/2020,Antoine Petit,Corrèze,Tulle,19518,1-6056-81359-176
+Green Tea,Coca-Cola France,Tea,373,1605,1283,322,10/10/2021,Baptiste Vincent,Nièvre,Nevers,58993,1-4405-78248-740
+Lemonade,Orangina-Schweppes,Soft Drink,100,6524,7175,-651,3/7/2020,Axel Moreau,Haute-Garonne,Toulouse,31356,0-7293-25386-795
+Green Tea,Orangina-Schweppes,Tea,450,10268,7607,2661,4/13/2023,Sarah Moreau,Aveyron,Rodez,12875,1-9351-57925-627
+Green Tea,Pernod Ricard Soft,Tea,410,10293,6653,3640,4/11/2022,Maxime Girard,Morbihan,Vannes,56111,1-5464-74788-661
+Green Tea,Orangina-Schweppes,Tea,420,5162,4449,713,7/4/2021,Ethan Lefebvre,Pas-de-Calais,Arras,62462,0-1625-62802-528
+Beer,Pernod Ricard Soft,Alcoholic,73,658,544,114,10/8/2021,Alice Laurent,Somme,Amiens,80256,0-6627-22972-708
+Lemonade,Orangina-Schweppes,Soft Drink,639,9660,7924,1736,6/30/2023,Gabriel Gauthier,Landes,Mont-de-Marsan,40132,1-8614-92818-510
+Herbal Tea,Coca-Cola France,Tea,174,11953,4927,7026,10/22/2020,Ethan Lefevre,Indre-et-Loire,Tours,37670,0-1325-71537-801
+Energy Drink,Orangina-Schweppes,Soft Drink,56,1443,1386,57,10/30/2021,Noah Roux,Landes,Mont-de-Marsan,40278,0-1323-36569-140
+Beer,Coca-Cola France,Alcoholic,434,9202,10268,-1066,6/10/2020,Sarah Durand,Sarthe,Le Mans,72650,1-2150-91922-311
+Lemonade,Coca-Cola France,Soft Drink,886,3971,1653,2318,8/19/2022,Océane Martin,Mayenne,Laval,53324,1-9444-61157-331
+Coffee,Pernod Ricard Soft,Coffee,103,9019,10491,-1472,5/21/2020,Romain Lefevre,Pyrénées-Orientales,Perpignan,66289,1-5462-21322-567
+Lemonade,Orangina-Schweppes,Soft Drink,917,8516,9595,-1079,7/25/2020,Mathis Richard,Oise,Beauvais,60258,1-6056-53815-312
+Cola,Coca-Cola France,Soft Drink,629,8852,8518,334,7/8/2021,Jade Moreau,Eure,Évreux,27236,0-3255-51359-123
+Coffee,Coca-Cola France,Coffee,612,3234,3376,-142,4/1/2022,Lucie Thomas,Alpes-de-Haute-Provence,Digne-les-Bains,04216,1-3583-95909-512
+Green Tea,Orangina-Schweppes,Tea,149,2505,1792,713,11/9/2021,Nathan Richard,Alpes-Maritimes,Nice,06682,0-7952-97194-273
+Lemonade,Pernod Ricard Soft,Soft Drink,613,7085,4025,3060,4/2/2023,Charlotte Bonnet,Charente,Angoulême,16329,1-7338-67954-692
+Beer,Coca-Cola France,Alcoholic,494,7868,4427,3441,10/18/2020,Raphaël Morel,Tarn,Albi,81172,0-8906-65542-985
+Wine,Orangina-Schweppes,Alcoholic,263,5740,3144,2596,10/14/2020,Léonie Simon,Vaucluse,Avignon,84958,0-211-44181-393
+Vodka,Coca-Cola France,Alcoholic,113,10738,6630,4108,9/12/2022,Antoine Michel,Tarn,Albi,81407,1-2848-71697-452
+Wine,Coca-Cola France,Alcoholic,786,3458,1965,1493,3/24/2022,Tom Petit,Gers,Auch,32065,1-9085-17055-27
+Beer,Orangina-Schweppes,Alcoholic,363,3149,3183,-34,12/1/2021,Léa Lambert,Seine-Maritime,Rouen,76311,0-2043-39144-132
+Coffee,Coca-Cola France,Coffee,323,8672,6408,2264,12/5/2023,Maxime Morel,Haute-Vienne,Limoges,87061,0-7834-14159-294
+Lemonade,Orangina-Schweppes,Soft Drink,59,3020,1863,1157,11/30/2023,Raphaël Petit,Landes,Mont-de-Marsan,40547,1-2454-11690-141
+Herbal Tea,Coca-Cola France,Tea,978,1189,1076,113,8/12/2023,Ethan Vincent,Corrèze,Tulle,19034,1-1412-74447-483
+Lemonade,Pernod Ricard Soft,Soft Drink,668,10411,9486,925,12/5/2023,Raphaël Faure,Maine-et-Loire,Angers,49831,0-8863-40983-879
+Herbal Tea,Orangina-Schweppes,Tea,570,3597,3263,334,6/23/2020,Zoé Lambert,Territoire de Belfort,Belfort,90393,0-6304-82134-390
+Black Tea,Orangina-Schweppes,Tea,309,7829,8989,-1160,9/26/2022,Manon Lambert,Hauts-de-Seine,Nanterre,92062,0-7014-85550-324
+Cola,Pernod Ricard Soft,Soft Drink,272,7041,8349,-1308,6/21/2020,Louise Bonnet,Moselle,Metz,57176,0-4159-67377-450
+Wine,Pernod Ricard Soft,Alcoholic,879,4017,4006,11,9/7/2022,Camille Lambert,Hauts-de-Seine,Nanterre,92618,0-6598-41369-566
+Coffee,Pernod Ricard Soft,Coffee,707,2019,1382,637,6/14/2023,Romain Simon,Pas-de-Calais,Arras,62305,1-1855-10675-359
+Herbal Tea,Coca-Cola France,Tea,744,2856,3289,-433,3/7/2020,Louise Michel,Meurthe-et-Moselle,Nancy,54403,0-7590-25776-716
+Black Tea,Orangina-Schweppes,Tea,250,7812,3327,4485,11/10/2020,Axel Michel,Haut-Rhin,Colmar,68380,1-1359-85225-141
+Coffee,Pernod Ricard Soft,Coffee,69,1707,700,1007,10/22/2022,Raphaël David,Dordogne,Périgueux,24414,1-6565-58908-394
+Coffee,Orangina-Schweppes,Coffee,263,1278,1102,176,8/29/2020,Zoé Martin,Territoire de Belfort,Belfort,90384,0-5275-63588-371
+Energy Drink,Pernod Ricard Soft,Soft Drink,543,3673,4322,-649,5/3/2023,Elisa Bertrand,Seine-Saint-Denis,Bobigny,93092,0-7176-47982-806
+Vodka,Coca-Cola France,Alcoholic,162,8054,6515,1539,12/13/2020,Antoine Laurent,Charente-Maritime,La Rochelle,17527,1-1630-40784-689
+Green Tea,Pernod Ricard Soft,Tea,564,9976,6842,3134,4/18/2020,Lucie Michel,Vosges,Épinal,88429,1-898-47992-299
+Lemonade,Orangina-Schweppes,Soft Drink,313,6516,3476,3040,9/16/2020,Lucie Fontaine,Pyrénées-Orientales,Perpignan,66907,0-580-53910-827
+Beer,Pernod Ricard Soft,Alcoholic,342,4899,5590,-691,2/14/2020,Nathan Dubois,Nièvre,Nevers,58944,1-5565-74216-403
+Energy Drink,Pernod Ricard Soft,Soft Drink,729,8048,5624,2424,8/5/2020,Noah Robert,Calvados,Caen,14029,0-7640-96447-492
+Vodka,Coca-Cola France,Alcoholic,551,1624,1730,-106,8/29/2020,Marie Laurent,Vienne,Poitiers,86494,1-4437-37926-3
+Vodka,Orangina-Schweppes,Alcoholic,153,8517,8867,-350,11/26/2023,Manon Girard,Vendée,La Roche-sur-Yon,85893,1-8643-52157-188
+Herbal Tea,Pernod Ricard Soft,Tea,476,3238,3595,-357,4/27/2022,Liam Muller,Lozère,Mende,48464,1-6915-22463-321
+Green Tea,Orangina-Schweppes,Tea,111,3024,1352,1672,10/28/2021,Léa Martin,Haute-Marne,Chaumont,52730,0-4982-61110-102
+Wine,Orangina-Schweppes,Alcoholic,618,1667,1486,181,11/4/2022,Louis Roux,Morbihan,Vannes,56594,0-7468-84928-668
+Coffee,Orangina-Schweppes,Coffee,145,5616,2749,2867,11/16/2023,Pierre Morel,Aveyron,Rodez,12036,1-9643-82420-152
+Vodka,Orangina-Schweppes,Alcoholic,51,8532,6461,2071,12/3/2023,Emma Petit,Val-d'Oise,Cergy,95219,1-5644-82165-629
+Green Tea,Coca-Cola France,Tea,725,5311,3390,1921,8/19/2023,Raphaël Martin,Tarn,Albi,81566,0-2119-15475-6
+Energy Drink,Orangina-Schweppes,Soft Drink,618,829,357,472,11/9/2021,Camille Bernard,Haute-Vienne,Limoges,87763,1-4500-58816-21
+Energy Drink,Orangina-Schweppes,Soft Drink,855,7381,5905,1476,4/2/2020,Nathan Robert,Seine-et-Marne,Melun,77730,1-7861-78069-468
+Energy Drink,Pernod Ricard Soft,Soft Drink,735,2395,2516,-121,1/31/2023,Nathan Roux,Gironde,Bordeaux,33090,1-4235-52372-119
+Cola,Orangina-Schweppes,Soft Drink,574,5843,3884,1959,8/24/2021,Inès Rousseau,Eure,Évreux,27633,1-9296-95105-10
+Vodka,Pernod Ricard Soft,Alcoholic,135,6413,6962,-549,8/18/2023,Manon Dupont,Savoie,Chambéry,73211,1-6809-77276-21
+Herbal Tea,Orangina-Schweppes,Tea,599,11611,10378,1233,10/11/2023,Jade Gauthier,Loiret,Orléans,45629,0-2294-51049-121
+Coffee,Coca-Cola France,Coffee,950,5870,4945,925,6/5/2022,Océane David,Val-de-Marne,Créteil,94946,0-9579-32760-749
+Beer,Orangina-Schweppes,Alcoholic,181,10096,10344,-248,6/9/2023,Camille Bertrand,Corrèze,Tulle,19583,0-1723-85777-782
+Energy Drink,Orangina-Schweppes,Soft Drink,165,1199,1184,15,5/21/2023,Sarah Martin,Gers,Auch,32093,0-9524-86955-974
+Energy Drink,Orangina-Schweppes,Soft Drink,385,9706,11418,-1712,5/24/2023,Liam Roux,Cher,Bourges,18555,0-3487-95520-142
+Beer,Pernod Ricard Soft,Alcoholic,602,11744,6360,5384,5/8/2023,Romain Bonnet,Yonne,Auxerre,89766,1-8676-93858-655
+Energy Drink,Orangina-Schweppes,Soft Drink,578,5148,2453,2695,4/21/2022,Manon Lefevre,Lozère,Mende,48613,0-7528-60321-476
+Cola,Orangina-Schweppes,Soft Drink,269,7011,5782,1229,8/30/2021,Mathis Rousseau,Vosges,Épinal,88276,0-1426-91324-902
+Lemonade,Pernod Ricard Soft,Soft Drink,253,2499,2900,-401,5/24/2021,Raphaël Roux,Bas-Rhin,Strasbourg,67633,1-8536-64149-677
+Beer,Coca-Cola France,Alcoholic,703,8679,4238,4441,5/2/2020,Raphaël Moreau,Meurthe-et-Moselle,Nancy,54642,1-2128-16256-775
+Cola,Coca-Cola France,Soft Drink,747,11140,11571,-431,10/25/2022,Marie Moreau,Morbihan,Vannes,56975,1-8629-39984-313
+Lemonade,Pernod Ricard Soft,Soft Drink,825,8820,7260,1560,5/24/2020,Jade Thomas,Yvelines,Versailles,78967,0-8611-22729-104
+Vodka,Pernod Ricard Soft,Alcoholic,952,852,440,412,11/2/2020,Léonie Vincent,Lozère,Mende,48009,0-7006-75483-138
+Beer,Orangina-Schweppes,Alcoholic,532,11638,5370,6268,7/23/2021,Sarah Robert,Cantal,Aurillac,15630,1-4609-43679-15
+Wine,Coca-Cola France,Alcoholic,725,2696,1484,1212,7/26/2022,Antoine Thomas,Vosges,Épinal,88400,0-4824-20085-112
+Black Tea,Pernod Ricard Soft,Tea,58,2425,1358,1067,2/1/2020,Maxime Gauthier,Marne,Châlons-en-Champagne,51092,1-9260-86406-357
+Lemonade,Coca-Cola France,Soft Drink,637,9846,11765,-1919,12/28/2021,Nathan Rousseau,Pas-de-Calais,Arras,62898,1-2576-77552-619
+Black Tea,Coca-Cola France,Tea,476,1942,1670,272,9/27/2021,Océane Durand,Corrèze,Tulle,19514,1-4612-36437-8
+Energy Drink,Orangina-Schweppes,Soft Drink,284,2966,2256,710,6/4/2022,Ethan Michel,Haute-Loire,Le Puy-en-Velay,43823,1-5294-45785-392
+Vodka,Pernod Ricard Soft,Alcoholic,828,6323,3075,3248,1/26/2020,Charlotte Lambert,Paris,Paris,75069,0-9491-26512-653
+Wine,Pernod Ricard Soft,Alcoholic,214,6672,4247,2425,7/26/2020,Louise Rousseau,Nord,Lille,59552,0-5617-91006-135
+Herbal Tea,Orangina-Schweppes,Tea,339,6546,6258,288,12/6/2022,Gabriel Girard,Savoie,Chambéry,73551,0-1722-96850-840
+Vodka,Pernod Ricard Soft,Alcoholic,104,8724,5526,3198,8/2/2023,Pierre Faure,Haut-Rhin,Colmar,68284,0-4530-16752-658
+Black Tea,Coca-Cola France,Tea,221,11466,12583,-1117,11/13/2021,Romain Faure,Alpes-Maritimes,Nice,06047,0-8629-96374-764
+Wine,Pernod Ricard Soft,Alcoholic,169,5069,3202,1867,11/5/2023,Jade Girard,Pyrénées-Atlantiques,Pau,64088,1-7270-59992-405
+Lemonade,Orangina-Schweppes,Soft Drink,930,7693,6734,959,1/12/2020,Liam Bernard,Nièvre,Nevers,58671,1-5423-84600-133
+Vodka,Orangina-Schweppes,Alcoholic,279,11515,13019,-1504,6/27/2022,Louise Martin,Hautes-Alpes,Gap,05818,1-8292-30195-195
+Vodka,Coca-Cola France,Alcoholic,910,8807,4071,4736,9/29/2023,Océane Girard,Seine-Maritime,Rouen,76148,1-5285-11859-155
+Coffee,Pernod Ricard Soft,Coffee,981,3652,1787,1865,1/13/2022,Jade Dubois,Alpes-Maritimes,Nice,06059,0-9395-20322-88
+Coffee,Orangina-Schweppes,Coffee,196,3572,4237,-665,5/5/2023,Hugo Bertrand,Hauts-de-Seine,Nanterre,92138,1-207-49365-228
+Vodka,Orangina-Schweppes,Alcoholic,156,6993,5296,1697,6/30/2021,Liam Laurent,Vaucluse,Avignon,84596,0-4385-95679-369
+Black Tea,Orangina-Schweppes,Tea,221,4703,4091,612,5/9/2022,Baptiste Leroy,Aisne,Laon,02153,0-9383-87061-597
+Herbal Tea,Pernod Ricard Soft,Tea,894,9723,9488,235,7/18/2023,Gabriel Moreau,Charente,Angoulême,16207,1-2184-14206-709
+Wine,Orangina-Schweppes,Alcoholic,898,4278,4200,78,2/8/2020,Louise Bonnet,Seine-Saint-Denis,Bobigny,93031,1-9767-37886-929
+Cola,Coca-Cola France,Soft Drink,933,1598,810,788,11/10/2021,Léonie Roux,Ille-et-Vilaine,Rennes,35456,1-5104-73828-565
+Vodka,Coca-Cola France,Alcoholic,643,11417,10617,800,8/30/2022,Julien Durand,Rhône,Lyon,69568,1-6002-64687-158
+Wine,Pernod Ricard Soft,Alcoholic,896,4789,5536,-747,9/30/2023,Théo Rousseau,Val-d'Oise,Cergy,95006,1-2352-92667-237
+Herbal Tea,Coca-Cola France,Tea,518,8409,5828,2581,4/22/2023,Léa Roux,Pyrénées-Atlantiques,Pau,64689,0-3063-56507-389
+Wine,Orangina-Schweppes,Alcoholic,189,8011,8233,-222,10/16/2022,Chloé Girard,Indre,Châteauroux,36204,1-8671-36433-367
+Black Tea,Orangina-Schweppes,Tea,846,781,523,258,7/4/2023,Théo Bernard,Haute-Vienne,Limoges,87364,0-8887-24076-129
+Vodka,Orangina-Schweppes,Alcoholic,132,9148,10615,-1467,7/30/2023,Baptiste Lambert,Seine-Maritime,Rouen,76980,0-1515-89257-134
+Herbal Tea,Pernod Ricard Soft,Tea,60,6279,5162,1117,8/1/2023,Noah Girard,Vendée,La Roche-sur-Yon,85397,1-9717-24972-357
+Energy Drink,Pernod Ricard Soft,Soft Drink,85,8492,5705,2787,11/5/2022,Lucie Muller,Indre,Châteauroux,36002,1-4991-86931-594
+Beer,Coca-Cola France,Alcoholic,871,8958,7950,1008,6/6/2022,Pierre Muller,Meurthe-et-Moselle,Nancy,54976,1-424-59993-438
+Herbal Tea,Coca-Cola France,Tea,299,1487,1421,66,8/15/2022,Charlotte Lambert,Dordogne,Périgueux,24339,1-5009-64879-337
+Herbal Tea,Pernod Ricard Soft,Tea,372,3827,4335,-508,1/6/2021,Océane Leroy,Gironde,Bordeaux,33650,1-1594-71605-357
+Black Tea,Orangina-Schweppes,Tea,972,4275,4029,246,6/16/2022,Nathan Robert,Haut-Rhin,Colmar,68068,0-6101-57467-393
+Black Tea,Coca-Cola France,Tea,558,3285,2447,838,6/10/2022,Elisa Vincent,Drôme,Valence,26350,0-2935-96849-686
+Coffee,Pernod Ricard Soft,Coffee,429,8413,7053,1360,11/22/2021,Mathis Dupont,Corrèze,Tulle,19484,1-6512-61257-74
+Lemonade,Coca-Cola France,Soft Drink,291,7677,3396,4281,8/18/2020,Pierre Dupont,Drôme,Valence,26864,1-8251-33111-164
+Beer,Orangina-Schweppes,Alcoholic,893,6434,5929,505,8/14/2022,Alice Leroy,Territoire de Belfort,Belfort,90524,1-3263-42780-178
+Herbal Tea,Orangina-Schweppes,Tea,959,8438,5507,2931,8/30/2021,Manon David,Haut-Rhin,Colmar,68696,1-2515-88835-291
+Black Tea,Coca-Cola France,Tea,425,6274,6981,-707,4/14/2023,Inès Fournier,Hérault,Montpellier,34994,0-8718-84814-185
+Cola,Pernod Ricard Soft,Soft Drink,868,2997,1791,1206,7/13/2023,Lucie Lefevre,Cher,Bourges,18129,1-3528-20670-804
+Herbal Tea,Coca-Cola France,Tea,798,11093,8111,2982,12/21/2021,Gabriel Muller,Puy-de-Dôme,Clermont-Ferrand,63555,1-8671-54017-117
+Energy Drink,Coca-Cola France,Soft Drink,932,7382,4015,3367,10/4/2020,Ethan Michel,Haute-Vienne,Limoges,87912,1-7448-59479-385
+Cola,Coca-Cola France,Soft Drink,846,6389,4180,2209,5/29/2022,Camille Gauthier,Lozère,Mende,48047,0-8873-48559-809
+Cola,Pernod Ricard Soft,Soft Drink,996,3051,1633,1418,1/24/2023,Alice Richard,Val-de-Marne,Créteil,94938,0-8684-14433-860
+Black Tea,Orangina-Schweppes,Tea,774,6939,5974,965,5/12/2021,Léonie Vincent,Haute-Corse,Bastia,2B416,0-1645-22704-675
+Energy Drink,Coca-Cola France,Soft Drink,490,1374,558,816,3/15/2022,Sarah Laurent,Morbihan,Vannes,56092,0-4972-37575-881
+Lemonade,Coca-Cola France,Soft Drink,816,5219,5125,94,4/5/2022,Raphaël Bernard,Seine-Maritime,Rouen,76410,0-9443-83638-200
+Herbal Tea,Coca-Cola France,Tea,861,11753,11587,166,12/8/2022,Jade Rousseau,Haute-Loire,Le Puy-en-Velay,43335,0-1709-77652-693
+Black Tea,Orangina-Schweppes,Tea,622,10628,8505,2123,12/15/2020,Clémence Durand,Ille-et-Vilaine,Rennes,35675,0-1170-87091-132
+Lemonade,Orangina-Schweppes,Soft Drink,897,3322,2163,1159,7/20/2022,Axel Girard,Mayenne,Laval,53827,1-5692-34535-217
+Wine,Coca-Cola France,Alcoholic,680,8652,8186,466,9/17/2023,Eva Robert,Vosges,Épinal,88669,1-2043-33392-551
+Lemonade,Coca-Cola France,Soft Drink,395,5677,6779,-1102,8/27/2021,Hugo Muller,Loir-et-Cher,Blois,41674,1-4597-11061-580
+Beer,Orangina-Schweppes,Alcoholic,604,1219,745,474,9/30/2020,Ethan Faure,Territoire de Belfort,Belfort,90626,1-5418-17505-641
+Green Tea,Coca-Cola France,Tea,955,7594,6532,1062,6/22/2020,Marie Morel,Aube,Troyes,10951,1-275-65572-694
+Vodka,Orangina-Schweppes,Alcoholic,765,7516,3227,4289,10/17/2020,Jade Lefevre,Alpes-Maritimes,Nice,06852,0-2298-88924-566
+Lemonade,Pernod Ricard Soft,Soft Drink,532,10276,9134,1142,11/17/2023,Charlotte Fournier,Corrèze,Tulle,19806,0-7560-85886-369
+Black Tea,Orangina-Schweppes,Tea,160,6871,6035,836,10/9/2023,Noah Dubois,Territoire de Belfort,Belfort,90309,0-8640-38972-424
+Cola,Coca-Cola France,Soft Drink,936,3842,4019,-177,5/27/2022,Emma Martin,Sarthe,Le Mans,72320,0-3729-93995-447
+Coffee,Pernod Ricard Soft,Coffee,520,7293,7116,177,4/29/2023,Camille David,Dordogne,Périgueux,24398,0-8956-94332-316
+Energy Drink,Coca-Cola France,Soft Drink,110,2328,1481,847,3/21/2020,Clémence David,Territoire de Belfort,Belfort,90932,0-7975-53332-241
+Energy Drink,Pernod Ricard Soft,Soft Drink,109,11951,14221,-2270,11/13/2022,Lucie Robert,Seine-et-Marne,Melun,77786,1-1870-26015-257
+Wine,Coca-Cola France,Alcoholic,522,8620,8835,-215,8/27/2023,Nathan Rousseau,Creuse,Guéret,23031,0-3366-12671-637
+Wine,Coca-Cola France,Alcoholic,444,1083,447,636,12/6/2022,Louise Dupont,Cantal,Aurillac,15429,0-1677-33255-488
+Vodka,Pernod Ricard Soft,Alcoholic,91,8360,5494,2866,9/1/2022,Louise Robert,Moselle,Metz,57980,0-7481-23566-831
+Green Tea,Pernod Ricard Soft,Tea,564,4807,2767,2040,11/17/2023,Julien Moreau,Loir-et-Cher,Blois,41280,1-3364-22054-357
+Wine,Orangina-Schweppes,Alcoholic,445,7766,6019,1747,7/17/2023,Jade Vincent,Morbihan,Vannes,56281,0-5866-76497-76
+Green Tea,Orangina-Schweppes,Tea,422,6512,2741,3771,6/7/2023,Pauline Moreau,Cantal,Aurillac,15620,0-9870-40432-237
+Vodka,Pernod Ricard Soft,Alcoholic,957,8060,7227,833,10/20/2023,Julien Bonnet,Loir-et-Cher,Blois,41099,0-5161-67779-35
+Herbal Tea,Coca-Cola France,Tea,647,7066,3311,3755,8/18/2022,Julien Lefevre,Tarn-et-Garonne,Montauban,82331,1-3576-60265-726
+Vodka,Orangina-Schweppes,Alcoholic,695,6466,5169,1297,9/2/2023,Liam Moreau,Val-de-Marne,Créteil,94781,1-8137-70401-173
+Energy Drink,Orangina-Schweppes,Soft Drink,494,895,733,162,3/21/2022,Jade Fontaine,Meurthe-et-Moselle,Nancy,54347,0-5556-32037-79
+Wine,Pernod Ricard Soft,Alcoholic,687,11400,7369,4031,4/2/2022,Pauline Muller,Haute-Saône,Vesoul,70225,1-5955-22121-335
+Herbal Tea,Orangina-Schweppes,Tea,812,1636,1277,359,11/16/2020,Louise Bernard,Savoie,Chambéry,73400,1-8205-87469-995
+Vodka,Pernod Ricard Soft,Alcoholic,590,3742,3493,249,12/25/2021,Clémence Faure,Bouches-du-Rhône,Marseille,13895,1-2632-41029-886
+Wine,Pernod Ricard Soft,Alcoholic,431,2327,2139,188,4/3/2023,Inès Rousseau,Rhône,Lyon,69762,0-5350-56230-920
+Wine,Coca-Cola France,Alcoholic,296,10286,6318,3968,8/20/2023,Ethan Faure,Haute-Saône,Vesoul,70484,0-8206-91618-962
+Vodka,Pernod Ricard Soft,Alcoholic,556,7601,8130,-529,3/1/2023,Théo Robert,Gironde,Bordeaux,33770,0-1504-97574-353
+Herbal Tea,Orangina-Schweppes,Tea,135,4006,4516,-510,9/10/2021,Ethan Petit,Loire-Atlantique,Nantes,44143,0-709-49893-505
+Energy Drink,Orangina-Schweppes,Soft Drink,615,2795,2296,499,11/21/2023,Manon Lambert,Essonne,Évry-Courcouronnes,91089,0-6026-10375-209
+Green Tea,Pernod Ricard Soft,Tea,71,3655,3349,306,6/16/2020,Lucie Lefevre,Aveyron,Rodez,12846,0-8924-35746-270
+Lemonade,Coca-Cola France,Soft Drink,603,6477,5209,1268,5/29/2021,Théo Thomas,Aude,Carcassonne,11649,1-4633-15778-4
+Vodka,Coca-Cola France,Alcoholic,235,1894,1232,662,8/30/2023,Marie Lambert,Haute-Loire,Le Puy-en-Velay,43273,1-4544-68313-800
+Lemonade,Coca-Cola France,Soft Drink,179,3655,1917,1738,1/22/2020,Lucas Bertrand,Haute-Marne,Chaumont,52834,0-5734-47586-481
+Green Tea,Orangina-Schweppes,Tea,328,1598,796,802,2/17/2021,Axel Leroy,Loire,Saint-Étienne,42787,0-4119-72084-350
+Black Tea,Pernod Ricard Soft,Tea,582,10602,9294,1308,2/9/2023,Marie Bernard,Puy-de-Dôme,Clermont-Ferrand,63499,1-8064-77286-606
+Wine,Orangina-Schweppes,Alcoholic,332,758,756,2,5/22/2023,Sarah Lefevre,Creuse,Guéret,23689,0-7207-80041-19
+Energy Drink,Pernod Ricard Soft,Soft Drink,291,10753,9427,1326,8/16/2022,Zoé Moreau,Hautes-Alpes,Gap,05994,0-1976-99353-907
+Green Tea,Orangina-Schweppes,Tea,784,1217,716,501,10/26/2020,Sarah Durand,Meuse,Bar-le-Duc,55177,0-1334-33218-975
+Vodka,Pernod Ricard Soft,Alcoholic,248,4133,1908,2225,8/10/2023,Lucie Durand,Côte-d'Or,Dijon,21153,0-2678-57477-617
+Energy Drink,Coca-Cola France,Soft Drink,600,7739,8445,-706,5/6/2022,Camille Lefevre,Haute-Savoie,Annecy,74923,0-5464-85718-739
+Coffee,Orangina-Schweppes,Coffee,698,3091,1524,1567,11/8/2020,Axel David,Meurthe-et-Moselle,Nancy,54482,0-7464-86706-249
+Cola,Coca-Cola France,Soft Drink,679,4743,4898,-155,5/22/2021,Lucie Bonnet,Meurthe-et-Moselle,Nancy,54086,0-9166-88774-615
+Energy Drink,Coca-Cola France,Soft Drink,549,5047,4848,199,2/1/2022,Romain Fontaine,Pyrénées-Orientales,Perpignan,66086,0-8380-27499-653
+Lemonade,Pernod Ricard Soft,Soft Drink,536,7038,4927,2111,5/26/2023,Léonie Thomas,Nièvre,Nevers,58341,0-7788-35652-159
+Cola,Pernod Ricard Soft,Soft Drink,605,7373,5533,1840,11/25/2022,Axel Petit,Corse-du-Sud,Ajaccio,2A253,0-1149-54313-22
+Herbal Tea,Pernod Ricard Soft,Tea,597,6717,4072,2645,8/27/2022,Sarah Rousseau,Côtes-d'Armor,Saint-Brieuc,22897,1-2401-26248-996
+Green Tea,Pernod Ricard Soft,Tea,347,6034,3565,2469,8/27/2022,Baptiste Fournier,Creuse,Guéret,23970,0-7719-43586-786
+Coffee,Orangina-Schweppes,Coffee,413,11471,6565,4906,6/4/2021,Léonie Muller,Corrèze,Tulle,19644,0-7470-53864-267
+Herbal Tea,Orangina-Schweppes,Tea,211,10593,11519,-926,12/7/2020,Raphaël Richard,Haute-Corse,Bastia,2B261,0-9502-98358-741
+Green Tea,Orangina-Schweppes,Tea,252,4010,3989,21,8/30/2022,Axel Moreau,Corrèze,Tulle,19769,0-4643-78327-497
+Herbal Tea,Coca-Cola France,Tea,898,11812,12851,-1039,6/26/2020,Tom Robert,Haute-Vienne,Limoges,87770,0-9759-60335-360
+Herbal Tea,Orangina-Schweppes,Tea,932,11393,13059,-1666,1/21/2021,Camille Fournier,Indre,Châteauroux,36392,0-6830-15720-326
+Lemonade,Orangina-Schweppes,Soft Drink,393,1269,1326,-57,7/29/2022,Eva Petit,Aisne,Laon,02996,1-1391-82357-301
+Coffee,Pernod Ricard Soft,Coffee,373,7614,4990,2624,3/2/2023,Pierre Simon,Bas-Rhin,Strasbourg,67514,0-2609-16621-690
+Herbal Tea,Orangina-Schweppes,Tea,704,6091,6290,-199,10/5/2020,Lucas Lefebvre,Creuse,Guéret,23204,1-5240-85472-85
+Vodka,Coca-Cola France,Alcoholic,524,11973,14326,-2353,9/27/2020,Jade Richard,Meurthe-et-Moselle,Nancy,54895,1-1629-95798-370
+Cola,Orangina-Schweppes,Soft Drink,915,11803,11428,375,12/22/2021,Clémence David,Tarn,Albi,81596,1-8847-47477-899
+Energy Drink,Pernod Ricard Soft,Soft Drink,470,4254,2296,1958,8/4/2022,Elisa Rousseau,Hérault,Montpellier,34936,0-3364-34380-853
+Wine,Coca-Cola France,Alcoholic,616,4465,4208,257,10/29/2020,Louis Leroy,Savoie,Chambéry,73695,0-1022-22589-365
+Wine,Orangina-Schweppes,Alcoholic,62,7480,4648,2832,12/1/2021,Hugo Fournier,Lozère,Mende,48240,1-8049-98185-779
+Beer,Pernod Ricard Soft,Alcoholic,669,7480,4016,3464,6/28/2021,Raphaël Lambert,Indre,Châteauroux,36772,1-6008-92502-681
+Vodka,Coca-Cola France,Alcoholic,422,1569,1161,408,1/20/2023,Manon Bonnet,Haute-Garonne,Toulouse,31152,1-2430-19359-62
+Green Tea,Pernod Ricard Soft,Tea,329,1560,1613,-53,5/3/2023,Elisa Gauthier,Haute-Garonne,Toulouse,31295,1-2137-71433-706
+Cola,Orangina-Schweppes,Soft Drink,158,11696,7401,4295,1/17/2020,Zoé Fournier,Seine-et-Marne,Melun,77673,0-1039-41114-520
+Lemonade,Coca-Cola France,Soft Drink,540,3983,3583,400,8/10/2021,Gabriel Faure,Vendée,La Roche-sur-Yon,85106,1-8279-96734-378
+Vodka,Coca-Cola France,Alcoholic,391,7926,7764,162,7/29/2022,Louis Lambert,Cantal,Aurillac,15885,0-167-50760-955
+Black Tea,Orangina-Schweppes,Tea,169,516,280,236,10/20/2022,Pauline Thomas,Hautes-Alpes,Gap,05642,1-5799-64891-5
+Green Tea,Orangina-Schweppes,Tea,908,8450,8471,-21,12/20/2022,Ethan Vincent,Haute-Garonne,Toulouse,31233,0-7125-64186-941
+Vodka,Pernod Ricard Soft,Alcoholic,875,1056,1078,-22,1/31/2021,Marie Roux,Seine-et-Marne,Melun,77181,0-3163-32779-753
+Wine,Orangina-Schweppes,Alcoholic,668,1796,1194,602,10/28/2022,Tom Bertrand,Vienne,Poitiers,86826,0-488-86962-816
+Coffee,Pernod Ricard Soft,Coffee,102,5749,4863,886,9/5/2020,Romain Robert,Cher,Bourges,18820,1-8802-83259-610
+Beer,Coca-Cola France,Alcoholic,596,2081,1476,605,2/24/2023,Baptiste Moreau,Rhône,Lyon,69793,1-7411-38124-627
+Green Tea,Pernod Ricard Soft,Tea,800,8215,5724,2491,2/20/2022,Raphaël Richard,Maine-et-Loire,Angers,49456,0-4413-67637-477
+Herbal Tea,Orangina-Schweppes,Tea,756,1909,919,990,10/13/2020,Baptiste Martin,Aude,Carcassonne,11063,0-2241-35969-844
+Black Tea,Orangina-Schweppes,Tea,690,5636,5309,327,6/24/2023,Pierre Petit,Pyrénées-Orientales,Perpignan,66972,1-2932-31910-996
+Energy Drink,Pernod Ricard Soft,Soft Drink,102,1378,941,437,4/21/2022,Romain Lefevre,Ardèche,Privas,07746,0-1712-17944-413
+Green Tea,Pernod Ricard Soft,Tea,686,9995,6992,3003,8/30/2021,Chloé Robert,Haute-Corse,Bastia,2B384,0-721-41203-946
+Black Tea,Pernod Ricard Soft,Tea,244,2387,1411,976,4/13/2020,Zoé Dubois,Tarn,Albi,81653,0-960-23133-424
+Cola,Pernod Ricard Soft,Soft Drink,237,5359,5575,-216,8/11/2020,Camille Durand,Ardèche,Privas,07194,1-2396-65296-188
+Cola,Coca-Cola France,Soft Drink,766,5280,5213,67,12/8/2021,Arthur Robert,Haute-Savoie,Annecy,74778,1-8537-83616-109
+Wine,Orangina-Schweppes,Alcoholic,421,764,713,51,9/21/2020,Léa Durand,Val-d'Oise,Cergy,95160,1-1753-64523-966
+Herbal Tea,Pernod Ricard Soft,Tea,465,10069,11946,-1877,7/27/2020,Eva Vincent,Seine-Maritime,Rouen,76944,0-4227-22418-615
+Green Tea,Orangina-Schweppes,Tea,927,7055,2852,4203,7/4/2022,Noah Petit,Seine-Maritime,Rouen,76040,0-9522-37030-669
+Lemonade,Orangina-Schweppes,Soft Drink,630,10162,8426,1736,7/20/2022,Raphaël Dupont,Haute-Loire,Le Puy-en-Velay,43766,1-9677-59941-843
+Coffee,Pernod Ricard Soft,Coffee,245,4474,2438,2036,10/20/2020,Elisa Dupont,Marne,Châlons-en-Champagne,51410,0-2424-92991-996
+Cola,Pernod Ricard Soft,Soft Drink,277,8429,8067,362,8/26/2023,Louis Gauthier,Vosges,Épinal,88434,0-4070-72616-36
+Lemonade,Pernod Ricard Soft,Soft Drink,922,1026,1131,-105,3/7/2021,Pauline Bertrand,Saône-et-Loire,Mâcon,71980,1-5713-93252-268
+Wine,Coca-Cola France,Alcoholic,273,5852,3124,2728,1/6/2023,Eva Martin,Ariège,Foix,09641,0-3553-97862-645
+Cola,Coca-Cola France,Soft Drink,282,10748,4892,5856,8/19/2023,Liam Martin,Doubs,Besançon,25869,1-8131-23833-444
+Wine,Orangina-Schweppes,Alcoholic,916,892,677,215,3/18/2023,Lucas Roux,Var,Toulon,83347,0-9628-84133-732
+Coffee,Pernod Ricard Soft,Coffee,339,10707,9412,1295,9/24/2021,Louise Lambert,Charente-Maritime,La Rochelle,17126,1-9503-72689-647
+Energy Drink,Orangina-Schweppes,Soft Drink,427,831,916,-85,5/13/2020,Baptiste Robert,Deux-Sèvres,Niort,79903,0-3207-35124-546
+Herbal Tea,Coca-Cola France,Tea,798,1955,1347,608,3/30/2020,Manon Bernard,Nord,Lille,59284,1-8823-68833-324
+Herbal Tea,Orangina-Schweppes,Tea,155,7811,6085,1726,12/1/2020,Chloé Dubois,Maine-et-Loire,Angers,49033,1-345-45370-974
+Cola,Coca-Cola France,Soft Drink,61,7614,5707,1907,3/30/2022,Axel Faure,Pyrénées-Orientales,Perpignan,66979,1-5654-34486-509
+Black Tea,Pernod Ricard Soft,Tea,333,3067,2573,494,2/22/2021,Camille Bertrand,Côtes-d'Armor,Saint-Brieuc,22080,1-7752-50824-169
+Green Tea,Coca-Cola France,Tea,799,2641,2927,-286,9/3/2023,Tom Muller,Loire-Atlantique,Nantes,44501,1-4683-14288-707
+Green Tea,Coca-Cola France,Tea,70,9696,4559,5137,2/21/2022,Zoé Dupont,Manche,Saint-Lô,50627,0-6937-41504-587
+Green Tea,Pernod Ricard Soft,Tea,575,7309,4842,2467,12/1/2022,Axel Petit,Vienne,Poitiers,86696,0-9654-74071-94
+Green Tea,Orangina-Schweppes,Tea,291,3240,1474,1766,11/13/2020,Axel Laurent,Haute-Saône,Vesoul,70839,1-8973-58118-465
+Lemonade,Pernod Ricard Soft,Soft Drink,713,11611,6088,5523,11/20/2021,Tom Thomas,Aisne,Laon,02389,0-5981-55082-619
+Vodka,Orangina-Schweppes,Alcoholic,722,5943,3317,2626,12/22/2020,Manon Faure,Alpes-de-Haute-Provence,Digne-les-Bains,04268,0-5667-82680-252
+Black Tea,Orangina-Schweppes,Tea,508,11686,12641,-955,1/29/2023,Romain Bonnet,Vendée,La Roche-sur-Yon,85562,0-4862-98039-69
+Herbal Tea,Pernod Ricard Soft,Tea,282,6690,6057,633,10/3/2020,Maxime Lambert,Hautes-Pyrénées,Tarbes,65794,1-705-48462-207
+Cola,Orangina-Schweppes,Soft Drink,342,874,951,-77,10/28/2021,Léonie Roux,Hautes-Alpes,Gap,05998,1-9087-68306-139
+Lemonade,Coca-Cola France,Soft Drink,64,5776,4448,1328,6/3/2020,Axel Vincent,Ardèche,Privas,07882,0-928-95477-554
+Herbal Tea,Orangina-Schweppes,Tea,93,7208,3236,3972,5/24/2022,Théo Laurent,Meurthe-et-Moselle,Nancy,54112,1-6056-46773-966
+Coffee,Coca-Cola France,Coffee,168,4423,2221,2202,5/6/2022,Clémence Lambert,Cher,Bourges,18258,1-6096-68783-645
+Cola,Orangina-Schweppes,Soft Drink,671,7510,4259,3251,1/6/2023,Inès Durand,Allier,Moulins,03559,1-9091-73311-638
+Vodka,Pernod Ricard Soft,Alcoholic,343,9458,5860,3598,6/7/2020,Marie Dubois,Corrèze,Tulle,19278,1-5338-80798-83
+Lemonade,Coca-Cola France,Soft Drink,139,6190,2983,3207,4/30/2022,Pierre Martin,Rhône,Lyon,69934,0-493-39710-438
+Coffee,Orangina-Schweppes,Coffee,412,8097,3712,4385,11/23/2023,Romain Lefebvre,Nord,Lille,59351,1-3285-61992-39
+Cola,Coca-Cola France,Soft Drink,329,7102,7198,-96,8/21/2020,Liam Simon,Haute-Saône,Vesoul,70405,0-2977-35430-339
+Green Tea,Coca-Cola France,Tea,749,5092,4614,478,9/21/2021,Tom Roux,Aisne,Laon,02625,0-9783-18383-838
+Coffee,Coca-Cola France,Coffee,440,5830,6955,-1125,10/29/2022,Nathan Leroy,Alpes-Maritimes,Nice,06543,1-7952-22844-464
+Lemonade,Orangina-Schweppes,Soft Drink,391,10882,4896,5986,1/29/2023,Théo Martin,Cantal,Aurillac,15720,1-1897-46989-887
+Coffee,Orangina-Schweppes,Coffee,836,7405,3344,4061,10/3/2022,Maxime Durand,Morbihan,Vannes,56053,0-3445-26457-94
+Cola,Orangina-Schweppes,Soft Drink,539,1966,2141,-175,6/18/2021,Jade Durand,Ille-et-Vilaine,Rennes,35153,0-1030-88647-414
+Green Tea,Coca-Cola France,Tea,71,2037,2392,-355,2/19/2023,Nathan Fournier,Lot-et-Garonne,Agen,47183,1-2883-76027-505
+Herbal Tea,Pernod Ricard Soft,Tea,731,3058,2151,907,8/3/2023,Clémence Dubois,Allier,Moulins,03701,1-1016-40021-842
+Green Tea,Orangina-Schweppes,Tea,573,9280,7576,1704,10/31/2022,Emma Leroy,Eure-et-Loir,Chartres,28556,1-1606-55796-227
+Green Tea,Pernod Ricard Soft,Tea,284,992,796,196,1/23/2020,Arthur Muller,Seine-et-Marne,Melun,77433,1-9179-43823-942
+Coffee,Pernod Ricard Soft,Coffee,670,3956,2470,1486,8/15/2020,Romain Roux,Sarthe,Le Mans,72428,0-5729-38816-908
+Coffee,Coca-Cola France,Coffee,784,2278,1031,1247,9/29/2023,Lucas Rousseau,Gers,Auch,32098,0-9959-36922-602
+Black Tea,Pernod Ricard Soft,Tea,389,3930,3219,711,6/7/2022,Julien Simon,Pyrénées-Orientales,Perpignan,66923,1-5985-34697-169
+Vodka,Orangina-Schweppes,Alcoholic,86,5048,2430,2618,9/9/2021,Charlotte Vincent,Dordogne,Périgueux,24123,0-5788-79827-439
+Lemonade,Pernod Ricard Soft,Soft Drink,465,10962,6369,4593,2/2/2021,Romain Gauthier,Loire-Atlantique,Nantes,44413,0-4377-32942-417
+Green Tea,Pernod Ricard Soft,Tea,785,8664,8012,652,1/12/2020,Tom Rousseau,Cher,Bourges,18435,0-2981-77889-476
+Beer,Pernod Ricard Soft,Alcoholic,224,6318,7437,-1119,12/4/2020,Axel Rousseau,Haut-Rhin,Colmar,68521,1-9315-61150-411
+Coffee,Coca-Cola France,Coffee,281,8623,3821,4802,1/15/2022,Marie Durand,Vendée,La Roche-sur-Yon,85445,1-5577-90847-825
+Herbal Tea,Orangina-Schweppes,Tea,338,1097,774,323,6/2/2022,Inès Girard,Val-d'Oise,Cergy,95220,1-3202-64831-185
+Black Tea,Orangina-Schweppes,Tea,758,2500,2066,434,10/26/2022,Emma Fournier,Sarthe,Le Mans,72964,0-2904-96341-640
+Herbal Tea,Orangina-Schweppes,Tea,92,2384,1682,702,10/8/2021,Zoé Dupont,Indre,Châteauroux,36978,0-1695-79637-653
+Lemonade,Pernod Ricard Soft,Soft Drink,201,11323,11143,180,7/2/2022,Marie Bonnet,Jura,Lons-le-Saunier,39185,0-2255-36588-4
+Beer,Orangina-Schweppes,Alcoholic,923,11530,7227,4303,9/10/2023,Sarah Laurent,Eure-et-Loir,Chartres,28858,1-4057-10544-922
+Green Tea,Coca-Cola France,Tea,912,1080,512,568,10/9/2022,Raphaël Gauthier,Gironde,Bordeaux,33858,0-6502-23195-503
+Black Tea,Orangina-Schweppes,Tea,789,2375,2791,-416,7/29/2023,Hugo Faure,Marne,Châlons-en-Champagne,51736,1-1504-38389-460
+Beer,Orangina-Schweppes,Alcoholic,505,7621,3675,3946,8/7/2020,Noah Morel,Cantal,Aurillac,15665,0-5049-79828-473
+Herbal Tea,Pernod Ricard Soft,Tea,310,9395,5771,3624,7/30/2023,Eva Vincent,Vaucluse,Avignon,84629,1-9375-92150-62
+Vodka,Pernod Ricard Soft,Alcoholic,962,2868,1225,1643,5/8/2021,Arthur David,Marne,Châlons-en-Champagne,51309,0-6250-97914-675
+Beer,Coca-Cola France,Alcoholic,523,6729,4974,1755,2/15/2022,Manon Dubois,Vosges,Épinal,88471,1-2641-46129-194
+Lemonade,Coca-Cola France,Soft Drink,363,5055,6006,-951,4/21/2021,Tom Lefebvre,Allier,Moulins,03284,1-6077-31319-380
+Beer,Coca-Cola France,Alcoholic,358,4176,3026,1150,12/7/2021,Alice Vincent,Eure-et-Loir,Chartres,28493,0-8322-28214-451
+Vodka,Orangina-Schweppes,Alcoholic,454,5466,4435,1031,4/14/2022,Baptiste Rousseau,Meurthe-et-Moselle,Nancy,54321,0-7733-24459-533
+Beer,Pernod Ricard Soft,Alcoholic,266,10908,10299,609,7/21/2021,Théo Thomas,Hérault,Montpellier,34381,1-7512-73730-514
+Black Tea,Coca-Cola France,Tea,807,7165,4103,3062,4/22/2021,Liam Rousseau,Lot,Cahors,46151,0-4642-28964-134
+Black Tea,Orangina-Schweppes,Tea,748,4992,3834,1158,11/13/2023,Raphaël Thomas,Meurthe-et-Moselle,Nancy,54447,0-4086-67104-604
+Green Tea,Orangina-Schweppes,Tea,691,6988,4546,2442,1/22/2020,Lucas Muller,Vosges,Épinal,88069,0-6837-22805-538
+Black Tea,Pernod Ricard Soft,Tea,838,4667,2012,2655,12/24/2022,Louise Rousseau,Yvelines,Versailles,78120,0-8001-96427-134
+Vodka,Orangina-Schweppes,Alcoholic,985,5685,5459,226,4/17/2020,Léa Lefevre,Seine-Saint-Denis,Bobigny,93499,1-5000-96409-935
+Green Tea,Pernod Ricard Soft,Tea,292,10414,12298,-1884,12/28/2020,Ethan Martin,Bouches-du-Rhône,Marseille,13183,1-6845-97806-885
+Herbal Tea,Pernod Ricard Soft,Tea,498,7583,3362,4221,6/11/2022,Pierre Durand,Haute-Savoie,Annecy,74950,1-3017-60768-383
+Coffee,Coca-Cola France,Coffee,394,4830,5442,-612,1/9/2022,Arthur Robert,Hautes-Pyrénées,Tarbes,65733,1-6156-60608-382
+Cola,Pernod Ricard Soft,Soft Drink,777,10910,7625,3285,10/29/2023,Ethan Bertrand,Deux-Sèvres,Niort,79460,1-799-91345-660
+Wine,Pernod Ricard Soft,Alcoholic,623,4981,5344,-363,8/16/2021,Chloé Richard,Haute-Loire,Le Puy-en-Velay,43567,0-6394-96603-196
+Wine,Coca-Cola France,Alcoholic,608,10284,8867,1417,7/24/2021,Pierre Thomas,Ardèche,Privas,07330,0-3079-60465-362
+Green Tea,Coca-Cola France,Tea,723,2432,1001,1431,9/1/2023,Noah Martin,Loir-et-Cher,Blois,41398,0-7616-38848-68
+Wine,Coca-Cola France,Alcoholic,859,3453,1389,2064,12/1/2023,Arthur Fontaine,Loire,Saint-Étienne,42855,0-520-88893-126
+Wine,Coca-Cola France,Alcoholic,111,8702,9779,-1077,8/12/2023,Manon Roux,Hauts-de-Seine,Nanterre,92303,1-7706-16564-103
+Beer,Orangina-Schweppes,Alcoholic,155,11305,12412,-1107,5/16/2022,Inès Gauthier,Corse-du-Sud,Ajaccio,2A552,0-5207-62296-688
+Beer,Orangina-Schweppes,Alcoholic,717,7083,3839,3244,11/12/2023,Charlotte David,Aveyron,Rodez,12027,0-3360-19108-934
+Green Tea,Pernod Ricard Soft,Tea,981,10133,9246,887,11/21/2021,Ethan Bonnet,Charente-Maritime,La Rochelle,17627,1-1268-20369-166
+Beer,Orangina-Schweppes,Alcoholic,490,8116,7235,881,10/26/2023,Clémence Faure,Vosges,Épinal,88464,0-7097-94012-690
+Herbal Tea,Pernod Ricard Soft,Tea,429,1882,2227,-345,2/14/2021,Pauline Lefebvre,Ardèche,Privas,07182,1-1876-28857-554
+Vodka,Pernod Ricard Soft,Alcoholic,167,10788,5100,5688,4/14/2020,Louis Leroy,Yvelines,Versailles,78537,1-3891-39068-345
+Beer,Orangina-Schweppes,Alcoholic,70,1488,905,583,1/10/2023,Léonie Bonnet,Hautes-Alpes,Gap,05793,0-6093-61445-229
+Black Tea,Orangina-Schweppes,Tea,406,10449,12297,-1848,4/13/2020,Liam Dubois,Loiret,Orléans,45128,0-1224-82641-213
+Energy Drink,Coca-Cola France,Soft Drink,575,3792,2089,1703,5/22/2020,Léonie Dupont,Indre-et-Loire,Tours,37376,0-309-98363-504
+Green Tea,Orangina-Schweppes,Tea,580,6477,4004,2473,11/17/2022,Pierre Muller,Orne,Alençon,61447,0-3737-69130-906
+Lemonade,Pernod Ricard Soft,Soft Drink,392,7968,6998,970,10/24/2023,Louis Michel,Orne,Alençon,61862,0-9687-76889-289
+Green Tea,Orangina-Schweppes,Tea,659,4763,3167,1596,6/8/2020,Camille Michel,Puy-de-Dôme,Clermont-Ferrand,63327,0-1553-97821-655
+Energy Drink,Pernod Ricard Soft,Soft Drink,645,10744,7896,2848,10/15/2022,Eva Morel,Haute-Garonne,Toulouse,31504,0-6401-20959-595
+Black Tea,Orangina-Schweppes,Tea,53,3041,1990,1051,11/29/2023,Gabriel Gauthier,Gard,Nîmes,30605,0-5861-84403-578
+Black Tea,Orangina-Schweppes,Tea,757,11738,5792,5946,9/23/2021,Noah Lambert,Creuse,Guéret,23032,1-6880-21376-509
+Lemonade,Orangina-Schweppes,Soft Drink,864,6666,3290,3376,2/3/2022,Pierre Bertrand,Gard,Nîmes,30397,1-9871-28070-589
+Beer,Orangina-Schweppes,Alcoholic,481,10758,9007,1751,3/5/2020,Mathis Faure,Haute-Loire,Le Puy-en-Velay,43936,0-6385-68997-323
+Vodka,Coca-Cola France,Alcoholic,190,9211,10201,-990,10/27/2023,Pierre Rousseau,Essonne,Évry-Courcouronnes,91735,0-8318-77672-747
+Black Tea,Coca-Cola France,Tea,576,1433,1329,104,10/26/2020,Léonie Michel,Sarthe,Le Mans,72041,0-8089-40375-65
+Energy Drink,Coca-Cola France,Soft Drink,712,5679,5045,634,8/28/2023,Lucie Simon,Loiret,Orléans,45276,1-1710-43468-671
+Herbal Tea,Orangina-Schweppes,Tea,252,10451,9841,610,6/27/2020,Louise Lefebvre,Haut-Rhin,Colmar,68199,1-5306-89058-620
+Cola,Coca-Cola France,Soft Drink,208,8193,7739,454,2/22/2020,Alice Laurent,Vaucluse,Avignon,84265,1-6728-60891-755
+Herbal Tea,Orangina-Schweppes,Tea,60,10259,10583,-324,2/19/2022,Gabriel Fournier,Finistère,Quimper,29823,0-7071-27548-261
+Lemonade,Orangina-Schweppes,Soft Drink,423,1269,621,648,10/30/2020,Alice Robert,Côte-d'Or,Dijon,21895,0-8630-92218-24
+Wine,Pernod Ricard Soft,Alcoholic,92,4413,2094,2319,7/16/2020,Raphaël Vincent,Maine-et-Loire,Angers,49133,0-9708-83608-576
+Cola,Pernod Ricard Soft,Soft Drink,719,9067,8784,283,3/17/2020,Louis Faure,Calvados,Caen,14655,1-8861-91675-50
+Vodka,Orangina-Schweppes,Alcoholic,249,7369,7200,169,4/28/2023,Océane Simon,Ardennes,Charleville-Mézières,08429,0-5436-40154-798
+Coffee,Orangina-Schweppes,Coffee,806,840,888,-48,11/30/2022,Camille Thomas,Haute-Loire,Le Puy-en-Velay,43794,1-1667-91965-458
+Energy Drink,Pernod Ricard Soft,Soft Drink,882,11771,13373,-1602,1/1/2021,Nathan Morel,Lot,Cahors,46822,1-3778-52179-255
+Green Tea,Coca-Cola France,Tea,546,9427,10322,-895,8/12/2021,Lucas Simon,Deux-Sèvres,Niort,79710,0-5099-68990-483
+Green Tea,Pernod Ricard Soft,Tea,643,4053,2049,2004,6/18/2020,Léonie Fournier,Manche,Saint-Lô,50763,0-9080-62322-269
+Green Tea,Orangina-Schweppes,Tea,150,7878,7377,501,2/29/2020,Antoine Robert,Doubs,Besançon,25866,1-9598-55591-361
+Cola,Pernod Ricard Soft,Soft Drink,972,11161,9450,1711,9/30/2020,Baptiste Bernard,Allier,Moulins,03933,1-6012-28264-302
+Energy Drink,Pernod Ricard Soft,Soft Drink,881,9580,4337,5243,8/4/2023,Antoine Michel,Haute-Saône,Vesoul,70931,1-4576-29179-890
+Herbal Tea,Coca-Cola France,Tea,880,9708,10619,-911,12/15/2020,Manon Muller,Seine-et-Marne,Melun,77420,0-9646-33839-639
+Green Tea,Orangina-Schweppes,Tea,847,8517,7537,980,11/21/2022,Julien Simon,Seine-et-Marne,Melun,77953,1-2762-61505-632
+Beer,Coca-Cola France,Alcoholic,266,625,439,186,1/14/2021,Hugo Girard,Ain,Bourg-en-Bresse,01877,1-4012-52034-739
+Lemonade,Coca-Cola France,Soft Drink,806,3110,1411,1699,12/23/2022,Léonie Leroy,Haute-Loire,Le Puy-en-Velay,43214,1-1356-95398-844
+Black Tea,Pernod Ricard Soft,Tea,597,1622,1280,342,9/28/2023,Jade Bernard,Haute-Marne,Chaumont,52225,1-9919-17180-8
+Herbal Tea,Pernod Ricard Soft,Tea,768,6311,6299,12,5/25/2023,Raphaël Leroy,Vendée,La Roche-sur-Yon,85718,1-8906-97044-846
+Lemonade,Coca-Cola France,Soft Drink,295,3711,3251,460,11/8/2020,Clémence Fontaine,Ariège,Foix,09179,1-6333-70771-314
+Lemonade,Coca-Cola France,Soft Drink,230,801,768,33,7/11/2021,Louise Morel,Gers,Auch,32505,1-1417-88385-41
+Coffee,Coca-Cola France,Coffee,336,2224,998,1226,1/15/2020,Océane Vincent,Aude,Carcassonne,11042,0-3558-78463-811
+Herbal Tea,Coca-Cola France,Tea,108,3179,1426,1753,7/26/2021,Louis Robert,Haute-Saône,Vesoul,70429,0-8714-42656-646
+Energy Drink,Orangina-Schweppes,Soft Drink,725,8948,8260,688,2/24/2023,Mathis Vincent,Essonne,Évry-Courcouronnes,91238,0-4344-25163-298
+Cola,Pernod Ricard Soft,Soft Drink,219,1691,1776,-85,10/4/2023,Zoé Thomas,Nord,Lille,59661,1-8431-57425-19
+Energy Drink,Coca-Cola France,Soft Drink,445,9054,4967,4087,7/25/2023,Eva Lambert,Maine-et-Loire,Angers,49941,0-9191-31871-502
+Beer,Orangina-Schweppes,Alcoholic,67,7686,6380,1306,11/8/2020,Lucie Thomas,Tarn,Albi,81317,0-8477-36633-998
+Coffee,Coca-Cola France,Coffee,229,2490,2381,109,9/3/2020,Mathis Lambert,Aisne,Laon,02135,1-1260-40008-393
+Coffee,Orangina-Schweppes,Coffee,940,10288,4211,6077,11/17/2020,Louise Lefevre,Yvelines,Versailles,78480,1-2809-19812-770
+Wine,Pernod Ricard Soft,Alcoholic,99,8829,9240,-411,7/23/2020,Inès Simon,Savoie,Chambéry,73508,1-2830-90586-307
+Cola,Orangina-Schweppes,Soft Drink,809,1171,862,309,1/26/2023,Noah Roux,Ardèche,Privas,07711,0-953-94066-657
+Cola,Pernod Ricard Soft,Soft Drink,232,8069,6365,1704,9/25/2023,Zoé Muller,Tarn-et-Garonne,Montauban,82561,1-7603-49856-581
+Black Tea,Coca-Cola France,Tea,712,5076,5428,-352,8/22/2020,Océane Girard,Ardennes,Charleville-Mézières,08474,1-9194-22799-842
+Vodka,Pernod Ricard Soft,Alcoholic,986,11829,12600,-771,2/18/2023,Pauline Lambert,Pyrénées-Atlantiques,Pau,64851,0-6937-70357-939
+Vodka,Coca-Cola France,Alcoholic,508,4945,3669,1276,3/26/2020,Charlotte Fontaine,Nièvre,Nevers,58844,1-5226-61662-627
+Beer,Pernod Ricard Soft,Alcoholic,573,6876,5634,1242,10/1/2020,Louise Roux,Var,Toulon,83279,0-1945-53343-167
+Herbal Tea,Pernod Ricard Soft,Tea,485,5058,3191,1867,5/18/2022,Ethan Robert,Mayenne,Laval,53855,0-2453-37234-311
+Lemonade,Orangina-Schweppes,Soft Drink,416,6735,7930,-1195,12/31/2020,Louise Gauthier,Alpes-Maritimes,Nice,06108,1-8417-89818-204
+Vodka,Coca-Cola France,Alcoholic,713,2643,1694,949,3/8/2021,Julien Rousseau,Mayenne,Laval,53261,1-5475-25726-8
+Vodka,Pernod Ricard Soft,Alcoholic,247,1558,1017,541,2/17/2023,Gabriel Vincent,Pas-de-Calais,Arras,62913,1-3261-12798-706
+Green Tea,Orangina-Schweppes,Tea,996,6297,3120,3177,12/20/2023,Julien Lambert,Vaucluse,Avignon,84011,0-8233-55443-536
+Energy Drink,Pernod Ricard Soft,Soft Drink,682,1806,1221,585,10/4/2021,Mathis Girard,Cantal,Aurillac,15523,0-6411-85574-195
+Coffee,Orangina-Schweppes,Coffee,800,10384,7138,3246,11/10/2023,Léonie Robert,Haute-Vienne,Limoges,87514,1-6226-34114-873
+Energy Drink,Orangina-Schweppes,Soft Drink,665,8290,9708,-1418,11/1/2022,Alice Leroy,Dordogne,Périgueux,24701,1-6909-68176-501
+Wine,Pernod Ricard Soft,Alcoholic,825,2251,2327,-76,9/15/2020,Pierre Michel,Bouches-du-Rhône,Marseille,13512,0-3974-16820-695
+Lemonade,Coca-Cola France,Soft Drink,378,11852,13180,-1328,2/25/2023,Inès Bonnet,Deux-Sèvres,Niort,79687,1-5684-57624-846
+Beer,Orangina-Schweppes,Alcoholic,714,4646,5446,-800,11/10/2021,Tom Lefevre,Indre-et-Loire,Tours,37865,1-1733-78937-933
+Lemonade,Pernod Ricard Soft,Soft Drink,50,3372,3687,-315,9/16/2020,Julien Dubois,Haute-Corse,Bastia,2B149,1-4155-98635-403
+Energy Drink,Pernod Ricard Soft,Soft Drink,895,6161,7376,-1215,11/12/2023,Alice Fontaine,Tarn,Albi,81996,1-2768-28919-518
+Energy Drink,Pernod Ricard Soft,Soft Drink,759,7619,3874,3745,12/9/2022,Elisa Martin,Pyrénées-Atlantiques,Pau,64177,0-3388-17553-256
+Herbal Tea,Pernod Ricard Soft,Tea,695,11850,11345,505,7/24/2023,Zoé Bonnet,Eure,Évreux,27678,0-6499-50412-455
+Green Tea,Orangina-Schweppes,Tea,874,10733,12684,-1951,11/7/2021,Elisa Bonnet,Charente,Angoulême,16818,1-6347-36765-972
+Lemonade,Coca-Cola France,Soft Drink,749,2969,1669,1300,6/26/2022,Manon Gauthier,Val-d'Oise,Cergy,95648,1-9740-81645-757
+Herbal Tea,Orangina-Schweppes,Tea,675,7628,8886,-1258,6/20/2023,Emma Lambert,Indre,Châteauroux,36548,1-3086-32984-860
+Vodka,Orangina-Schweppes,Alcoholic,687,3831,2648,1183,10/29/2020,Camille Robert,Pyrénées-Orientales,Perpignan,66764,1-7233-63773-327
+Cola,Orangina-Schweppes,Soft Drink,678,10639,11611,-972,2/9/2020,Marie Lefevre,Hérault,Montpellier,34904,1-3887-59899-521
+Cola,Coca-Cola France,Soft Drink,180,10252,7777,2475,6/12/2022,Hugo Richard,Tarn-et-Garonne,Montauban,82294,0-7788-55068-449
+Beer,Coca-Cola France,Alcoholic,992,6069,2582,3487,5/10/2020,Liam Leroy,Côtes-d'Armor,Saint-Brieuc,22116,0-2077-83660-230
+Green Tea,Coca-Cola France,Tea,145,11541,11878,-337,1/19/2022,Zoé Bertrand,Loire,Saint-Étienne,42935,1-2795-43681-936
+Wine,Pernod Ricard Soft,Alcoholic,710,1130,1146,-16,10/23/2021,Raphaël Faure,Hautes-Alpes,Gap,05388,0-7101-82151-67
+Wine,Coca-Cola France,Alcoholic,590,8203,9103,-900,9/24/2020,Charlotte Petit,Maine-et-Loire,Angers,49042,0-3260-68427-948
+Coffee,Orangina-Schweppes,Coffee,182,9972,7926,2046,12/1/2021,Ethan Laurent,Cher,Bourges,18804,1-6184-70776-714
+Beer,Pernod Ricard Soft,Alcoholic,998,9396,5658,3738,12/8/2023,Pierre Durand,Calvados,Caen,14711,0-5033-65164-678
+Energy Drink,Pernod Ricard Soft,Soft Drink,233,637,606,31,4/20/2022,Louise Rousseau,Deux-Sèvres,Niort,79626,1-1120-28098-532
+Herbal Tea,Orangina-Schweppes,Tea,193,5986,4616,1370,2/28/2023,Océane Roux,Meuse,Bar-le-Duc,55697,1-5279-29786-451
+Beer,Coca-Cola France,Alcoholic,821,5152,5220,-68,10/29/2021,Ethan Roux,Aveyron,Rodez,12168,1-3497-76330-46
+Vodka,Pernod Ricard Soft,Alcoholic,313,8037,7792,245,12/1/2022,Elisa Vincent,Seine-et-Marne,Melun,77877,0-2194-75264-816
+Lemonade,Coca-Cola France,Soft Drink,910,2700,2280,420,11/24/2022,Chloé Thomas,Drôme,Valence,26247,1-8104-82768-777
+Wine,Pernod Ricard Soft,Alcoholic,180,8470,3977,4493,2/13/2023,Arthur Morel,Landes,Mont-de-Marsan,40333,1-8614-70051-940
+Green Tea,Orangina-Schweppes,Tea,991,9653,9228,425,9/30/2023,Hugo Lefebvre,Seine-Saint-Denis,Bobigny,93596,0-4285-32324-62
+Vodka,Coca-Cola France,Alcoholic,310,10252,7849,2403,1/25/2021,Liam Petit,Manche,Saint-Lô,50775,1-861-93000-858
+Coffee,Pernod Ricard Soft,Coffee,659,4500,4793,-293,11/27/2022,Pierre Laurent,Saône-et-Loire,Mâcon,71168,0-5386-39552-355
+Vodka,Coca-Cola France,Alcoholic,544,5112,4219,893,1/23/2021,Chloé Bertrand,Hauts-de-Seine,Nanterre,92672,0-9439-91962-971
+Beer,Coca-Cola France,Alcoholic,539,6392,2868,3524,10/4/2021,Théo Bernard,Ariège,Foix,09598,1-8338-79615-162
+Green Tea,Coca-Cola France,Tea,897,7850,4964,2886,8/12/2021,Antoine Michel,Somme,Amiens,80946,1-4301-72793-220
+Beer,Pernod Ricard Soft,Alcoholic,496,6447,3783,2664,10/31/2023,Louis David,Oise,Beauvais,60268,0-8790-66981-13
+Black Tea,Coca-Cola France,Tea,836,2031,1547,484,11/22/2021,Louis David,Jura,Lons-le-Saunier,39854,0-2369-76160-652
+Vodka,Orangina-Schweppes,Alcoholic,534,1093,455,638,6/20/2021,Tom Martin,Côtes-d'Armor,Saint-Brieuc,22851,0-6308-95835-807
+Herbal Tea,Pernod Ricard Soft,Tea,499,10636,12739,-2103,10/28/2023,Noah Dupont,Rhône,Lyon,69355,0-9111-81063-298
+Vodka,Pernod Ricard Soft,Alcoholic,858,7794,6228,1566,2/12/2021,Camille Fontaine,Val-d'Oise,Cergy,95247,1-3487-40042-208
+Energy Drink,Coca-Cola France,Soft Drink,369,11259,6169,5090,1/28/2022,Romain Lambert,Charente,Angoulême,16648,0-1258-60446-915
+Coffee,Orangina-Schweppes,Coffee,671,8304,5579,2725,1/4/2021,Ethan Martin,Pas-de-Calais,Arras,62880,1-6358-43708-94
+Beer,Orangina-Schweppes,Alcoholic,576,8730,8820,-90,1/9/2021,Liam Bonnet,Gironde,Bordeaux,33091,0-5920-39272-763
+Coffee,Pernod Ricard Soft,Coffee,570,8506,9996,-1490,4/29/2021,Emma Leroy,Ardennes,Charleville-Mézières,08497,1-3602-62565-925
+Green Tea,Pernod Ricard Soft,Tea,232,11076,7832,3244,8/13/2023,Mathis Laurent,Paris,Paris,75585,0-1729-52628-66
+Lemonade,Pernod Ricard Soft,Soft Drink,169,5252,2937,2315,2/26/2022,Léonie Petit,Landes,Mont-de-Marsan,40242,1-9470-57049-589
+Black Tea,Coca-Cola France,Tea,602,9715,6945,2770,9/16/2021,Louise Muller,Val-de-Marne,Créteil,94914,0-7686-90969-869
+Black Tea,Pernod Ricard Soft,Tea,69,11862,5648,6214,9/17/2023,Camille David,Vosges,Épinal,88354,1-2535-83183-914
+Herbal Tea,Pernod Ricard Soft,Tea,930,2884,2461,423,3/11/2021,Léa Durand,Bouches-du-Rhône,Marseille,13060,0-3243-43993-924
+Vodka,Orangina-Schweppes,Alcoholic,778,11722,10143,1579,3/20/2022,Pierre Roux,Hérault,Montpellier,34237,1-6139-29442-924
+Green Tea,Orangina-Schweppes,Tea,682,11117,12560,-1443,3/4/2023,Pierre Richard,Alpes-Maritimes,Nice,06889,0-3030-16725-430
+Coffee,Coca-Cola France,Coffee,263,7929,4952,2977,12/12/2023,Charlotte Durand,Lot,Cahors,46007,0-6589-24541-891
+Cola,Coca-Cola France,Soft Drink,904,8580,4995,3585,4/30/2021,Ethan Lefevre,Bouches-du-Rhône,Marseille,13204,1-3715-19637-483
+Coffee,Orangina-Schweppes,Coffee,399,9464,7418,2046,9/16/2021,Emma Lambert,Aube,Troyes,10470,0-7552-70786-791
+Wine,Pernod Ricard Soft,Alcoholic,787,10145,5660,4485,4/4/2023,Alice Simon,Gers,Auch,32365,0-3942-23113-292
+Energy Drink,Coca-Cola France,Soft Drink,365,3245,1730,1515,6/28/2022,Gabriel Roux,Bas-Rhin,Strasbourg,67043,1-7226-45986-655
+Green Tea,Orangina-Schweppes,Tea,198,4624,4096,528,6/8/2022,Emma Bernard,Var,Toulon,83103,1-3467-34901-420
+Black Tea,Orangina-Schweppes,Tea,286,4214,3441,773,7/11/2022,Ethan Richard,Lot,Cahors,46188,0-2148-40753-678
+Herbal Tea,Orangina-Schweppes,Tea,454,8312,9645,-1333,12/19/2021,Romain Leroy,Doubs,Besançon,25929,1-224-59105-801
+Lemonade,Coca-Cola France,Soft Drink,692,8538,6993,1545,6/22/2021,Elisa Bonnet,Meurthe-et-Moselle,Nancy,54078,1-7557-76949-369
+Lemonade,Orangina-Schweppes,Soft Drink,985,8443,5235,3208,2/14/2023,Océane Faure,Territoire de Belfort,Belfort,90752,0-7099-82856-508
+Coffee,Coca-Cola France,Coffee,169,5376,2591,2785,4/24/2022,Nathan Morel,Val-d'Oise,Cergy,95562,0-1589-89194-987
+Green Tea,Pernod Ricard Soft,Tea,276,734,428,306,9/27/2020,Arthur Bernard,Tarn,Albi,81280,0-2495-65876-19
+Beer,Orangina-Schweppes,Alcoholic,123,6065,3323,2742,12/6/2023,Hugo Lefebvre,Essonne,Évry-Courcouronnes,91569,1-1147-78013-858
+Green Tea,Coca-Cola France,Tea,508,3737,1912,1825,6/7/2022,Lucas Michel,Morbihan,Vannes,56904,0-1913-34846-292
+Coffee,Orangina-Schweppes,Coffee,603,7238,8525,-1287,8/10/2023,Louis Vincent,Territoire de Belfort,Belfort,90537,1-6921-63511-153
+Beer,Orangina-Schweppes,Alcoholic,673,6122,3511,2611,3/3/2021,Liam Laurent,Hauts-de-Seine,Nanterre,92979,0-3570-34906-986
+Wine,Orangina-Schweppes,Alcoholic,330,7980,3971,4009,8/6/2023,Louise Dubois,Bouches-du-Rhône,Marseille,13023,1-4584-22393-814
+Wine,Orangina-Schweppes,Alcoholic,437,5893,5920,-27,8/12/2020,Pierre Bonnet,Hautes-Alpes,Gap,05163,1-9871-18326-395
+Beer,Pernod Ricard Soft,Alcoholic,889,1486,848,638,1/31/2023,Sarah Michel,Sarthe,Le Mans,72984,1-7431-62047-1
+Lemonade,Orangina-Schweppes,Soft Drink,291,9489,10258,-769,12/28/2023,Léa Vincent,Haute-Saône,Vesoul,70370,0-2088-36342-812
+Vodka,Orangina-Schweppes,Alcoholic,392,6852,6657,195,2/28/2023,Louise Girard,Hérault,Montpellier,34167,1-2614-51465-807
+Cola,Coca-Cola France,Soft Drink,985,11151,12811,-1660,9/16/2021,Romain Dubois,Bouches-du-Rhône,Marseille,13378,1-2907-79065-819
+Energy Drink,Pernod Ricard Soft,Soft Drink,626,8502,5526,2976,6/6/2021,Raphaël Robert,Maine-et-Loire,Angers,49703,1-1199-21957-852
+Energy Drink,Pernod Ricard Soft,Soft Drink,526,2532,1022,1510,12/29/2022,Chloé Fontaine,Orne,Alençon,61382,0-5379-79603-196
+Cola,Orangina-Schweppes,Soft Drink,103,4354,3924,430,9/26/2022,Eva Bernard,Isère,Grenoble,38632,0-3946-92727-701
+Beer,Pernod Ricard Soft,Alcoholic,190,11630,5910,5720,4/26/2022,Noah Roux,Yonne,Auxerre,89025,0-7533-87373-919
+Cola,Pernod Ricard Soft,Soft Drink,674,8278,9690,-1412,8/31/2021,Emma Durand,Meurthe-et-Moselle,Nancy,54357,1-7990-72324-549
+Herbal Tea,Orangina-Schweppes,Tea,328,736,351,385,9/27/2021,Romain David,Aube,Troyes,10237,0-2454-90863-265
+Black Tea,Pernod Ricard Soft,Tea,173,9675,4823,4852,7/11/2022,Romain Dupont,Vienne,Poitiers,86603,0-8272-10568-544
+Wine,Coca-Cola France,Alcoholic,978,2448,2834,-386,4/12/2022,Noah Lefevre,Tarn,Albi,81092,0-1356-41462-968
+Coffee,Coca-Cola France,Coffee,776,8129,8841,-712,5/25/2020,Louise Dubois,Haute-Corse,Bastia,2B285,1-3610-80678-136
+Lemonade,Coca-Cola France,Soft Drink,996,8289,3582,4707,11/9/2020,Baptiste Michel,Savoie,Chambéry,73312,1-5068-48532-498
+Black Tea,Orangina-Schweppes,Tea,569,3700,2547,1153,10/11/2023,Arthur Vincent,Deux-Sèvres,Niort,79309,0-2149-27709-15
+Herbal Tea,Coca-Cola France,Tea,704,5887,2592,3295,1/8/2022,Chloé Moreau,Hautes-Alpes,Gap,05377,1-8375-62028-651
+Beer,Orangina-Schweppes,Alcoholic,517,7471,3085,4386,9/16/2023,Romain Richard,Ariège,Foix,09805,0-6538-15932-86
+Black Tea,Coca-Cola France,Tea,488,3540,3789,-249,9/3/2021,Liam Gauthier,Hautes-Alpes,Gap,05089,0-1884-64651-183
+Beer,Orangina-Schweppes,Alcoholic,664,7034,2943,4091,11/14/2022,Pierre Durand,Alpes-de-Haute-Provence,Digne-les-Bains,04887,1-1980-38437-31
+Black Tea,Orangina-Schweppes,Tea,841,11779,5120,6659,9/11/2023,Zoé Laurent,Lot-et-Garonne,Agen,47469,0-1096-72781-868
+Cola,Orangina-Schweppes,Soft Drink,698,6030,5418,612,9/20/2023,Baptiste Fontaine,Cantal,Aurillac,15921,1-8408-50538-683
+Wine,Orangina-Schweppes,Alcoholic,360,9708,6301,3407,11/24/2021,Eva Roux,Côte-d'Or,Dijon,21051,0-575-71700-925
+Vodka,Pernod Ricard Soft,Alcoholic,179,6772,3748,3024,12/21/2022,Tom Girard,Saône-et-Loire,Mâcon,71370,0-7705-92111-676
+Vodka,Orangina-Schweppes,Alcoholic,387,5473,5212,261,8/15/2023,Alice Roux,Eure,Évreux,27811,0-1624-48566-227
+Lemonade,Coca-Cola France,Soft Drink,219,10408,9932,476,4/6/2020,Louis Lefebvre,Hautes-Pyrénées,Tarbes,65426,1-9146-17051-14
+Vodka,Coca-Cola France,Alcoholic,776,7074,4182,2892,11/9/2021,Louis Durand,Deux-Sèvres,Niort,79409,0-210-57555-11
+Black Tea,Orangina-Schweppes,Tea,898,3257,2350,907,4/7/2021,Pauline Fontaine,Isère,Grenoble,38980,0-9573-22416-607
+Green Tea,Pernod Ricard Soft,Tea,439,11192,7856,3336,2/23/2020,Mathis Michel,Yonne,Auxerre,89055,0-9629-19669-489
+Cola,Orangina-Schweppes,Soft Drink,395,7046,6588,458,4/8/2022,Emma Muller,Côtes-d'Armor,Saint-Brieuc,22478,0-8851-13534-929
+Beer,Coca-Cola France,Alcoholic,192,6425,4289,2136,9/15/2020,Zoé Morel,Hautes-Alpes,Gap,05290,0-1620-77065-566
+Vodka,Coca-Cola France,Alcoholic,277,865,517,348,6/8/2022,Océane Dubois,Meurthe-et-Moselle,Nancy,54913,0-9499-10665-428
+Herbal Tea,Pernod Ricard Soft,Tea,866,11807,10125,1682,8/26/2022,Nathan Richard,Var,Toulon,83282,1-2456-91034-624
+Black Tea,Orangina-Schweppes,Tea,112,8357,8206,151,7/2/2022,Hugo Faure,Ardennes,Charleville-Mézières,08509,0-114-14959-681
+Black Tea,Orangina-Schweppes,Tea,375,4782,3367,1415,1/13/2020,Gabriel Laurent,Côte-d'Or,Dijon,21771,1-6965-80545-766
+Beer,Coca-Cola France,Alcoholic,164,10949,11776,-827,4/23/2021,Gabriel Laurent,Somme,Amiens,80291,0-6287-78113-756
+Herbal Tea,Pernod Ricard Soft,Tea,942,9415,10935,-1520,11/23/2022,Raphaël Martin,Haute-Marne,Chaumont,52453,0-262-77809-967
+Energy Drink,Coca-Cola France,Soft Drink,61,7840,7967,-127,5/2/2021,Axel Fontaine,Puy-de-Dôme,Clermont-Ferrand,63652,0-3554-85727-752
+Energy Drink,Pernod Ricard Soft,Soft Drink,749,7509,8505,-996,8/20/2020,Louis Moreau,Loir-et-Cher,Blois,41553,1-504-77746-842
+Energy Drink,Orangina-Schweppes,Soft Drink,566,7654,5885,1769,10/14/2023,Camille Fontaine,Haute-Savoie,Annecy,74688,0-8618-54224-694
+Energy Drink,Orangina-Schweppes,Soft Drink,168,11012,6903,4109,5/14/2023,Jade Dupont,Bouches-du-Rhône,Marseille,13999,1-3800-82602-418
+Beer,Coca-Cola France,Alcoholic,813,1159,1205,-46,3/27/2021,Alice Dubois,Côte-d'Or,Dijon,21279,1-8056-13804-399
+Energy Drink,Coca-Cola France,Soft Drink,413,3759,3819,-60,11/30/2023,Ethan Durand,Dordogne,Périgueux,24449,1-9249-13945-384
+Coffee,Coca-Cola France,Coffee,940,3716,3531,185,10/4/2022,Léonie Laurent,Haut-Rhin,Colmar,68009,1-4899-88250-237
+Black Tea,Coca-Cola France,Tea,716,11193,10295,898,2/28/2021,Manon Faure,Marne,Châlons-en-Champagne,51207,1-3940-61891-224
+Lemonade,Coca-Cola France,Soft Drink,61,8482,5502,2980,10/3/2022,Tom Lefevre,Haute-Loire,Le Puy-en-Velay,43233,0-5023-68079-793
+Energy Drink,Coca-Cola France,Soft Drink,788,9002,7416,1586,4/26/2022,Théo Lefevre,Haute-Vienne,Limoges,87874,0-2350-36253-351
+Beer,Coca-Cola France,Alcoholic,412,3297,2538,759,9/23/2021,Hugo Lefebvre,Haute-Vienne,Limoges,87260,0-3670-85800-75
+Wine,Pernod Ricard Soft,Alcoholic,702,1548,1366,182,4/26/2023,Pierre Dupont,Val-de-Marne,Créteil,94457,1-2973-44242-802
+Cola,Pernod Ricard Soft,Soft Drink,272,9611,7027,2584,2/26/2023,Manon Fontaine,Seine-Saint-Denis,Bobigny,93149,0-4372-82523-958
+Herbal Tea,Orangina-Schweppes,Tea,237,6391,6453,-62,12/14/2023,Marie Morel,Charente,Angoulême,16739,0-1447-53006-506
+Coffee,Coca-Cola France,Coffee,476,7476,8317,-841,10/30/2023,Louis Dubois,Meuse,Bar-le-Duc,55213,0-2596-84304-643
+Lemonade,Coca-Cola France,Soft Drink,984,10076,11425,-1349,8/25/2022,Julien Rousseau,Pas-de-Calais,Arras,62722,1-7449-90654-6
+Vodka,Orangina-Schweppes,Alcoholic,843,7740,4182,3558,8/1/2023,Arthur Muller,Var,Toulon,83437,1-1521-62538-686
+Vodka,Coca-Cola France,Alcoholic,586,3464,2729,735,12/16/2022,Nathan Simon,Yonne,Auxerre,89086,0-9857-30204-858
+Cola,Pernod Ricard Soft,Soft Drink,842,10547,6193,4354,10/1/2023,Inès Bertrand,Gironde,Bordeaux,33929,1-6458-71561-940
+Black Tea,Coca-Cola France,Tea,862,6257,3783,2474,1/20/2022,Manon Girard,Yonne,Auxerre,89735,0-314-37359-672
+Black Tea,Orangina-Schweppes,Tea,976,10266,11030,-764,9/8/2021,Alice Vincent,Somme,Amiens,80586,1-1294-51662-539
+Lemonade,Coca-Cola France,Soft Drink,331,3239,2271,968,1/6/2023,Léonie Dubois,Essonne,Évry-Courcouronnes,91869,0-5027-28920-826
+Lemonade,Orangina-Schweppes,Soft Drink,50,4128,3581,547,11/16/2022,Gabriel Laurent,Cantal,Aurillac,15597,0-2515-71541-317
+Coffee,Coca-Cola France,Coffee,342,645,599,46,8/31/2023,Hugo Bernard,Seine-Maritime,Rouen,76706,0-6928-68237-390
+Herbal Tea,Orangina-Schweppes,Tea,122,2024,1736,288,4/27/2021,Léonie Laurent,Haut-Rhin,Colmar,68080,1-668-75811-585
+Energy Drink,Coca-Cola France,Soft Drink,439,6556,2758,3798,5/21/2023,Camille Thomas,Meuse,Bar-le-Duc,55276,0-8807-24416-701
+Vodka,Pernod Ricard Soft,Alcoholic,291,6856,7169,-313,9/28/2023,Zoé Roux,Calvados,Caen,14962,0-9592-40537-948
+Herbal Tea,Coca-Cola France,Tea,531,9750,4225,5525,8/9/2022,Pauline Laurent,Saône-et-Loire,Mâcon,71668,0-108-17887-956
+Beer,Orangina-Schweppes,Alcoholic,487,7932,4161,3771,8/20/2022,Pierre Bonnet,Hautes-Alpes,Gap,05218,1-9409-14105-616
+Cola,Coca-Cola France,Soft Drink,656,4607,4312,295,4/21/2022,Gabriel Lefevre,Maine-et-Loire,Angers,49681,1-942-47700-615
+Black Tea,Pernod Ricard Soft,Tea,820,6489,4348,2141,2/28/2023,Nathan Muller,Sarthe,Le Mans,72884,0-1430-15958-972
+Beer,Pernod Ricard Soft,Alcoholic,102,8441,5688,2753,12/26/2021,Sarah Girard,Deux-Sèvres,Niort,79495,0-4138-46569-572
+Green Tea,Pernod Ricard Soft,Tea,922,5855,4225,1630,1/19/2020,Tom Leroy,Hauts-de-Seine,Nanterre,92503,0-1488-79349-527
+Black Tea,Orangina-Schweppes,Tea,107,633,431,202,3/14/2023,Ethan Richard,Pyrénées-Atlantiques,Pau,64680,0-8676-57265-70
+Herbal Tea,Pernod Ricard Soft,Tea,978,1323,1160,163,2/3/2020,Louise Fournier,Puy-de-Dôme,Clermont-Ferrand,63247,0-4872-66261-2
+Vodka,Pernod Ricard Soft,Alcoholic,627,8342,8089,253,7/5/2021,Ethan Gauthier,Seine-Saint-Denis,Bobigny,93559,1-648-14963-582
+Cola,Orangina-Schweppes,Soft Drink,948,8343,7042,1301,2/8/2020,Inès Fournier,Hauts-de-Seine,Nanterre,92701,1-5893-18678-993
+Green Tea,Orangina-Schweppes,Tea,487,11071,10975,96,2/27/2023,Maxime Laurent,Alpes-Maritimes,Nice,06091,1-2114-28304-743
+Beer,Pernod Ricard Soft,Alcoholic,785,4563,2770,1793,3/27/2021,Marie Lambert,Territoire de Belfort,Belfort,90274,0-2903-39350-47
+Energy Drink,Coca-Cola France,Soft Drink,694,11761,13734,-1973,10/10/2023,Raphaël Vincent,Essonne,Évry-Courcouronnes,91483,0-3494-47022-708
+Energy Drink,Orangina-Schweppes,Soft Drink,681,4068,3844,224,10/1/2021,Noah Richard,Oise,Beauvais,60644,0-9104-78278-126
+Vodka,Pernod Ricard Soft,Alcoholic,213,3160,1883,1277,12/27/2020,Charlotte Dubois,Hauts-de-Seine,Nanterre,92310,1-9544-68755-991
+Wine,Orangina-Schweppes,Alcoholic,978,8351,4985,3366,2/10/2023,Julien Laurent,Paris,Paris,75581,1-7406-20998-867
+Wine,Orangina-Schweppes,Alcoholic,677,2249,1342,907,10/17/2022,Tom Faure,Mayenne,Laval,53336,0-4757-99300-697
+Cola,Coca-Cola France,Soft Drink,566,4213,3208,1005,9/11/2021,Inès Bertrand,Gard,Nîmes,30309,0-1938-59049-804
+Black Tea,Orangina-Schweppes,Tea,475,9184,7937,1247,6/25/2023,Maxime David,Corse-du-Sud,Ajaccio,2A910,0-8299-25704-889
+Wine,Coca-Cola France,Alcoholic,985,5078,3405,1673,4/2/2022,Emma Leroy,Ardèche,Privas,07062,1-707-96530-945
+Green Tea,Pernod Ricard Soft,Tea,779,4170,2980,1190,2/11/2022,Elisa Dubois,Lot-et-Garonne,Agen,47021,0-9250-94817-627
+Cola,Pernod Ricard Soft,Soft Drink,362,4007,4327,-320,12/30/2022,Arthur Durand,Vendée,La Roche-sur-Yon,85991,1-3570-74843-275
+Beer,Pernod Ricard Soft,Alcoholic,508,4926,3623,1303,7/8/2022,Océane Moreau,Ain,Bourg-en-Bresse,01828,0-2715-65392-349
+Cola,Coca-Cola France,Soft Drink,278,11970,10085,1885,5/30/2020,Louis Bertrand,Seine-Maritime,Rouen,76461,1-2046-26864-999
+Herbal Tea,Coca-Cola France,Tea,704,3352,1701,1651,11/23/2023,Lucie Simon,Indre-et-Loire,Tours,37539,1-8695-37504-713
+Beer,Orangina-Schweppes,Alcoholic,401,11217,12834,-1617,11/30/2021,Axel Vincent,Seine-et-Marne,Melun,77134,1-4865-57227-639
+Cola,Coca-Cola France,Soft Drink,180,2755,2502,253,7/30/2022,Pierre Leroy,Doubs,Besançon,25180,1-8917-73372-477
+Wine,Coca-Cola France,Alcoholic,970,1174,1097,77,10/30/2023,Clémence Rousseau,Bouches-du-Rhône,Marseille,13882,0-5526-57260-760
+Energy Drink,Coca-Cola France,Soft Drink,863,11883,9430,2453,5/2/2020,Pierre Lambert,Gard,Nîmes,30286,0-819-40339-919
+Black Tea,Orangina-Schweppes,Tea,882,10080,7069,3011,11/28/2020,Léa Muller,Oise,Beauvais,60709,0-7270-15726-421
+Wine,Orangina-Schweppes,Alcoholic,575,10831,9012,1819,1/7/2020,Louis Lambert,Seine-Saint-Denis,Bobigny,93837,1-2085-84349-549
+Coffee,Orangina-Schweppes,Coffee,893,6397,3510,2887,7/28/2020,Marie Moreau,Haut-Rhin,Colmar,68128,1-234-40514-93
+Beer,Coca-Cola France,Alcoholic,382,6974,4497,2477,4/10/2021,Mathis Gauthier,Savoie,Chambéry,73160,1-1606-78354-387
+Black Tea,Pernod Ricard Soft,Tea,886,10149,4835,5314,12/1/2023,Nathan Dubois,Yonne,Auxerre,89906,0-4585-92324-551
+Green Tea,Coca-Cola France,Tea,764,2446,1475,971,5/18/2023,Océane Dupont,Haute-Vienne,Limoges,87861,0-302-25300-790
+Black Tea,Pernod Ricard Soft,Tea,915,9826,11701,-1875,6/27/2022,Liam Robert,Hauts-de-Seine,Nanterre,92284,1-748-78271-811
+Black Tea,Coca-Cola France,Tea,209,8122,3626,4496,3/16/2023,Zoé Thomas,Drôme,Valence,26495,1-7096-89802-869
+Herbal Tea,Pernod Ricard Soft,Tea,61,1729,954,775,1/17/2021,Eva Michel,Yonne,Auxerre,89331,1-4610-88470-937
+Cola,Coca-Cola France,Soft Drink,278,7795,6741,1054,3/4/2023,Mathis Lefevre,Val-d'Oise,Cergy,95264,1-2059-58916-525
+Herbal Tea,Coca-Cola France,Tea,982,8499,7965,534,1/26/2023,Léa Faure,Hautes-Pyrénées,Tarbes,65019,0-9551-75431-219
+Black Tea,Pernod Ricard Soft,Tea,259,9601,4338,5263,11/7/2022,Louis Rousseau,Oise,Beauvais,60903,1-8268-78012-476
+Lemonade,Pernod Ricard Soft,Soft Drink,992,6950,6717,233,11/2/2022,Alice Fontaine,Seine-Saint-Denis,Bobigny,93891,0-2627-94815-373
+Wine,Pernod Ricard Soft,Alcoholic,442,7438,8269,-831,2/7/2023,Pierre Moreau,Aude,Carcassonne,11288,0-5717-36685-704
+Vodka,Pernod Ricard Soft,Alcoholic,785,10484,10465,19,8/28/2021,Théo Vincent,Hautes-Pyrénées,Tarbes,65919,0-8208-60578-116
+Coffee,Orangina-Schweppes,Coffee,182,10820,9284,1536,12/5/2023,Baptiste Durand,Yvelines,Versailles,78019,1-5239-64890-156
+Cola,Coca-Cola France,Soft Drink,633,10484,5799,4685,6/10/2023,Jade Vincent,Territoire de Belfort,Belfort,90735,0-3938-74724-991
+Black Tea,Coca-Cola France,Tea,401,5144,5604,-460,1/18/2021,Clémence Moreau,Lot,Cahors,46242,1-7822-90358-352
+Lemonade,Coca-Cola France,Soft Drink,130,11691,6777,4914,2/11/2021,Pierre Martin,Charente-Maritime,La Rochelle,17047,0-7884-90120-871
+Wine,Coca-Cola France,Alcoholic,349,6816,6582,234,1/19/2020,Inès Bertrand,Val-d'Oise,Cergy,95466,1-1090-90980-654
+Black Tea,Pernod Ricard Soft,Tea,614,7640,4673,2967,3/7/2021,Elisa Leroy,Savoie,Chambéry,73632,0-8259-92203-559
+Vodka,Orangina-Schweppes,Alcoholic,326,7785,8610,-825,7/3/2020,Sarah Simon,Essonne,Évry-Courcouronnes,91708,0-2124-21952-117
+Beer,Pernod Ricard Soft,Alcoholic,286,3099,2125,974,4/11/2023,Manon Richard,Oise,Beauvais,60102,0-4051-44934-547
+Herbal Tea,Pernod Ricard Soft,Tea,326,647,705,-58,3/19/2021,Océane David,Pyrénées-Orientales,Perpignan,66857,1-4673-11901-748
+Black Tea,Coca-Cola France,Tea,158,10768,12476,-1708,10/5/2022,Eva Laurent,Charente-Maritime,La Rochelle,17179,1-721-21830-58
+Black Tea,Coca-Cola France,Tea,750,5682,3567,2115,11/15/2023,Hugo Lefevre,Hauts-de-Seine,Nanterre,92867,1-3466-77862-622
+Beer,Pernod Ricard Soft,Alcoholic,878,6816,5693,1123,11/5/2022,Clémence Martin,Pyrénées-Atlantiques,Pau,64399,1-813-93318-397
+Black Tea,Coca-Cola France,Tea,808,5137,4428,709,4/15/2020,Océane David,Yvelines,Versailles,78174,1-2521-99224-249
+Black Tea,Coca-Cola France,Tea,171,7128,3424,3704,8/25/2021,Baptiste Morel,Allier,Moulins,03759,1-2859-20169-688
+Lemonade,Pernod Ricard Soft,Soft Drink,575,9631,5619,4012,8/4/2021,Axel Bonnet,Maine-et-Loire,Angers,49129,0-8730-32361-30
+Lemonade,Orangina-Schweppes,Soft Drink,313,11352,13599,-2247,7/4/2020,Mathis Petit,Isère,Grenoble,38778,0-7369-31805-711
+Cola,Orangina-Schweppes,Soft Drink,600,8044,7802,242,12/12/2022,Léonie Lambert,Côtes-d'Armor,Saint-Brieuc,22978,1-7862-45171-596
+Wine,Orangina-Schweppes,Alcoholic,427,9431,10878,-1447,6/21/2023,Liam Laurent,Aude,Carcassonne,11742,1-3409-79934-739
+Lemonade,Orangina-Schweppes,Soft Drink,819,4037,2728,1309,9/22/2021,Axel Lefevre,Aisne,Laon,02574,0-3633-68224-760
+Lemonade,Pernod Ricard Soft,Soft Drink,280,6945,4850,2095,9/20/2022,Ethan Simon,Pyrénées-Orientales,Perpignan,66943,0-1778-38557-159
+Lemonade,Coca-Cola France,Soft Drink,985,7466,5731,1735,9/27/2023,Lucas Faure,Landes,Mont-de-Marsan,40823,1-4812-98815-560
+Green Tea,Coca-Cola France,Tea,250,11193,12558,-1365,4/28/2020,Zoé Laurent,Tarn-et-Garonne,Montauban,82429,1-9170-49888-739
+Black Tea,Coca-Cola France,Tea,418,6844,2763,4081,2/11/2022,Chloé Gauthier,Corse-du-Sud,Ajaccio,2A255,1-4008-36212-94
+Black Tea,Coca-Cola France,Tea,235,9053,3748,5305,6/15/2021,Emma Fournier,Seine-Saint-Denis,Bobigny,93059,0-5337-70429-900
+Green Tea,Pernod Ricard Soft,Tea,247,8277,4309,3968,2/23/2022,Pierre Lambert,Corrèze,Tulle,19219,0-6897-63424-339
+Herbal Tea,Orangina-Schweppes,Tea,169,4993,4662,331,11/1/2020,Noah Thomas,Nièvre,Nevers,58819,1-6444-40516-922
+Coffee,Pernod Ricard Soft,Coffee,856,5305,4972,333,8/14/2020,Elisa Dupont,Ain,Bourg-en-Bresse,01505,0-1575-77070-77
+Coffee,Orangina-Schweppes,Coffee,257,7135,3081,4054,8/21/2023,Noah Petit,Nièvre,Nevers,58720,1-4414-85842-558
+Lemonade,Orangina-Schweppes,Soft Drink,63,2146,2418,-272,9/13/2022,Eva Dubois,Haut-Rhin,Colmar,68824,0-7339-50352-375
+Cola,Pernod Ricard Soft,Soft Drink,537,5476,3249,2227,9/7/2020,Lucie Roux,Haute-Savoie,Annecy,74253,0-1686-16632-298
+Black Tea,Pernod Ricard Soft,Tea,871,1867,1039,828,6/15/2023,Zoé Dubois,Manche,Saint-Lô,50248,0-4462-66369-332
+Coffee,Orangina-Schweppes,Coffee,927,7100,3737,3363,5/1/2022,Léonie Roux,Savoie,Chambéry,73208,1-2453-50970-883
+Vodka,Coca-Cola France,Alcoholic,832,1021,459,562,4/20/2021,Zoé Bonnet,Indre-et-Loire,Tours,37343,1-9581-54930-672
+Herbal Tea,Orangina-Schweppes,Tea,719,661,411,250,4/6/2023,Océane Moreau,Meurthe-et-Moselle,Nancy,54774,1-5934-72367-683
+Herbal Tea,Coca-Cola France,Tea,209,8694,9050,-356,7/6/2022,Antoine Lefevre,Nièvre,Nevers,58510,1-5278-25559-510
+Energy Drink,Coca-Cola France,Soft Drink,282,1995,1878,117,12/22/2020,Pauline Fournier,Charente,Angoulême,16308,1-9077-10053-312
+Wine,Orangina-Schweppes,Alcoholic,584,5650,3964,1686,5/27/2022,Lucie Morel,Hautes-Pyrénées,Tarbes,65270,0-2736-86544-867
+Energy Drink,Coca-Cola France,Soft Drink,958,11041,5738,5303,1/8/2021,Léonie Fontaine,Sarthe,Le Mans,72143,1-7803-63939-740
+Green Tea,Pernod Ricard Soft,Tea,317,10385,7583,2802,10/25/2021,Sarah Lefebvre,Landes,Mont-de-Marsan,40964,0-949-36549-246
+Lemonade,Coca-Cola France,Soft Drink,469,8043,7860,183,3/8/2023,Charlotte Thomas,Marne,Châlons-en-Champagne,51904,0-2649-30632-773
+Green Tea,Coca-Cola France,Tea,749,4332,2355,1977,1/21/2020,Léa Dupont,Moselle,Metz,57580,0-2020-54932-356
+Green Tea,Orangina-Schweppes,Tea,194,6757,6986,-229,1/31/2023,Arthur Bertrand,Aveyron,Rodez,12345,0-8847-88632-454
+Beer,Pernod Ricard Soft,Alcoholic,965,4364,2512,1852,11/3/2023,Liam Gauthier,Finistère,Quimper,29616,1-2248-48455-741
+Herbal Tea,Coca-Cola France,Tea,454,7177,3940,3237,8/15/2021,Nathan Martin,Tarn-et-Garonne,Montauban,82305,0-5589-47298-466
+Herbal Tea,Pernod Ricard Soft,Tea,863,7706,7923,-217,6/29/2020,Julien Girard,Corrèze,Tulle,19444,1-6709-66233-989
+Cola,Coca-Cola France,Soft Drink,197,3106,3378,-272,4/21/2022,Arthur Richard,Côte-d'Or,Dijon,21113,0-8889-64842-490
+Coffee,Coca-Cola France,Coffee,158,11367,4688,6679,11/10/2020,Raphaël Muller,Mayenne,Laval,53836,1-5590-32336-983
+Wine,Pernod Ricard Soft,Alcoholic,313,9407,7966,1441,10/27/2022,Marie Simon,Pyrénées-Atlantiques,Pau,64969,0-8509-43776-898
+Lemonade,Pernod Ricard Soft,Soft Drink,669,3551,3986,-435,4/4/2020,Noah Vincent,Jura,Lons-le-Saunier,39057,1-5973-59131-442
+Wine,Pernod Ricard Soft,Alcoholic,603,3993,1617,2376,1/2/2021,Antoine Lambert,Pas-de-Calais,Arras,62667,1-6919-72391-709
+Beer,Coca-Cola France,Alcoholic,448,5743,5439,304,2/18/2021,Julien Laurent,Haute-Savoie,Annecy,74705,0-7146-29025-672
+Energy Drink,Coca-Cola France,Soft Drink,652,9635,10435,-800,4/1/2021,Louis Lefevre,Sarthe,Le Mans,72473,0-5816-71063-480
+Black Tea,Pernod Ricard Soft,Tea,360,7686,3141,4545,9/25/2021,Chloé Morel,Eure,Évreux,27206,0-4037-45280-88
+Lemonade,Coca-Cola France,Soft Drink,598,11650,6713,4937,6/11/2021,Léonie Faure,Maine-et-Loire,Angers,49686,0-2324-80063-649
+Herbal Tea,Pernod Ricard Soft,Tea,783,1779,1863,-84,7/7/2020,Liam Petit,Doubs,Besançon,25043,1-929-32018-947
+Beer,Orangina-Schweppes,Alcoholic,351,9238,9638,-400,6/5/2022,Eva Simon,Isère,Grenoble,38204,1-6691-42933-640
+Herbal Tea,Orangina-Schweppes,Tea,407,11523,7995,3528,11/29/2022,Lucie Vincent,Pyrénées-Orientales,Perpignan,66084,1-1393-66440-617
+Wine,Coca-Cola France,Alcoholic,424,1391,1077,314,8/1/2023,Théo Michel,Pas-de-Calais,Arras,62571,1-6146-17641-844
+Wine,Orangina-Schweppes,Alcoholic,493,3773,2683,1090,2/26/2021,Julien Lefevre,Val-d'Oise,Cergy,95210,1-7181-97135-487
+Green Tea,Pernod Ricard Soft,Tea,622,3283,3506,-223,2/3/2023,Ethan Dubois,Nièvre,Nevers,58215,0-1015-28061-121
+Lemonade,Orangina-Schweppes,Soft Drink,482,789,437,352,5/17/2021,Louis Rousseau,Eure-et-Loir,Chartres,28266,0-4605-20874-958
+Green Tea,Pernod Ricard Soft,Tea,385,9825,8432,1393,9/6/2023,Marie Vincent,Haute-Savoie,Annecy,74755,0-4799-73538-85
+Wine,Pernod Ricard Soft,Alcoholic,446,7766,8698,-932,10/12/2021,Alice Roux,Deux-Sèvres,Niort,79336,1-9671-29974-580
+Wine,Pernod Ricard Soft,Alcoholic,210,6475,3124,3351,1/22/2022,Jade Robert,Aube,Troyes,10391,0-2440-18966-544
+Lemonade,Coca-Cola France,Soft Drink,358,7612,7275,337,1/25/2022,Romain David,Val-d'Oise,Cergy,95335,0-1626-70089-651
+Coffee,Orangina-Schweppes,Coffee,192,5306,5389,-83,12/12/2020,Gabriel Girard,Seine-Maritime,Rouen,76841,1-2489-67732-46
+Coffee,Orangina-Schweppes,Coffee,542,6245,2956,3289,12/22/2022,Inès Lefebvre,Marne,Châlons-en-Champagne,51429,1-5685-30631-379
+Herbal Tea,Orangina-Schweppes,Tea,567,5585,5725,-140,11/24/2023,Lucas Laurent,Haute-Loire,Le Puy-en-Velay,43113,0-1083-94207-33
+Black Tea,Coca-Cola France,Tea,696,6881,6282,599,4/9/2023,Zoé Dubois,Haute-Corse,Bastia,2B800,1-3306-12955-86
+Energy Drink,Coca-Cola France,Soft Drink,529,1637,1444,193,6/28/2021,Alice David,Ain,Bourg-en-Bresse,01775,1-7136-54112-380
+Black Tea,Orangina-Schweppes,Tea,885,9833,11113,-1280,9/12/2023,Alice Martin,Val-d'Oise,Cergy,95006,1-294-12192-543
+Lemonade,Pernod Ricard Soft,Soft Drink,975,7368,8058,-690,4/13/2022,Raphaël Dupont,Seine-et-Marne,Melun,77673,0-6602-28423-242
+Herbal Tea,Pernod Ricard Soft,Tea,927,3890,2274,1616,10/2/2020,Hugo Petit,Pas-de-Calais,Arras,62755,0-1217-75291-695
+Energy Drink,Coca-Cola France,Soft Drink,769,11926,11370,556,9/19/2021,Océane Michel,Eure,Évreux,27484,1-7071-82140-339
+Green Tea,Orangina-Schweppes,Tea,937,11639,5258,6381,2/11/2021,Liam Durand,Val-de-Marne,Créteil,94609,1-2111-40522-859
+Cola,Pernod Ricard Soft,Soft Drink,899,11429,6774,4655,7/23/2021,Théo Bertrand,Pas-de-Calais,Arras,62228,1-6707-40801-81
+Energy Drink,Orangina-Schweppes,Soft Drink,514,4325,3105,1220,4/15/2023,Antoine Bertrand,Aube,Troyes,10931,0-7029-31734-850
+Green Tea,Orangina-Schweppes,Tea,774,2961,1566,1395,8/27/2020,Nathan Simon,Territoire de Belfort,Belfort,90588,0-7323-44132-379
+Green Tea,Coca-Cola France,Tea,767,4429,5192,-763,6/13/2022,Gabriel Gauthier,Vosges,Épinal,88709,1-262-83519-802
+Lemonade,Orangina-Schweppes,Soft Drink,260,1145,673,472,2/14/2023,Théo Martin,Puy-de-Dôme,Clermont-Ferrand,63367,1-5949-98726-163
+Beer,Orangina-Schweppes,Alcoholic,653,11748,12430,-682,3/26/2020,Axel Morel,Lot,Cahors,46223,1-1777-95678-770
+Energy Drink,Coca-Cola France,Soft Drink,180,2028,2246,-218,8/9/2023,Romain Robert,Alpes-de-Haute-Provence,Digne-les-Bains,04271,0-4140-83579-552
+Herbal Tea,Pernod Ricard Soft,Tea,787,5516,2826,2690,4/18/2022,Tom Moreau,Côte-d'Or,Dijon,21625,0-3172-25826-953
+Black Tea,Pernod Ricard Soft,Tea,97,3604,2151,1453,5/2/2023,Nathan Girard,Ariège,Foix,09083,1-9662-84085-536
+Wine,Coca-Cola France,Alcoholic,381,11185,7719,3466,11/18/2021,Hugo Dubois,Aveyron,Rodez,12288,0-8973-23954-67
+Vodka,Pernod Ricard Soft,Alcoholic,665,9630,4824,4806,5/17/2022,Antoine Dupont,Eure,Évreux,27445,0-2522-87994-265
+Vodka,Orangina-Schweppes,Alcoholic,170,9999,11164,-1165,5/27/2021,Louis Muller,Creuse,Guéret,23012,0-4178-60436-790
+Energy Drink,Pernod Ricard Soft,Soft Drink,916,7583,8017,-434,3/19/2022,Alice Martin,Savoie,Chambéry,73391,1-2931-56392-220
+Wine,Coca-Cola France,Alcoholic,897,1405,758,647,7/16/2021,Axel Leroy,Charente-Maritime,La Rochelle,17260,0-8134-79922-384
+Beer,Coca-Cola France,Alcoholic,491,7159,6439,720,6/20/2023,Axel Lambert,Drôme,Valence,26353,1-3332-49522-87
+Black Tea,Pernod Ricard Soft,Tea,242,2413,2808,-395,1/28/2022,Raphaël Martin,Vienne,Poitiers,86309,1-8326-26350-717
+Vodka,Coca-Cola France,Alcoholic,964,11044,12429,-1385,8/5/2022,Chloé Moreau,Somme,Amiens,80718,0-915-62564-633
+Lemonade,Coca-Cola France,Soft Drink,965,7352,4470,2882,12/22/2020,Hugo Lefebvre,Corse-du-Sud,Ajaccio,2A875,1-9208-82105-256
+Black Tea,Coca-Cola France,Tea,76,3854,4467,-613,6/23/2020,Camille Petit,Finistère,Quimper,29571,1-9866-91057-232
+Wine,Coca-Cola France,Alcoholic,747,4931,3535,1396,12/6/2022,Antoine Petit,Vienne,Poitiers,86146,1-6663-87405-105
+Cola,Orangina-Schweppes,Soft Drink,793,802,673,129,10/26/2021,Raphaël Leroy,Loiret,Orléans,45782,1-5399-89745-247
+Energy Drink,Orangina-Schweppes,Soft Drink,112,7949,8415,-466,5/31/2020,Julien Simon,Saône-et-Loire,Mâcon,71657,0-7472-71057-697
+Wine,Orangina-Schweppes,Alcoholic,118,9935,4746,5189,1/5/2023,Julien Lefebvre,Loire-Atlantique,Nantes,44464,1-8950-64935-602
+Wine,Orangina-Schweppes,Alcoholic,812,5471,2193,3278,9/3/2022,Maxime Robert,Aube,Troyes,10607,0-8610-99126-456
+Lemonade,Orangina-Schweppes,Soft Drink,823,2774,2545,229,9/1/2023,Pierre Petit,Marne,Châlons-en-Champagne,51305,1-7183-50645-926
+Cola,Pernod Ricard Soft,Soft Drink,610,11596,6581,5015,6/30/2021,Maxime Girard,Allier,Moulins,03650,0-8851-42087-168
+Wine,Orangina-Schweppes,Alcoholic,151,7207,7431,-224,10/31/2020,Pierre Simon,Gironde,Bordeaux,33151,1-7418-72709-835
+Wine,Coca-Cola France,Alcoholic,584,3675,1732,1943,4/27/2023,Chloé Fontaine,Aube,Troyes,10964,0-9485-58200-131
+Cola,Orangina-Schweppes,Soft Drink,107,4209,2439,1770,10/14/2021,Tom Muller,Pas-de-Calais,Arras,62731,1-2492-28035-40
+Wine,Coca-Cola France,Alcoholic,969,4500,3724,776,1/20/2021,Léonie Petit,Manche,Saint-Lô,50336,1-5091-22221-176
+Herbal Tea,Orangina-Schweppes,Tea,963,4165,2717,1448,1/18/2020,Lucas Dupont,Pyrénées-Orientales,Perpignan,66215,1-9619-23205-334
+Coffee,Coca-Cola France,Coffee,77,6684,7811,-1127,6/13/2020,Léa Thomas,Ariège,Foix,09609,0-3953-62923-123
+Green Tea,Coca-Cola France,Tea,715,1949,1168,781,8/22/2023,Julien Lefevre,Bouches-du-Rhône,Marseille,13608,1-5333-69177-490
+Coffee,Orangina-Schweppes,Coffee,158,11142,9949,1193,4/22/2022,Tom David,Var,Toulon,83767,0-7376-75976-596
+Lemonade,Pernod Ricard Soft,Soft Drink,796,6769,3925,2844,9/1/2021,Marie Lambert,Somme,Amiens,80212,1-5294-72888-358
+Black Tea,Coca-Cola France,Tea,214,11832,6693,5139,1/14/2023,Arthur Leroy,Dordogne,Périgueux,24123,0-3602-23878-366
+Cola,Coca-Cola France,Soft Drink,707,8510,8025,485,4/17/2020,Liam Thomas,Nièvre,Nevers,58337,0-9241-98916-396
+Cola,Coca-Cola France,Soft Drink,995,1171,1140,31,7/24/2020,Julien Martin,Tarn,Albi,81987,0-6766-95575-958
+Wine,Orangina-Schweppes,Alcoholic,269,5237,4002,1235,7/13/2023,Elisa Durand,Charente-Maritime,La Rochelle,17735,1-8199-62383-250
+Cola,Orangina-Schweppes,Soft Drink,519,640,706,-66,4/27/2022,Ethan Laurent,Alpes-de-Haute-Provence,Digne-les-Bains,04453,1-2589-34632-110
+Herbal Tea,Pernod Ricard Soft,Tea,669,2425,2208,217,2/10/2021,Raphaël Faure,Gers,Auch,32053,0-1950-40928-649
+Wine,Orangina-Schweppes,Alcoholic,800,6642,3237,3405,3/18/2023,Gabriel Muller,Haute-Marne,Chaumont,52146,1-3532-62162-716
+Lemonade,Pernod Ricard Soft,Soft Drink,594,2927,2233,694,5/24/2023,Mathis Petit,Lozère,Mende,48812,0-9133-38183-441
+Beer,Pernod Ricard Soft,Alcoholic,658,5393,3798,1595,6/25/2022,Jade Lefevre,Gard,Nîmes,30602,1-5103-84531-636
+Vodka,Coca-Cola France,Alcoholic,874,3303,2733,570,1/3/2020,Gabriel Bonnet,Haute-Garonne,Toulouse,31619,1-5417-20911-970
+Cola,Orangina-Schweppes,Soft Drink,902,10867,4864,6003,10/29/2020,Océane Lambert,Côtes-d'Armor,Saint-Brieuc,22939,0-1917-78982-882
+Coffee,Orangina-Schweppes,Coffee,892,2996,1415,1581,10/11/2020,Océane Faure,Vaucluse,Avignon,84773,0-2503-96623-153
+Coffee,Coca-Cola France,Coffee,162,7145,4255,2890,6/8/2022,Baptiste Roux,Gard,Nîmes,30626,0-5167-97304-760
+Lemonade,Pernod Ricard Soft,Soft Drink,221,8708,8408,300,12/10/2023,Romain Thomas,Haute-Garonne,Toulouse,31703,0-4434-91927-604
+Wine,Pernod Ricard Soft,Alcoholic,392,8865,6767,2098,3/27/2020,Alice Dubois,Corrèze,Tulle,19942,0-3754-40182-478
+Lemonade,Coca-Cola France,Soft Drink,131,4302,4101,201,10/22/2022,Eva Dupont,Meurthe-et-Moselle,Nancy,54907,1-9702-50367-752
+Vodka,Orangina-Schweppes,Alcoholic,964,3952,3009,943,8/6/2022,Sarah Lefevre,Loiret,Orléans,45122,0-2682-99922-312
+Vodka,Pernod Ricard Soft,Alcoholic,569,6531,6938,-407,7/9/2021,Clémence Lambert,Tarn,Albi,81278,0-1889-90698-759
+Coffee,Orangina-Schweppes,Coffee,190,9510,9028,482,12/31/2023,Pierre Dupont,Gironde,Bordeaux,33129,0-6306-84391-754
+Coffee,Orangina-Schweppes,Coffee,799,1545,1327,218,8/19/2022,Léonie Roux,Finistère,Quimper,29348,0-941-43092-964
+Beer,Pernod Ricard Soft,Alcoholic,844,7470,5046,2424,2/3/2023,Océane Richard,Saône-et-Loire,Mâcon,71786,0-7188-75911-933
+Beer,Coca-Cola France,Alcoholic,975,4861,4233,628,12/8/2020,Maxime Muller,Maine-et-Loire,Angers,49046,1-4864-69759-746
+Beer,Pernod Ricard Soft,Alcoholic,264,7830,6406,1424,11/21/2020,Raphaël Michel,Moselle,Metz,57939,1-6447-63578-794
+Green Tea,Pernod Ricard Soft,Tea,65,5373,5749,-376,6/13/2021,Antoine Laurent,Loire-Atlantique,Nantes,44028,1-913-31352-875
+Black Tea,Coca-Cola France,Tea,203,10693,4661,6032,9/17/2022,Nathan Bernard,Sarthe,Le Mans,72322,0-5156-11111-366
+Green Tea,Coca-Cola France,Tea,823,5815,3462,2353,4/23/2022,Elisa Dupont,Jura,Lons-le-Saunier,39811,0-2885-32946-81
+Black Tea,Orangina-Schweppes,Tea,399,7527,8254,-727,6/23/2023,Camille David,Jura,Lons-le-Saunier,39934,0-3904-70443-654
+Lemonade,Pernod Ricard Soft,Soft Drink,369,764,648,116,9/10/2020,Clémence Thomas,Somme,Amiens,80197,0-9442-78387-194
+Vodka,Coca-Cola France,Alcoholic,415,7633,5714,1919,7/6/2023,Eva Durand,Var,Toulon,83088,1-7692-29420-486
+Wine,Coca-Cola France,Alcoholic,320,1360,571,789,7/17/2021,Camille Dubois,Ain,Bourg-en-Bresse,01142,0-9035-21395-605
+Energy Drink,Pernod Ricard Soft,Soft Drink,202,6296,6506,-210,9/24/2022,Noah Richard,Corrèze,Tulle,19724,1-3757-97232-604
+Beer,Orangina-Schweppes,Alcoholic,561,10750,10509,241,1/11/2023,Sarah Dupont,Yonne,Auxerre,89288,1-3991-22571-51
+Herbal Tea,Pernod Ricard Soft,Tea,81,5555,4161,1394,10/10/2022,Nathan Roux,Territoire de Belfort,Belfort,90365,1-7599-74616-116
+Black Tea,Orangina-Schweppes,Tea,929,9287,6719,2568,8/4/2023,Ethan Laurent,Meurthe-et-Moselle,Nancy,54117,1-441-52568-176
+Lemonade,Orangina-Schweppes,Soft Drink,354,8009,5372,2637,11/19/2023,Arthur Bonnet,Isère,Grenoble,38082,1-8842-59808-978
+Wine,Coca-Cola France,Alcoholic,526,10560,5969,4591,12/18/2021,Clémence Simon,Hautes-Pyrénées,Tarbes,65277,0-4741-85246-251
+Lemonade,Orangina-Schweppes,Soft Drink,803,11238,7656,3582,3/29/2023,Louise Durand,Manche,Saint-Lô,50158,1-3774-24184-359
+Green Tea,Orangina-Schweppes,Tea,135,6736,7727,-991,11/26/2020,Maxime Moreau,Landes,Mont-de-Marsan,40590,1-5889-21695-73
+Beer,Orangina-Schweppes,Alcoholic,276,1513,867,646,1/27/2021,Marie Richard,Aisne,Laon,02923,0-1716-38051-943
+Green Tea,Pernod Ricard Soft,Tea,885,5070,4073,997,7/17/2023,Elisa Vincent,Territoire de Belfort,Belfort,90401,1-9158-30847-972
+Coffee,Pernod Ricard Soft,Coffee,628,3800,2641,1159,8/20/2021,Elisa Vincent,Nièvre,Nevers,58311,0-7700-58270-606
+Black Tea,Coca-Cola France,Tea,133,3889,2333,1556,6/25/2022,Louis Fournier,Haut-Rhin,Colmar,68495,0-5665-70142-698
+Lemonade,Pernod Ricard Soft,Soft Drink,747,2662,2527,135,10/9/2023,Julien Lambert,Essonne,Évry-Courcouronnes,91665,0-8355-81105-711
+Vodka,Coca-Cola France,Alcoholic,388,7968,3835,4133,7/31/2021,Gabriel Thomas,Bouches-du-Rhône,Marseille,13630,1-2039-57250-946
+Energy Drink,Pernod Ricard Soft,Soft Drink,512,6291,6316,-25,4/26/2022,Clémence Vincent,Ille-et-Vilaine,Rennes,35570,1-3028-58524-573
+Beer,Coca-Cola France,Alcoholic,998,2620,2278,342,2/5/2023,Romain Fontaine,Finistère,Quimper,29833,1-5681-21255-321
+Vodka,Pernod Ricard Soft,Alcoholic,306,6126,6606,-480,6/11/2023,Emma Rousseau,Aisne,Laon,02526,0-7410-30869-184
+Lemonade,Coca-Cola France,Soft Drink,195,11220,10912,308,9/25/2022,Baptiste Fournier,Charente,Angoulême,16691,1-9173-99833-553
+Cola,Coca-Cola France,Soft Drink,395,6787,3625,3162,5/28/2023,Baptiste Rousseau,Dordogne,Périgueux,24838,0-5196-24168-593
+Cola,Orangina-Schweppes,Soft Drink,127,8650,4000,4650,3/1/2023,Baptiste Bernard,Vienne,Poitiers,86848,0-9483-80341-154
+Green Tea,Orangina-Schweppes,Tea,92,11522,4778,6744,11/2/2023,Gabriel Michel,Val-d'Oise,Cergy,95640,1-3969-75700-283
+Cola,Orangina-Schweppes,Soft Drink,530,4761,4470,291,5/3/2022,Océane Laurent,Yvelines,Versailles,78815,0-9879-72205-272
+Cola,Orangina-Schweppes,Soft Drink,267,11651,6685,4966,6/29/2022,Camille Lefevre,Loiret,Orléans,45371,0-6118-81364-924
+Green Tea,Orangina-Schweppes,Tea,479,5679,3982,1697,2/14/2022,Raphaël Fournier,Sarthe,Le Mans,72669,0-8565-42975-386
+Herbal Tea,Coca-Cola France,Tea,830,936,1022,-86,8/24/2023,Louis Moreau,Aube,Troyes,10647,1-6118-11520-123
+Green Tea,Orangina-Schweppes,Tea,158,1163,821,342,10/23/2023,Noah Robert,Alpes-de-Haute-Provence,Digne-les-Bains,04310,0-1353-96649-770
+Beer,Pernod Ricard Soft,Alcoholic,88,9900,10446,-546,1/23/2021,Zoé Dupont,Ardèche,Privas,07509,0-4738-52283-420
+Black Tea,Pernod Ricard Soft,Tea,290,5586,3838,1748,9/20/2020,Pauline Leroy,Eure,Évreux,27076,1-4370-60040-666
+Black Tea,Pernod Ricard Soft,Tea,430,5543,3964,1579,1/26/2023,Antoine Laurent,Savoie,Chambéry,73215,1-3569-64087-928
+Beer,Orangina-Schweppes,Alcoholic,155,3541,2226,1315,3/9/2020,Charlotte Bertrand,Doubs,Besançon,25528,0-2876-98345-37
+Vodka,Coca-Cola France,Alcoholic,946,2968,1408,1560,2/22/2020,Mathis Martin,Loir-et-Cher,Blois,41643,0-555-91015-725
+Vodka,Orangina-Schweppes,Alcoholic,794,7894,9003,-1109,3/24/2020,Julien Petit,Morbihan,Vannes,56810,1-2684-12048-901
+Vodka,Pernod Ricard Soft,Alcoholic,253,3234,3201,33,3/9/2020,Chloé Roux,Morbihan,Vannes,56752,0-8638-97294-214
+Coffee,Orangina-Schweppes,Coffee,855,10814,5187,5627,7/30/2022,Hugo Petit,Corse-du-Sud,Ajaccio,2A951,0-7330-69836-1
+Lemonade,Coca-Cola France,Soft Drink,972,4732,4121,611,9/29/2022,Tom Bertrand,Seine-Saint-Denis,Bobigny,93357,1-9136-45527-623
+Herbal Tea,Orangina-Schweppes,Tea,964,6046,3716,2330,5/14/2023,Mathis Thomas,Maine-et-Loire,Angers,49774,1-6133-90460-191
+Vodka,Pernod Ricard Soft,Alcoholic,525,554,549,5,1/6/2020,Nathan Lefevre,Bouches-du-Rhône,Marseille,13883,0-4106-16026-484
+Energy Drink,Coca-Cola France,Soft Drink,146,9759,5895,3864,5/6/2021,Arthur Thomas,Aube,Troyes,10021,0-2769-60921-799
+Beer,Orangina-Schweppes,Alcoholic,670,9882,11035,-1153,8/5/2022,Ethan Gauthier,Nièvre,Nevers,58760,0-8637-49235-579
+Beer,Pernod Ricard Soft,Alcoholic,614,8013,8018,-5,8/5/2023,Liam Petit,Hautes-Alpes,Gap,05300,1-2691-69470-4
+Vodka,Coca-Cola France,Alcoholic,288,4607,3433,1174,4/23/2023,Arthur Bonnet,Alpes-de-Haute-Provence,Digne-les-Bains,04325,1-6752-60012-446
+Beer,Pernod Ricard Soft,Alcoholic,932,5055,2533,2522,4/3/2020,Théo Morel,Eure-et-Loir,Chartres,28299,0-8142-23446-894
+Coffee,Orangina-Schweppes,Coffee,137,2643,3067,-424,1/3/2020,Louis Lefevre,Loire-Atlantique,Nantes,44755,1-1803-36895-543
+Beer,Coca-Cola France,Alcoholic,314,4671,4234,437,12/22/2022,Louise Durand,Meuse,Bar-le-Duc,55927,1-5852-94599-835
+Cola,Pernod Ricard Soft,Soft Drink,125,10986,5346,5640,4/23/2021,Léonie Martin,Haute-Loire,Le Puy-en-Velay,43634,1-3726-94889-65
+Cola,Orangina-Schweppes,Soft Drink,465,10425,12093,-1668,6/25/2022,Pauline Muller,Cher,Bourges,18736,1-9076-68446-919
+Black Tea,Pernod Ricard Soft,Tea,205,5948,6201,-253,1/13/2021,Baptiste Lambert,Lozère,Mende,48188,1-4926-71204-677
+Herbal Tea,Pernod Ricard Soft,Tea,198,785,384,401,9/7/2022,Romain Lefevre,Ardèche,Privas,07174,1-5811-89225-589
+Herbal Tea,Coca-Cola France,Tea,484,10954,9973,981,5/25/2020,Zoé Faure,Gard,Nîmes,30012,1-5285-27299-397
+Energy Drink,Pernod Ricard Soft,Soft Drink,727,2128,2364,-236,3/16/2023,Emma Gauthier,Jura,Lons-le-Saunier,39862,1-4270-82161-87
+Coffee,Coca-Cola France,Coffee,926,9180,5448,3732,9/28/2022,Charlotte Roux,Calvados,Caen,14181,1-9715-82264-359
+Energy Drink,Pernod Ricard Soft,Soft Drink,280,8074,4052,4022,9/23/2021,Raphaël Faure,Aveyron,Rodez,12955,0-5962-37535-699
+Green Tea,Pernod Ricard Soft,Tea,259,8283,4552,3731,7/12/2022,Pauline Bernard,Indre,Châteauroux,36886,1-257-73518-140
+Black Tea,Pernod Ricard Soft,Tea,704,3272,1543,1729,10/7/2023,Ethan Leroy,Haute-Vienne,Limoges,87374,1-3220-52039-353
+Herbal Tea,Coca-Cola France,Tea,643,2000,1283,717,12/2/2022,Pauline Lefebvre,Eure,Évreux,27598,0-220-77045-679
+Cola,Pernod Ricard Soft,Soft Drink,559,11875,6477,5398,3/10/2021,Gabriel Vincent,Drôme,Valence,26264,1-4681-88139-719
+Black Tea,Coca-Cola France,Tea,817,6597,3105,3492,8/25/2022,Maxime Dupont,Pyrénées-Orientales,Perpignan,66648,1-964-55029-548
+Coffee,Orangina-Schweppes,Coffee,521,3195,1698,1497,1/5/2020,Louis Moreau,Ardennes,Charleville-Mézières,08948,1-4773-65444-714
+Herbal Tea,Coca-Cola France,Tea,302,1189,809,380,8/3/2021,Sarah Durand,Aveyron,Rodez,12034,0-1606-17455-962
+Cola,Orangina-Schweppes,Soft Drink,661,641,603,38,4/4/2022,Océane Morel,Ardennes,Charleville-Mézières,08531,1-4420-86585-511
+Beer,Coca-Cola France,Alcoholic,362,6870,4620,2250,7/25/2023,Emma Martin,Jura,Lons-le-Saunier,39028,1-4054-49838-744
+Vodka,Orangina-Schweppes,Alcoholic,386,4144,1863,2281,8/30/2020,Romain Laurent,Vaucluse,Avignon,84163,1-8333-50760-707
+Herbal Tea,Orangina-Schweppes,Tea,744,3940,3930,10,12/25/2020,Julien Lefebvre,Mayenne,Laval,53545,0-8296-83233-854
+Lemonade,Orangina-Schweppes,Soft Drink,329,1887,1177,710,10/31/2020,Nathan Girard,Creuse,Guéret,23634,0-4935-75390-422
+Beer,Pernod Ricard Soft,Alcoholic,865,9992,11597,-1605,11/14/2023,Léa Durand,Eure-et-Loir,Chartres,28221,1-4630-87278-779
+Energy Drink,Orangina-Schweppes,Soft Drink,498,4856,5160,-304,3/27/2021,Sarah Thomas,Essonne,Évry-Courcouronnes,91432,0-8564-90375-827
+Vodka,Orangina-Schweppes,Alcoholic,937,2660,2260,400,3/12/2020,Noah Michel,Creuse,Guéret,23151,1-7447-80761-999
+Cola,Orangina-Schweppes,Soft Drink,600,6984,3131,3853,7/19/2021,Chloé Petit,Loiret,Orléans,45971,1-1601-96870-218
+Herbal Tea,Pernod Ricard Soft,Tea,776,6419,6189,230,2/19/2022,Louis Dupont,Indre-et-Loire,Tours,37811,0-8215-14852-130
+Cola,Coca-Cola France,Soft Drink,935,4675,2818,1857,2/3/2020,Gabriel Vincent,Pyrénées-Atlantiques,Pau,64069,1-4050-96127-644
+Herbal Tea,Coca-Cola France,Tea,292,2227,985,1242,10/31/2020,Théo Dubois,Vaucluse,Avignon,84187,0-7804-44108-168
+Cola,Pernod Ricard Soft,Soft Drink,683,7438,4813,2625,3/14/2021,Liam Rousseau,Nord,Lille,59497,0-3811-28030-159
+Green Tea,Coca-Cola France,Tea,999,6736,5773,963,3/25/2023,Manon Muller,Moselle,Metz,57102,1-3963-82789-443
+Coffee,Pernod Ricard Soft,Coffee,222,2885,2851,34,9/28/2022,Hugo David,Ardennes,Charleville-Mézières,08928,0-4076-95037-134
+Beer,Coca-Cola France,Alcoholic,294,1410,1305,105,6/15/2022,Julien David,Ariège,Foix,09840,1-2743-32359-859
+Vodka,Orangina-Schweppes,Alcoholic,573,1540,1738,-198,4/14/2022,Louis Roux,Savoie,Chambéry,73645,1-7194-51471-18
+Lemonade,Pernod Ricard Soft,Soft Drink,646,9176,9847,-671,12/7/2022,Mathis Laurent,Haute-Vienne,Limoges,87582,0-9127-20031-940
+Herbal Tea,Coca-Cola France,Tea,232,5969,4582,1387,3/8/2020,Léa Morel,Lozère,Mende,48675,1-2789-74419-442
+Vodka,Pernod Ricard Soft,Alcoholic,238,3843,4181,-338,10/13/2023,Arthur Lefevre,Haute-Loire,Le Puy-en-Velay,43823,1-1579-61717-15
+Lemonade,Pernod Ricard Soft,Soft Drink,623,8370,4363,4007,11/6/2021,Arthur Fournier,Maine-et-Loire,Angers,49003,1-7933-67154-414
+Lemonade,Coca-Cola France,Soft Drink,671,3917,2473,1444,7/1/2021,Louise Faure,Loir-et-Cher,Blois,41695,0-2321-63948-941
+Wine,Orangina-Schweppes,Alcoholic,585,4107,3521,586,2/21/2020,Julien Roux,Rhône,Lyon,69649,1-3156-41420-669
+Coffee,Orangina-Schweppes,Coffee,879,8808,9939,-1131,10/14/2022,Marie Rousseau,Loir-et-Cher,Blois,41818,0-5872-38705-652
+Wine,Orangina-Schweppes,Alcoholic,278,11503,11700,-197,11/11/2021,Julien Bernard,Hautes-Pyrénées,Tarbes,65360,1-2968-99742-476
+Wine,Pernod Ricard Soft,Alcoholic,103,4863,5622,-759,11/1/2022,Romain Dubois,Paris,Paris,75220,1-897-16624-289
+Energy Drink,Coca-Cola France,Soft Drink,183,8129,8845,-716,11/25/2023,Charlotte Gauthier,Charente,Angoulême,16435,0-7544-76770-435
+Wine,Pernod Ricard Soft,Alcoholic,629,6668,5835,833,7/3/2022,Charlotte Dupont,Yonne,Auxerre,89720,0-4109-15798-412
+Beer,Pernod Ricard Soft,Alcoholic,467,10317,4343,5974,9/9/2023,Lucie Martin,Manche,Saint-Lô,50184,1-5162-54541-360
+Cola,Coca-Cola France,Soft Drink,931,2439,1005,1434,7/19/2021,Océane Petit,Meuse,Bar-le-Duc,55405,0-246-15504-596
+Black Tea,Coca-Cola France,Tea,204,8306,8348,-42,7/4/2023,Axel Rousseau,Hérault,Montpellier,34052,0-4475-81987-135
+Cola,Orangina-Schweppes,Soft Drink,476,7138,3485,3653,12/7/2022,Maxime Bernard,Tarn-et-Garonne,Montauban,82855,0-3026-14099-207
+Energy Drink,Coca-Cola France,Soft Drink,405,5684,3175,2509,12/17/2023,Tom Lambert,Haute-Garonne,Toulouse,31747,0-3191-87489-645
+Green Tea,Orangina-Schweppes,Tea,63,10948,10405,543,9/21/2021,Julien Durand,Vosges,Épinal,88133,0-7060-24643-80
+Green Tea,Coca-Cola France,Tea,206,9180,8427,753,2/13/2020,Jade Richard,Seine-Saint-Denis,Bobigny,93906,0-6558-89668-193
+Energy Drink,Pernod Ricard Soft,Soft Drink,157,6426,3492,2934,11/9/2023,Camille Martin,Indre,Châteauroux,36122,1-8178-18745-614
+Herbal Tea,Orangina-Schweppes,Tea,330,10596,10266,330,9/21/2020,Louise Lefevre,Cantal,Aurillac,15541,0-3583-69694-485
+Herbal Tea,Coca-Cola France,Tea,147,7485,3783,3702,10/11/2021,Zoé Leroy,Haute-Loire,Le Puy-en-Velay,43145,1-2014-51060-46
+Herbal Tea,Coca-Cola France,Tea,812,8401,7376,1025,9/1/2023,Léonie Laurent,Paris,Paris,75549,0-1861-66482-138
+Wine,Pernod Ricard Soft,Alcoholic,665,9335,7437,1898,7/29/2022,Léa Muller,Orne,Alençon,61883,0-3194-84666-503
+Green Tea,Coca-Cola France,Tea,432,9869,4923,4946,7/10/2020,Inès Lefevre,Hauts-de-Seine,Nanterre,92290,0-2857-76681-843
+Vodka,Coca-Cola France,Alcoholic,426,4312,2864,1448,6/10/2020,Axel Lefevre,Essonne,Évry-Courcouronnes,91379,0-8875-34966-53
+Black Tea,Pernod Ricard Soft,Tea,683,1581,1093,488,9/26/2020,Antoine Gauthier,Loire,Saint-Étienne,42302,1-6907-33021-206
+Black Tea,Pernod Ricard Soft,Tea,793,11546,9695,1851,10/2/2022,Pierre Bernard,Manche,Saint-Lô,50369,0-7105-21485-302
+Vodka,Orangina-Schweppes,Alcoholic,72,2566,1081,1485,1/6/2020,Pierre Moreau,Nord,Lille,59307,1-2134-95696-682
+Lemonade,Pernod Ricard Soft,Soft Drink,601,2138,2184,-46,2/22/2022,Louis Simon,Ardennes,Charleville-Mézières,08061,1-4436-33321-452
+Beer,Orangina-Schweppes,Alcoholic,456,10417,6596,3821,6/14/2023,Elisa Roux,Moselle,Metz,57200,0-5287-49286-584
+Coffee,Pernod Ricard Soft,Coffee,409,4339,3522,817,10/13/2023,Raphaël Faure,Loire,Saint-Étienne,42052,0-6374-57918-477
+Coffee,Coca-Cola France,Coffee,565,9933,8767,1166,2/12/2022,Louis Martin,Seine-Saint-Denis,Bobigny,93112,0-816-27324-255
+Beer,Pernod Ricard Soft,Alcoholic,816,1002,964,38,6/6/2023,Zoé Martin,Aude,Carcassonne,11683,1-1797-27601-271
+Beer,Pernod Ricard Soft,Alcoholic,229,3349,2011,1338,12/23/2020,Baptiste Dupont,Lot,Cahors,46887,0-2259-11947-367
+Wine,Coca-Cola France,Alcoholic,194,5132,2185,2947,9/14/2023,Ethan Girard,Yonne,Auxerre,89784,0-4043-37011-69
+Energy Drink,Orangina-Schweppes,Soft Drink,688,11833,13503,-1670,11/12/2021,Mathis Faure,Val-de-Marne,Créteil,94940,0-2727-44205-519
+Herbal Tea,Orangina-Schweppes,Tea,763,3220,1941,1279,9/20/2021,Elisa Michel,Saône-et-Loire,Mâcon,71792,1-2362-96413-122
+Cola,Coca-Cola France,Soft Drink,949,707,516,191,12/24/2021,Zoé Morel,Finistère,Quimper,29009,1-4167-47655-96
+Black Tea,Orangina-Schweppes,Tea,195,11828,13098,-1270,5/14/2020,Jade Lefebvre,Haute-Saône,Vesoul,70734,1-8712-63843-788
+Cola,Pernod Ricard Soft,Soft Drink,904,4330,4881,-551,1/17/2020,Lucie Faure,Val-d'Oise,Cergy,95540,0-6718-68482-660
+Vodka,Coca-Cola France,Alcoholic,666,1790,1925,-135,11/10/2021,Clémence Rousseau,Corse-du-Sud,Ajaccio,2A634,1-6052-69314-117
+Coffee,Orangina-Schweppes,Coffee,308,8553,8575,-22,1/26/2021,Marie Michel,Pyrénées-Orientales,Perpignan,66882,0-5538-45811-128
+Beer,Coca-Cola France,Alcoholic,960,5154,2505,2649,5/20/2022,Ethan Petit,Alpes-Maritimes,Nice,06475,1-5923-43405-600
+Coffee,Coca-Cola France,Coffee,682,7313,3544,3769,4/20/2020,Antoine Leroy,Vienne,Poitiers,86401,0-9866-87693-645
+Beer,Orangina-Schweppes,Alcoholic,544,1889,2006,-117,10/21/2023,Mathis Bertrand,Seine-et-Marne,Melun,77430,1-811-79444-440
+Energy Drink,Coca-Cola France,Soft Drink,921,10232,5593,4639,9/24/2023,Liam Vincent,Lot,Cahors,46881,1-7526-73898-31
+Lemonade,Orangina-Schweppes,Soft Drink,499,6965,4359,2606,2/3/2021,Clémence Lefebvre,Bas-Rhin,Strasbourg,67099,0-5398-86072-887
+Energy Drink,Orangina-Schweppes,Soft Drink,303,10577,5938,4639,7/25/2023,Maxime Muller,Lot,Cahors,46870,0-4808-44754-49
+Beer,Orangina-Schweppes,Alcoholic,160,2406,2759,-353,7/14/2021,Marie Petit,Somme,Amiens,80587,1-6564-55237-978
+Lemonade,Pernod Ricard Soft,Soft Drink,624,8470,5676,2794,3/29/2023,Julien Fournier,Loir-et-Cher,Blois,41872,1-5731-99463-781
+Herbal Tea,Pernod Ricard Soft,Tea,171,1766,1573,193,1/13/2023,Nathan Lefevre,Vaucluse,Avignon,84493,1-5267-74532-920
+Energy Drink,Pernod Ricard Soft,Soft Drink,258,3686,2271,1415,2/23/2020,Noah Girard,Loir-et-Cher,Blois,41224,0-4702-17679-829
+Energy Drink,Orangina-Schweppes,Soft Drink,151,4248,2538,1710,4/7/2020,Léa Bernard,Loire-Atlantique,Nantes,44000,0-5369-37784-293
+Beer,Coca-Cola France,Alcoholic,510,8391,5819,2572,10/5/2021,Lucie Dubois,Haut-Rhin,Colmar,68983,0-524-34385-512
+Black Tea,Orangina-Schweppes,Tea,352,8401,6616,1785,6/8/2023,Antoine Michel,Finistère,Quimper,29438,1-1745-60444-301
+Coffee,Orangina-Schweppes,Coffee,946,2549,2913,-364,3/25/2023,Louis Lefebvre,Dordogne,Périgueux,24964,0-1345-87607-708
+Green Tea,Coca-Cola France,Tea,269,8625,4405,4220,1/21/2022,Océane Dubois,Loiret,Orléans,45238,1-5020-22046-585
+Lemonade,Orangina-Schweppes,Soft Drink,153,1284,963,321,12/1/2023,Alice Petit,Hérault,Montpellier,34029,0-2694-50730-565
+Lemonade,Pernod Ricard Soft,Soft Drink,382,5502,3765,1737,9/12/2022,Pauline Roux,Hautes-Pyrénées,Tarbes,65190,0-2355-15776-62
+Energy Drink,Pernod Ricard Soft,Soft Drink,433,5537,4770,767,1/4/2020,Jade Bernard,Landes,Mont-de-Marsan,40604,0-6459-65535-328
+Herbal Tea,Pernod Ricard Soft,Tea,453,9671,10609,-938,12/10/2022,Inès Dupont,Isère,Grenoble,38914,1-3115-17044-95
+Green Tea,Orangina-Schweppes,Tea,825,11248,7863,3385,11/26/2020,Eva Rousseau,Alpes-Maritimes,Nice,06944,0-9913-52487-501
+Black Tea,Coca-Cola France,Tea,300,11153,12427,-1274,7/26/2022,Pierre Simon,Haute-Marne,Chaumont,52883,0-1424-73908-341
+Coffee,Coca-Cola France,Coffee,502,6100,5414,686,7/22/2020,Inès Bonnet,Gard,Nîmes,30216,1-1430-30585-246
+Herbal Tea,Orangina-Schweppes,Tea,612,3936,1933,2003,5/13/2020,Arthur David,Finistère,Quimper,29075,0-2585-29555-831
+Coffee,Orangina-Schweppes,Coffee,596,4235,5035,-800,10/21/2021,Hugo Bonnet,Dordogne,Périgueux,24368,0-5433-98857-455
+Green Tea,Orangina-Schweppes,Tea,711,2250,2599,-349,1/26/2022,Baptiste Girard,Hautes-Alpes,Gap,05872,1-1907-25842-379
+Beer,Pernod Ricard Soft,Alcoholic,448,3132,1929,1203,5/25/2023,Julien Leroy,Aude,Carcassonne,11850,0-8481-90962-121
+Cola,Coca-Cola France,Soft Drink,647,6640,6277,363,3/31/2022,Théo Bonnet,Loiret,Orléans,45981,0-6085-80074-874
+Energy Drink,Coca-Cola France,Soft Drink,903,4514,4928,-414,1/3/2020,Eva Roux,Hérault,Montpellier,34423,0-3173-77952-371
+Vodka,Coca-Cola France,Alcoholic,557,3332,2827,505,9/18/2023,Léonie Bertrand,Deux-Sèvres,Niort,79385,1-2937-70249-935
+Lemonade,Pernod Ricard Soft,Soft Drink,696,9233,9841,-608,1/28/2023,Romain Richard,Aube,Troyes,10917,1-1995-73198-679
+Energy Drink,Orangina-Schweppes,Soft Drink,98,5296,2942,2354,6/16/2020,Elisa Vincent,Ain,Bourg-en-Bresse,01025,0-7043-19757-940
+Herbal Tea,Coca-Cola France,Tea,452,11814,9238,2576,2/12/2021,Marie Simon,Tarn-et-Garonne,Montauban,82292,0-1565-95498-588
+Wine,Coca-Cola France,Alcoholic,697,4878,2448,2430,3/13/2023,Manon Faure,Val-d'Oise,Cergy,95535,1-3243-98864-24
+Lemonade,Coca-Cola France,Soft Drink,470,3767,2127,1640,8/19/2021,Zoé Thomas,Maine-et-Loire,Angers,49465,0-6139-77964-12
+Energy Drink,Pernod Ricard Soft,Soft Drink,969,3004,1858,1146,11/15/2022,Baptiste Michel,Haute-Marne,Chaumont,52440,0-4740-98895-695
+Coffee,Pernod Ricard Soft,Coffee,311,1812,1482,330,2/21/2020,Louis Robert,Meurthe-et-Moselle,Nancy,54054,0-3375-44993-769
+Green Tea,Pernod Ricard Soft,Tea,363,4760,2896,1864,11/8/2023,Océane Muller,Val-de-Marne,Créteil,94335,1-3354-21062-425
+Lemonade,Pernod Ricard Soft,Soft Drink,629,1816,744,1072,10/16/2022,Alice Morel,Deux-Sèvres,Niort,79826,0-8184-41179-223
+Black Tea,Coca-Cola France,Tea,241,2933,3250,-317,1/10/2022,Elisa Durand,Aisne,Laon,02721,0-850-96673-234
+Coffee,Coca-Cola France,Coffee,661,6071,3257,2814,3/8/2022,Léa Michel,Aude,Carcassonne,11825,1-7912-87635-131
+Energy Drink,Pernod Ricard Soft,Soft Drink,535,4635,2286,2349,12/17/2020,Léonie Roux,Ain,Bourg-en-Bresse,01708,1-9961-73795-311
+Herbal Tea,Orangina-Schweppes,Tea,51,8055,8480,-425,12/26/2022,Julien Robert,Corse-du-Sud,Ajaccio,2A675,1-9107-31643-272
+Wine,Pernod Ricard Soft,Alcoholic,272,9842,10124,-282,4/11/2021,Tom Petit,Rhône,Lyon,69073,1-727-81568-206
+Green Tea,Pernod Ricard Soft,Tea,155,1135,521,614,12/8/2021,Océane Laurent,Landes,Mont-de-Marsan,40654,1-4197-69878-866
+Wine,Pernod Ricard Soft,Alcoholic,871,5982,2802,3180,5/4/2020,Nathan Lefebvre,Haute-Savoie,Annecy,74320,0-2189-18126-942
+Lemonade,Pernod Ricard Soft,Soft Drink,940,5972,6405,-433,11/25/2021,Louis Bonnet,Cher,Bourges,18547,0-9454-89388-399
+Green Tea,Coca-Cola France,Tea,406,8480,6388,2092,6/27/2021,Maxime Michel,Alpes-de-Haute-Provence,Digne-les-Bains,04923,0-4925-75767-526
+Herbal Tea,Coca-Cola France,Tea,364,10667,12072,-1405,2/25/2023,Ethan Leroy,Essonne,Évry-Courcouronnes,91570,0-6463-41831-262
+Black Tea,Coca-Cola France,Tea,147,8480,8195,285,3/17/2023,Chloé Simon,Hautes-Alpes,Gap,05743,0-8859-93665-804
+Green Tea,Orangina-Schweppes,Tea,124,2671,1110,1561,10/29/2021,Nathan Roux,Haute-Loire,Le Puy-en-Velay,43673,1-9406-77470-924
+Green Tea,Orangina-Schweppes,Tea,74,525,358,167,8/10/2021,Manon Gauthier,Maine-et-Loire,Angers,49900,1-1941-74463-174
+Lemonade,Pernod Ricard Soft,Soft Drink,470,10389,5875,4514,1/8/2020,Emma Fournier,Seine-et-Marne,Melun,77223,0-8501-69695-516
+Wine,Pernod Ricard Soft,Alcoholic,881,5843,4739,1104,7/10/2023,Léa Rousseau,Bas-Rhin,Strasbourg,67096,0-9008-52284-894
+Cola,Orangina-Schweppes,Soft Drink,459,521,240,281,12/31/2020,Léonie Simon,Marne,Châlons-en-Champagne,51362,0-9499-45268-188
+Cola,Orangina-Schweppes,Soft Drink,560,10372,9760,612,5/1/2021,Axel Girard,Oise,Beauvais,60291,1-3933-79993-245
+Herbal Tea,Coca-Cola France,Tea,216,5801,6377,-576,2/9/2023,Tom Lambert,Orne,Alençon,61866,0-4770-20993-782
+Energy Drink,Orangina-Schweppes,Soft Drink,791,2793,3120,-327,7/15/2023,Gabriel David,Isère,Grenoble,38086,1-3204-28342-37
+Black Tea,Coca-Cola France,Tea,244,1974,2169,-195,9/17/2021,Lucas David,Charente,Angoulême,16829,1-5667-39555-430
+Black Tea,Coca-Cola France,Tea,624,1203,1364,-161,6/7/2020,Noah Vincent,Marne,Châlons-en-Champagne,51494,0-8099-85527-840
+Cola,Orangina-Schweppes,Soft Drink,515,3478,1706,1772,9/13/2022,Antoine Robert,Orne,Alençon,61747,1-7717-77757-81
+Green Tea,Pernod Ricard Soft,Tea,948,4973,4564,409,4/21/2022,Hugo Dubois,Paris,Paris,75044,0-9496-87640-165
+Beer,Orangina-Schweppes,Alcoholic,557,8587,4011,4576,8/16/2022,Mathis Thomas,Somme,Amiens,80928,1-5021-29478-131
+Cola,Coca-Cola France,Soft Drink,581,4991,4736,255,8/13/2023,Antoine Fournier,Marne,Châlons-en-Champagne,51600,1-1328-12857-67
+Vodka,Orangina-Schweppes,Alcoholic,693,11328,11258,70,2/19/2021,Inès Thomas,Haute-Marne,Chaumont,52181,1-8127-52584-888
+Vodka,Pernod Ricard Soft,Alcoholic,313,4175,4116,59,1/24/2023,Camille Robert,Puy-de-Dôme,Clermont-Ferrand,63006,1-491-40539-555
+Energy Drink,Pernod Ricard Soft,Soft Drink,145,2309,1766,543,6/4/2021,Mathis Lambert,Corrèze,Tulle,19146,0-1256-92518-751
+Black Tea,Pernod Ricard Soft,Tea,655,5388,4089,1299,12/11/2020,Zoé Faure,Alpes-Maritimes,Nice,06230,0-1330-58110-860
+Lemonade,Orangina-Schweppes,Soft Drink,178,7683,6573,1110,3/13/2022,Théo Simon,Doubs,Besançon,25008,0-7174-64484-869
+Herbal Tea,Pernod Ricard Soft,Tea,471,6039,3593,2446,8/9/2022,Elisa Girard,Drôme,Valence,26684,1-5611-13761-507
+Black Tea,Coca-Cola France,Tea,650,10506,5305,5201,9/24/2023,Tom Muller,Haute-Vienne,Limoges,87376,0-8121-68385-907
+Energy Drink,Orangina-Schweppes,Soft Drink,637,6742,6116,626,12/8/2023,Pauline Gauthier,Vaucluse,Avignon,84927,0-1535-23606-92
+Beer,Coca-Cola France,Alcoholic,361,4154,3449,705,3/21/2020,Clémence Lefebvre,Haute-Garonne,Toulouse,31528,0-3210-48165-451
+Black Tea,Pernod Ricard Soft,Tea,138,8348,7628,720,3/17/2020,Elisa Lefebvre,Aude,Carcassonne,11080,0-5578-55603-901
+Herbal Tea,Coca-Cola France,Tea,264,3451,2184,1267,10/23/2020,Inès Durand,Yonne,Auxerre,89823,0-249-57477-744
+Coffee,Coca-Cola France,Coffee,978,9180,5582,3598,11/1/2021,Inès Roux,Côtes-d'Armor,Saint-Brieuc,22334,1-6311-46471-771
+Coffee,Coca-Cola France,Coffee,303,6379,6642,-263,8/2/2021,Noah Vincent,Eure,Évreux,27056,0-9064-88943-391
+Green Tea,Coca-Cola France,Tea,966,4296,3366,930,11/20/2022,Eva Lambert,Hautes-Pyrénées,Tarbes,65127,1-327-90777-195
+Energy Drink,Pernod Ricard Soft,Soft Drink,301,10582,11235,-653,12/3/2020,Théo Vincent,Var,Toulon,83380,1-3290-45378-112
+Lemonade,Pernod Ricard Soft,Soft Drink,196,1382,1261,121,4/19/2023,Maxime Leroy,Pas-de-Calais,Arras,62906,0-2139-60439-955
+Herbal Tea,Coca-Cola France,Tea,789,6131,6252,-121,7/4/2022,Antoine Lefebvre,Hautes-Pyrénées,Tarbes,65628,1-7698-92799-980
+Wine,Pernod Ricard Soft,Alcoholic,268,7918,5243,2675,4/7/2023,Chloé Muller,Haute-Garonne,Toulouse,31797,1-7543-22843-151
+Energy Drink,Orangina-Schweppes,Soft Drink,197,8838,7720,1118,9/19/2023,Hugo Thomas,Côtes-d'Armor,Saint-Brieuc,22658,1-2323-70515-187
+Wine,Pernod Ricard Soft,Alcoholic,967,8333,5087,3246,1/29/2022,Antoine Girard,Aube,Troyes,10038,1-6664-90473-672
+Energy Drink,Coca-Cola France,Soft Drink,969,10388,11017,-629,4/28/2023,Lucie Simon,Doubs,Besançon,25872,0-1519-46559-903
+Coffee,Pernod Ricard Soft,Coffee,88,7843,6602,1241,7/9/2020,Manon Muller,Ille-et-Vilaine,Rennes,35934,0-7660-25396-664
+Black Tea,Coca-Cola France,Tea,874,1880,1654,226,1/11/2020,Emma Bertrand,Orne,Alençon,61759,1-2092-35276-621
+Herbal Tea,Coca-Cola France,Tea,237,8568,4047,4521,11/17/2023,Liam Lefevre,Hauts-de-Seine,Nanterre,92229,0-5723-59415-933
+Cola,Coca-Cola France,Soft Drink,899,2375,1007,1368,8/23/2020,Pierre Laurent,Ardennes,Charleville-Mézières,08450,0-9695-57174-45
+Lemonade,Pernod Ricard Soft,Soft Drink,347,9136,9309,-173,8/8/2021,Romain Richard,Manche,Saint-Lô,50432,1-993-77760-926
+Cola,Orangina-Schweppes,Soft Drink,201,1455,1234,221,6/11/2021,Gabriel Martin,Lot,Cahors,46421,0-5852-99074-987
+Black Tea,Pernod Ricard Soft,Tea,543,2133,1290,843,7/14/2020,Clémence Bernard,Meurthe-et-Moselle,Nancy,54053,1-3947-71726-931
+Green Tea,Coca-Cola France,Tea,265,11921,6048,5873,5/26/2020,Hugo Robert,Indre,Châteauroux,36738,1-7255-27796-87
+Herbal Tea,Orangina-Schweppes,Tea,122,8193,5798,2395,4/7/2021,Léa Leroy,Haute-Saône,Vesoul,70619,0-9568-75294-868
+Black Tea,Coca-Cola France,Tea,269,10057,9932,125,9/4/2020,Zoé Dupont,Bouches-du-Rhône,Marseille,13848,1-8233-21829-244
+Wine,Orangina-Schweppes,Alcoholic,653,10843,12238,-1395,5/18/2020,Léonie Leroy,Essonne,Évry-Courcouronnes,91536,0-2835-88532-281
+Wine,Orangina-Schweppes,Alcoholic,649,4167,4349,-182,10/19/2020,Jade Morel,Puy-de-Dôme,Clermont-Ferrand,63888,0-8274-22335-466
+Green Tea,Orangina-Schweppes,Tea,551,4366,2758,1608,3/5/2023,Théo Vincent,Yonne,Auxerre,89995,0-6612-74884-702
+Vodka,Pernod Ricard Soft,Alcoholic,548,5431,2264,3167,9/11/2020,Jade Dubois,Aisne,Laon,02755,1-4090-91233-82
+Energy Drink,Pernod Ricard Soft,Soft Drink,970,5968,6149,-181,11/9/2021,Raphaël Moreau,Jura,Lons-le-Saunier,39599,1-7698-25437-482
+Cola,Pernod Ricard Soft,Soft Drink,282,1636,1237,399,8/8/2023,Pauline Gauthier,Bouches-du-Rhône,Marseille,13636,0-753-99463-907
+Coffee,Pernod Ricard Soft,Coffee,677,7915,7208,707,4/1/2023,Tom Petit,Charente-Maritime,La Rochelle,17470,0-1854-28590-290
+Wine,Pernod Ricard Soft,Alcoholic,778,10333,6749,3584,5/17/2022,Léonie Dupont,Yonne,Auxerre,89252,1-2474-57578-487
+Lemonade,Pernod Ricard Soft,Soft Drink,947,10770,7448,3322,1/8/2021,Eva Vincent,Lot-et-Garonne,Agen,47275,0-7285-96019-860
+Energy Drink,Coca-Cola France,Soft Drink,690,11611,6987,4624,6/16/2020,Léonie Martin,Creuse,Guéret,23767,0-5833-39389-666
+Black Tea,Pernod Ricard Soft,Tea,167,1519,1429,90,8/5/2021,Noah Bernard,Lozère,Mende,48028,0-2200-58026-358
+Lemonade,Coca-Cola France,Soft Drink,70,9338,9315,23,5/27/2022,Océane Lefebvre,Alpes-de-Haute-Provence,Digne-les-Bains,04370,0-2366-76784-506
+Black Tea,Coca-Cola France,Tea,957,2187,1134,1053,9/15/2020,Lucie Girard,Lozère,Mende,48648,1-6340-88301-544
+Vodka,Coca-Cola France,Alcoholic,117,6327,6730,-403,4/1/2023,Axel Thomas,Drôme,Valence,26826,1-6683-87187-47
+Herbal Tea,Coca-Cola France,Tea,434,10537,11210,-673,7/14/2022,Antoine Fontaine,Charente-Maritime,La Rochelle,17512,0-3045-86735-961
+Green Tea,Coca-Cola France,Tea,568,11993,13592,-1599,9/27/2021,Arthur Robert,Nièvre,Nevers,58609,0-5172-83259-386
+Lemonade,Orangina-Schweppes,Soft Drink,311,10533,5179,5354,10/6/2020,Noah Dupont,Aisne,Laon,02766,1-8042-70470-70
+Green Tea,Coca-Cola France,Tea,323,11904,7746,4158,4/28/2020,Lucas Roux,Somme,Amiens,80280,0-2862-85534-783
+Beer,Pernod Ricard Soft,Alcoholic,783,3724,1606,2118,3/18/2023,Pierre Bernard,Charente,Angoulême,16170,1-3049-77717-982
+Lemonade,Pernod Ricard Soft,Soft Drink,428,5416,4982,434,1/25/2022,Nathan Thomas,Vaucluse,Avignon,84906,0-6835-49522-786
+Energy Drink,Coca-Cola France,Soft Drink,209,9587,7104,2483,8/9/2020,Alice Lambert,Lot-et-Garonne,Agen,47931,1-1304-20589-330
+Wine,Pernod Ricard Soft,Alcoholic,816,4785,3713,1072,12/25/2022,Eva Faure,Bas-Rhin,Strasbourg,67299,1-6131-98251-969
+Wine,Orangina-Schweppes,Alcoholic,989,1459,1355,104,4/29/2022,Liam Fontaine,Essonne,Évry-Courcouronnes,91116,1-7944-72786-216
+Vodka,Coca-Cola France,Alcoholic,661,3884,1906,1978,1/28/2021,Hugo Dubois,Marne,Châlons-en-Champagne,51816,1-7704-73620-574
+Energy Drink,Orangina-Schweppes,Soft Drink,414,9542,7647,1895,11/30/2023,Julien Rousseau,Ariège,Foix,09138,1-9263-35966-500
+Herbal Tea,Coca-Cola France,Tea,855,8242,7429,813,7/2/2023,Tom Lefevre,Haute-Marne,Chaumont,52651,0-1407-48420-88
+Black Tea,Pernod Ricard Soft,Tea,810,7664,3370,4294,6/16/2020,Lucie Roux,Haute-Marne,Chaumont,52677,1-8057-89570-453
+Vodka,Orangina-Schweppes,Alcoholic,366,2395,2213,182,11/18/2020,Antoine Moreau,Lot,Cahors,46798,1-5885-97773-405
+Cola,Pernod Ricard Soft,Soft Drink,776,7714,3161,4553,10/20/2023,Zoé Rousseau,Var,Toulon,83761,0-5642-78039-536
+Herbal Tea,Orangina-Schweppes,Tea,319,1129,1009,120,7/11/2021,Pauline David,Bouches-du-Rhône,Marseille,13192,1-417-29942-51
+Wine,Coca-Cola France,Alcoholic,674,10747,9790,957,8/27/2021,Raphaël Girard,Vendée,La Roche-sur-Yon,85226,0-2288-72676-157
+Energy Drink,Orangina-Schweppes,Soft Drink,72,3634,3671,-37,11/15/2023,Eva Laurent,Meurthe-et-Moselle,Nancy,54333,0-9399-14221-945
+Energy Drink,Orangina-Schweppes,Soft Drink,546,5357,5048,309,11/21/2023,Julien Simon,Loir-et-Cher,Blois,41179,1-7999-18849-344
+Vodka,Coca-Cola France,Alcoholic,666,5203,4482,721,8/23/2023,Eva Richard,Seine-et-Marne,Melun,77799,1-5918-52610-690
+Lemonade,Pernod Ricard Soft,Soft Drink,932,6213,5934,279,10/2/2022,Chloé Petit,Rhône,Lyon,69138,0-7506-32630-921
+Green Tea,Orangina-Schweppes,Tea,762,5894,3027,2867,4/22/2023,Ethan Bernard,Alpes-de-Haute-Provence,Digne-les-Bains,04959,1-4744-38256-188
+Energy Drink,Coca-Cola France,Soft Drink,664,11784,5013,6771,7/10/2020,Inès Dubois,Ain,Bourg-en-Bresse,01517,0-9295-36062-734
+Herbal Tea,Coca-Cola France,Tea,158,732,430,302,3/20/2021,Théo Robert,Yonne,Auxerre,89515,1-3936-85511-327
+Energy Drink,Pernod Ricard Soft,Soft Drink,88,9405,7741,1664,4/1/2021,Lucas Rousseau,Vosges,Épinal,88023,1-7685-98276-737
+Cola,Pernod Ricard Soft,Soft Drink,985,3223,2684,539,10/5/2023,Axel Fontaine,Manche,Saint-Lô,50284,0-2813-13251-586
+Wine,Pernod Ricard Soft,Alcoholic,124,5173,3699,1474,11/25/2021,Clémence Michel,Seine-Maritime,Rouen,76773,0-3361-88966-522
+Herbal Tea,Pernod Ricard Soft,Tea,700,7923,5884,2039,12/28/2020,Clémence Girard,Côtes-d'Armor,Saint-Brieuc,22166,1-6351-47359-866
+Herbal Tea,Coca-Cola France,Tea,926,8845,10212,-1367,9/14/2020,Axel Bonnet,Ain,Bourg-en-Bresse,01992,0-697-38655-764
+Energy Drink,Orangina-Schweppes,Soft Drink,317,3051,1447,1604,11/17/2022,Liam Roux,Meuse,Bar-le-Duc,55692,0-2640-74922-540
+Wine,Pernod Ricard Soft,Alcoholic,668,1187,1249,-62,11/26/2023,Chloé Lefevre,Dordogne,Périgueux,24027,0-7982-95016-149
+Beer,Orangina-Schweppes,Alcoholic,615,6075,5898,177,8/27/2023,Baptiste Rousseau,Haute-Savoie,Annecy,74771,0-2022-33680-883
+Cola,Coca-Cola France,Soft Drink,955,9146,6926,2220,6/27/2021,Inès Dubois,Seine-Saint-Denis,Bobigny,93709,0-5842-43640-806
+Beer,Coca-Cola France,Alcoholic,772,7622,5203,2419,4/14/2020,Mathis David,Charente,Angoulême,16388,0-6215-24841-347
+Herbal Tea,Coca-Cola France,Tea,695,11752,7988,3764,4/11/2021,Manon Martin,Calvados,Caen,14675,0-6628-53025-286
+Cola,Coca-Cola France,Soft Drink,922,3414,1562,1852,3/27/2020,Mathis Martin,Mayenne,Laval,53470,0-5229-85465-440
+Wine,Coca-Cola France,Alcoholic,492,3915,3752,163,3/20/2021,Alice Leroy,Indre-et-Loire,Tours,37780,0-6141-20031-774
+Cola,Orangina-Schweppes,Soft Drink,813,5219,2351,2868,7/14/2021,Pierre Rousseau,Côtes-d'Armor,Saint-Brieuc,22425,0-6160-82536-169
+Green Tea,Pernod Ricard Soft,Tea,100,9406,6151,3255,2/15/2023,Eva Fontaine,Sarthe,Le Mans,72121,0-5303-29073-745
+Green Tea,Orangina-Schweppes,Tea,280,3280,3791,-511,8/28/2020,Louise Bonnet,Oise,Beauvais,60346,1-2534-92178-740
+Beer,Pernod Ricard Soft,Alcoholic,398,11628,13024,-1396,8/10/2022,Tom Thomas,Tarn-et-Garonne,Montauban,82184,0-6603-66769-205
+Lemonade,Coca-Cola France,Soft Drink,336,3874,2431,1443,12/25/2022,Lucie Leroy,Vosges,Épinal,88192,0-3088-27907-297
+Herbal Tea,Pernod Ricard Soft,Tea,135,4250,4663,-413,7/29/2021,Raphaël Gauthier,Cantal,Aurillac,15440,1-4412-90338-850
+Coffee,Pernod Ricard Soft,Coffee,673,8889,10086,-1197,8/2/2023,Raphaël Lambert,Hérault,Montpellier,34796,0-6952-70003-188
+Herbal Tea,Pernod Ricard Soft,Tea,504,2346,2369,-23,1/7/2023,Antoine Vincent,Yonne,Auxerre,89897,0-8925-14056-914
+Vodka,Pernod Ricard Soft,Alcoholic,653,6085,5039,1046,3/17/2020,Léa Leroy,Tarn-et-Garonne,Montauban,82903,0-695-62034-807
+Beer,Orangina-Schweppes,Alcoholic,273,10016,6401,3615,12/7/2023,Clémence Lefevre,Yonne,Auxerre,89321,0-3391-37487-640
+Beer,Coca-Cola France,Alcoholic,689,4996,4383,613,7/24/2020,Chloé Laurent,Eure-et-Loir,Chartres,28232,1-3039-49618-15
+Vodka,Pernod Ricard Soft,Alcoholic,590,9679,3888,5791,12/28/2021,Marie Morel,Aude,Carcassonne,11534,1-1841-16000-919
+Cola,Orangina-Schweppes,Soft Drink,487,9365,5168,4197,11/22/2020,Alice Bertrand,Paris,Paris,75478,1-5155-75191-24
+Lemonade,Coca-Cola France,Soft Drink,564,11435,9640,1795,3/27/2020,Jade Muller,Lozère,Mende,48599,1-8195-83306-758
+Wine,Coca-Cola France,Alcoholic,405,7647,6517,1130,3/27/2021,Marie Bernard,Côte-d'Or,Dijon,21281,0-8908-47836-173
+Lemonade,Coca-Cola France,Soft Drink,496,11174,9777,1397,11/4/2022,Louise Morel,Seine-et-Marne,Melun,77501,1-7880-12180-378
+Cola,Coca-Cola France,Soft Drink,886,5678,5561,117,5/28/2021,Nathan David,Lozère,Mende,48723,1-9259-48628-556
+Vodka,Coca-Cola France,Alcoholic,642,4536,2807,1729,12/3/2021,Marie Roux,Seine-et-Marne,Melun,77824,0-2363-64099-617
+Beer,Pernod Ricard Soft,Alcoholic,267,5738,5734,4,4/30/2022,Tom Rousseau,Côtes-d'Armor,Saint-Brieuc,22653,1-7615-97194-438
+Lemonade,Coca-Cola France,Soft Drink,181,1824,2138,-314,8/18/2022,Chloé Michel,Oise,Beauvais,60694,1-7664-46932-797
+Black Tea,Orangina-Schweppes,Tea,737,1429,616,813,7/5/2020,Marie Bonnet,Nord,Lille,59902,1-5781-48987-401
+Energy Drink,Orangina-Schweppes,Soft Drink,480,4654,1965,2689,1/30/2020,Liam Muller,Allier,Moulins,03196,0-3713-22661-817
+Lemonade,Coca-Cola France,Soft Drink,408,9974,4343,5631,6/12/2022,Lucas Bertrand,Cantal,Aurillac,15947,0-6067-66531-72
+Coffee,Pernod Ricard Soft,Coffee,97,4758,5660,-902,10/4/2022,Lucas Petit,Jura,Lons-le-Saunier,39071,1-8700-64636-671
+Vodka,Pernod Ricard Soft,Alcoholic,151,2543,2868,-325,6/20/2020,Marie Girard,Orne,Alençon,61897,1-4323-34775-6
+Coffee,Coca-Cola France,Coffee,412,3219,2138,1081,12/24/2023,Pierre Bernard,Gers,Auch,32157,1-9879-16665-793
+Wine,Pernod Ricard Soft,Alcoholic,935,8573,7097,1476,8/6/2023,Pauline Thomas,Maine-et-Loire,Angers,49774,0-1289-56884-951
+Green Tea,Pernod Ricard Soft,Tea,587,3306,2640,666,8/20/2021,Louise Lambert,Ille-et-Vilaine,Rennes,35279,1-8005-71894-250
+Coffee,Orangina-Schweppes,Coffee,489,771,694,77,5/24/2021,Manon Lambert,Allier,Moulins,03898,1-5213-26899-106
+Herbal Tea,Orangina-Schweppes,Tea,661,7174,5473,1701,6/23/2022,Antoine Girard,Paris,Paris,75614,0-4109-81741-285
+Cola,Pernod Ricard Soft,Soft Drink,732,6345,7611,-1266,5/5/2021,Raphaël Dupont,Haute-Vienne,Limoges,87408,1-1037-56665-895
+Lemonade,Pernod Ricard Soft,Soft Drink,557,1714,852,862,5/3/2021,Ethan Bonnet,Puy-de-Dôme,Clermont-Ferrand,63812,1-1129-24530-857
+Black Tea,Coca-Cola France,Tea,781,9159,7907,1252,5/5/2022,Marie Robert,Val-de-Marne,Créteil,94200,1-3868-59786-584
+Beer,Coca-Cola France,Alcoholic,642,6118,5686,432,9/23/2022,Pierre Durand,Ardennes,Charleville-Mézières,08303,0-1058-85914-754
+Lemonade,Pernod Ricard Soft,Soft Drink,518,11630,8948,2682,3/18/2020,Théo Michel,Morbihan,Vannes,56851,1-1357-94497-885
+Energy Drink,Pernod Ricard Soft,Soft Drink,615,6354,4235,2119,10/4/2023,Tom Lefevre,Gironde,Bordeaux,33164,1-6844-74942-296
+Coffee,Orangina-Schweppes,Coffee,562,3986,4117,-131,3/26/2020,Noah Gauthier,Hautes-Pyrénées,Tarbes,65317,1-8997-72049-260
+Herbal Tea,Orangina-Schweppes,Tea,327,10776,10490,286,3/18/2020,Antoine Thomas,Alpes-de-Haute-Provence,Digne-les-Bains,04055,0-4227-83149-73
+Beer,Orangina-Schweppes,Alcoholic,195,7500,7920,-420,3/1/2021,Théo Richard,Deux-Sèvres,Niort,79151,0-5818-14813-149
+Herbal Tea,Pernod Ricard Soft,Tea,855,11620,5242,6378,3/28/2022,Charlotte Vincent,Charente-Maritime,La Rochelle,17252,1-9426-74350-472
+Vodka,Orangina-Schweppes,Alcoholic,731,11317,6942,4375,12/7/2023,Tom Lefebvre,Bouches-du-Rhône,Marseille,13893,0-7811-39154-205
+Herbal Tea,Orangina-Schweppes,Tea,312,9574,10896,-1322,7/20/2021,Mathis Lambert,Ardennes,Charleville-Mézières,08925,1-4316-31229-800
+Black Tea,Coca-Cola France,Tea,833,5780,4223,1557,6/25/2023,Camille Morel,Marne,Châlons-en-Champagne,51162,1-6388-18658-349
+Black Tea,Coca-Cola France,Tea,891,4148,4776,-628,5/10/2023,Nathan Martin,Loiret,Orléans,45259,1-5056-61733-688
+Cola,Coca-Cola France,Soft Drink,792,1363,1386,-23,7/28/2023,Sarah Richard,Aveyron,Rodez,12759,1-9138-66057-575
+Cola,Coca-Cola France,Soft Drink,232,3483,2806,677,12/14/2020,Clémence Richard,Oise,Beauvais,60300,0-7813-26769-759
+Vodka,Pernod Ricard Soft,Alcoholic,554,1931,1815,116,5/27/2021,Jade Fontaine,Loire,Saint-Étienne,42835,1-3223-89171-142
+Black Tea,Orangina-Schweppes,Tea,582,882,996,-114,7/8/2022,Louis Bertrand,Allier,Moulins,03655,0-8348-87000-722
+Beer,Orangina-Schweppes,Alcoholic,52,5626,4255,1371,4/23/2020,Romain Robert,Vienne,Poitiers,86525,1-7584-83912-60
+Beer,Coca-Cola France,Alcoholic,818,11382,6967,4415,12/15/2021,Maxime Faure,Aube,Troyes,10250,1-4769-30676-449
+Wine,Orangina-Schweppes,Alcoholic,269,2474,2519,-45,10/3/2021,Liam Muller,Seine-Maritime,Rouen,76598,1-3965-65426-224
+Lemonade,Coca-Cola France,Soft Drink,326,11401,8000,3401,5/23/2023,Charlotte Bernard,Hauts-de-Seine,Nanterre,92894,0-3182-87015-742
+Black Tea,Pernod Ricard Soft,Tea,635,11871,10387,1484,12/11/2022,Nathan Bertrand,Val-d'Oise,Cergy,95111,1-7585-15559-899
+Green Tea,Coca-Cola France,Tea,303,9132,10108,-976,4/21/2021,Marie Durand,Puy-de-Dôme,Clermont-Ferrand,63001,0-492-70933-641
+Wine,Pernod Ricard Soft,Alcoholic,61,5260,5907,-647,9/19/2022,Charlotte Morel,Territoire de Belfort,Belfort,90090,0-3358-75621-990
+Green Tea,Pernod Ricard Soft,Tea,403,1072,453,619,6/20/2021,Camille Girard,Haute-Marne,Chaumont,52461,0-6156-86402-701
+Wine,Coca-Cola France,Alcoholic,983,8732,6102,2630,9/18/2023,Arthur Fournier,Lot,Cahors,46103,1-5044-52284-140
+Herbal Tea,Orangina-Schweppes,Tea,574,11147,9374,1773,2/24/2022,Chloé Gauthier,Ille-et-Vilaine,Rennes,35613,0-1243-46208-792
+Coffee,Pernod Ricard Soft,Coffee,715,5257,4669,588,12/2/2020,Axel Michel,Sarthe,Le Mans,72739,0-2580-63963-631
+Beer,Orangina-Schweppes,Alcoholic,166,7144,4369,2775,11/5/2023,Liam Gauthier,Vaucluse,Avignon,84464,0-3865-59572-395
+Wine,Orangina-Schweppes,Alcoholic,981,3047,3214,-167,2/5/2020,Léonie Michel,Ardennes,Charleville-Mézières,08319,1-2377-67925-912
+Coffee,Orangina-Schweppes,Coffee,280,6092,2998,3094,6/18/2021,Léa Fournier,Calvados,Caen,14985,1-726-24208-611
+Coffee,Coca-Cola France,Coffee,918,11471,5277,6194,7/29/2023,Arthur Michel,Bas-Rhin,Strasbourg,67525,0-610-28714-870
+Black Tea,Coca-Cola France,Tea,319,10673,8998,1675,4/20/2023,Manon Martin,Haute-Corse,Bastia,2B072,0-3850-18834-928
+Wine,Orangina-Schweppes,Alcoholic,341,5288,4429,859,7/9/2020,Liam Girard,Seine-Saint-Denis,Bobigny,93628,1-607-66534-966
+Green Tea,Pernod Ricard Soft,Tea,437,1554,1137,417,1/2/2021,Pauline Fontaine,Yvelines,Versailles,78442,1-6402-96386-188
+Black Tea,Coca-Cola France,Tea,713,8150,4282,3868,7/30/2023,Pauline Faure,Indre-et-Loire,Tours,37174,0-1516-63961-878
+Vodka,Coca-Cola France,Alcoholic,717,5458,3931,1527,4/24/2020,Manon Lefebvre,Cantal,Aurillac,15188,0-7774-72575-321
+Cola,Coca-Cola France,Soft Drink,148,9496,10899,-1403,2/22/2021,Noah Dubois,Aube,Troyes,10271,1-2244-98039-661
+Herbal Tea,Coca-Cola France,Tea,426,8104,8151,-47,3/28/2020,Chloé Petit,Allier,Moulins,03033,0-7785-25587-931
+Herbal Tea,Pernod Ricard Soft,Tea,353,1848,1556,292,5/14/2020,Léonie Martin,Landes,Mont-de-Marsan,40417,0-405-45279-568
+Vodka,Pernod Ricard Soft,Alcoholic,74,3863,2297,1566,12/15/2020,Antoine Petit,Rhône,Lyon,69445,0-2725-52795-925
+Herbal Tea,Pernod Ricard Soft,Tea,499,3395,2950,445,3/17/2020,Marie Richard,Lozère,Mende,48155,1-1390-92044-96
+Coffee,Pernod Ricard Soft,Coffee,830,2204,1514,690,7/15/2022,Tom Girard,Rhône,Lyon,69888,0-9295-60972-244
+Green Tea,Coca-Cola France,Tea,837,10265,9414,851,1/5/2020,Charlotte David,Vosges,Épinal,88004,0-2943-64154-570
+Lemonade,Pernod Ricard Soft,Soft Drink,526,5024,2876,2148,5/3/2020,Arthur Bertrand,Aisne,Laon,02293,1-7039-62727-85
+Lemonade,Coca-Cola France,Soft Drink,876,5083,2731,2352,6/16/2021,Manon David,Cantal,Aurillac,15380,1-875-29443-362
+Green Tea,Pernod Ricard Soft,Tea,596,8183,6886,1297,11/16/2020,Lucas Leroy,Gard,Nîmes,30461,1-4871-14278-238
+Herbal Tea,Orangina-Schweppes,Tea,166,5593,5784,-191,2/17/2021,Marie Dupont,Pyrénées-Orientales,Perpignan,66509,1-8370-44296-556
+Vodka,Orangina-Schweppes,Alcoholic,540,9254,4316,4938,1/26/2020,Ethan Durand,Puy-de-Dôme,Clermont-Ferrand,63135,1-4946-41334-664
+Cola,Pernod Ricard Soft,Soft Drink,872,4235,4321,-86,2/18/2022,Romain Morel,Seine-Saint-Denis,Bobigny,93664,1-5153-44283-369
+Beer,Coca-Cola France,Alcoholic,829,11236,13263,-2027,11/9/2021,Marie David,Ain,Bourg-en-Bresse,01917,1-9499-97410-151
+Cola,Orangina-Schweppes,Soft Drink,353,3624,1512,2112,11/13/2023,Lucie Gauthier,Eure,Évreux,27566,0-1644-14946-472
+Energy Drink,Pernod Ricard Soft,Soft Drink,417,7196,4270,2926,3/12/2022,Chloé Girard,Savoie,Chambéry,73659,1-945-85740-440
+Energy Drink,Coca-Cola France,Soft Drink,625,4129,1986,2143,9/8/2022,Elisa Bonnet,Rhône,Lyon,69776,0-2764-69151-76
+Vodka,Pernod Ricard Soft,Alcoholic,775,555,560,-5,10/25/2023,Charlotte Lefevre,Vendée,La Roche-sur-Yon,85806,0-8709-68556-541
+Energy Drink,Orangina-Schweppes,Soft Drink,798,9888,7823,2065,10/11/2022,Julien Simon,Calvados,Caen,14769,1-8322-60967-135
+Herbal Tea,Coca-Cola France,Tea,205,4083,1762,2321,8/10/2021,Arthur Leroy,Sarthe,Le Mans,72877,0-7322-58068-525
+Beer,Orangina-Schweppes,Alcoholic,456,10178,12104,-1926,5/15/2020,Océane Rousseau,Oise,Beauvais,60384,0-208-63668-655
+Lemonade,Coca-Cola France,Soft Drink,405,9441,7483,1958,11/12/2022,Lucie Lefebvre,Savoie,Chambéry,73227,0-987-78909-819
+Green Tea,Pernod Ricard Soft,Tea,397,9837,8227,1610,10/19/2021,Tom Thomas,Bas-Rhin,Strasbourg,67335,1-5121-68447-618
+Beer,Coca-Cola France,Alcoholic,271,10259,6578,3681,2/21/2020,Arthur Gauthier,Corrèze,Tulle,19511,0-7604-51971-160
+Herbal Tea,Pernod Ricard Soft,Tea,291,5281,3903,1378,11/21/2023,Ethan Girard,Landes,Mont-de-Marsan,40812,1-2364-95715-944
+Energy Drink,Coca-Cola France,Soft Drink,836,3986,3198,788,5/7/2022,Emma Muller,Orne,Alençon,61204,0-4196-16839-657
+Energy Drink,Coca-Cola France,Soft Drink,90,4286,4102,184,12/6/2020,Charlotte Lefebvre,Dordogne,Périgueux,24221,1-3536-35055-996
+Coffee,Pernod Ricard Soft,Coffee,825,6090,3645,2445,4/4/2020,Zoé Faure,Meurthe-et-Moselle,Nancy,54801,1-8850-68316-144
+Energy Drink,Orangina-Schweppes,Soft Drink,165,2363,1267,1096,2/6/2022,Léa Lambert,Indre,Châteauroux,36137,0-8070-33853-515
+Herbal Tea,Orangina-Schweppes,Tea,994,3093,2841,252,1/16/2021,Lucas Fontaine,Var,Toulon,83345,1-9402-98395-776
+Energy Drink,Pernod Ricard Soft,Soft Drink,877,1185,1087,98,3/16/2020,Chloé Richard,Meuse,Bar-le-Duc,55279,0-577-43868-809
+Coffee,Pernod Ricard Soft,Coffee,916,3300,3574,-274,10/23/2021,Mathis Lefevre,Var,Toulon,83416,1-2094-99151-531
+Black Tea,Orangina-Schweppes,Tea,124,9496,5460,4036,12/14/2022,Léonie Martin,Finistère,Quimper,29339,0-2237-54663-735
+Energy Drink,Orangina-Schweppes,Soft Drink,790,2757,1375,1382,9/25/2022,Lucas Robert,Cher,Bourges,18787,1-3804-71695-405
+Energy Drink,Orangina-Schweppes,Soft Drink,403,4174,4435,-261,6/16/2020,Antoine Bernard,Essonne,Évry-Courcouronnes,91435,0-7902-38152-457
+Vodka,Coca-Cola France,Alcoholic,674,11136,5729,5407,7/8/2021,Zoé Roux,Cantal,Aurillac,15421,0-2959-90024-709
+Green Tea,Coca-Cola France,Tea,763,11663,9318,2345,3/7/2021,Ethan Lambert,Lot,Cahors,46770,1-6081-62506-287
+Cola,Coca-Cola France,Soft Drink,492,6454,3982,2472,6/8/2020,Elisa Michel,Mayenne,Laval,53122,0-3038-39253-824
+Wine,Pernod Ricard Soft,Alcoholic,689,4100,2859,1241,8/21/2023,Emma Bernard,Gers,Auch,32405,1-3936-66260-672
+Coffee,Pernod Ricard Soft,Coffee,978,2449,1294,1155,7/26/2023,Lucas Vincent,Yonne,Auxerre,89093,0-7827-88675-446
+Wine,Pernod Ricard Soft,Alcoholic,304,3698,3081,617,8/7/2021,Pierre Richard,Bouches-du-Rhône,Marseille,13261,0-2626-50212-976
+Green Tea,Coca-Cola France,Tea,168,5624,3314,2310,10/8/2022,Hugo Michel,Haute-Saône,Vesoul,70567,1-7757-82305-133
+Beer,Coca-Cola France,Alcoholic,82,9598,4933,4665,1/11/2021,Manon Girard,Tarn-et-Garonne,Montauban,82854,1-3283-25023-186
+Lemonade,Orangina-Schweppes,Soft Drink,139,7514,7283,231,5/8/2023,Théo Rousseau,Pyrénées-Orientales,Perpignan,66839,0-8199-67536-11
+Lemonade,Orangina-Schweppes,Soft Drink,541,7741,4656,3085,9/6/2023,Charlotte Lefevre,Nièvre,Nevers,58153,1-1435-86380-680
