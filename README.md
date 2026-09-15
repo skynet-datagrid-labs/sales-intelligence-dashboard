@@ -16,6 +16,8 @@ A production-grade business intelligence asset synthesizing six years of transac
 | Description | *Multi-sheet Tableau workbook demonstrating advanced analytics features including LOD expressions, sets, parameters, and map-based geographic analysis. The dashboard combines region-wise profit distribution via stacked bar charts, dual-axis sales and profit trend lines across 2017–2018, and a choropleth map for territory-level performance visualization. Highlights cross-functional Tableau capability beyond standard charting.* |
 | Tableau — KPI Performance Tracker | ![View Dashboard](https://raw.githubusercontent.com/skynet-datagrid-labs/sales-intelligence-dashboard/main/assets/KPIS.gif) | 
 | Description | *Tableau dashboard delivering state-level sales intelligence across the US, featuring headline KPI cards for Sales, Profit, and Customer Count, a monthly sales trend line, product-level bar chart with average reference line, and an interactive choropleth map for geographic sales distribution.* |
+| Tableau - UK Sales KPI dashboard | ![View Dashboard](https://github.com/skynet-datagrid-labs/sales-intelligence-dashboard/blob/main/assets/UKSALESKPI.gif) | 
+| Description | *UK Sales KPI Dashboard:An interactive Tableau dashboard tracking Revenue, Profit, Units Sold, and CoGS with region, company, category, and quarter filters.* |
 
 ---
 
